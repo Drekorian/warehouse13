@@ -8,95 +8,84 @@
 
 3
 00:00:03,767 --> 00:00:05,801
-Has other things that
-belong in the warehouse,
+tak má i další vìci, které patøí Skladišti.
 
 4
 00:00:05,868 --> 00:00:08,467
-Which would mean
-that we have competition.
+Což znamená, že máme konkurenci.
 
 5
 00:00:08,534 --> 00:00:10,534
-- lattimer and bering,
-right?
+Lattimer a Beringová, že?
 
 6
 00:00:10,601 --> 00:00:15,367
-They're so raw, so untrained,
-so corruptible.
+Jsou tak syroví, tak netrénování, tak zkorumpovatelní.
 
 7
 00:00:15,434 --> 00:00:17,100
-- what about your folks?
+A co vaši?
 
 8
 00:00:17,167 --> 00:00:18,534
-- colorado springs.
+Colorado Springs.
 
 9
 00:00:18,601 --> 00:00:22,300
-They own a bookstore
-called bering & sons.
+Mají tam  knihkupectví jménem Bering & synové.
 
 10
 00:00:22,367 --> 00:00:24,501
-- well, he must be proud
-of you.
+No, musí na tebe být pyšný.
 
 11
 00:00:24,567 --> 00:00:27,033
-<i>- you ever see that movie,
-the great santini,</i>
+Vidìls nìkdy ten film Velký Santini?
 
 12
 00:00:27,100 --> 00:00:31,667
-With the tough dad
-and the scared kids?
+To s tím pøísným otcem a vydìšenýma dìckama?
 
 13
 00:00:31,734 --> 00:00:33,667
-- it's like that, huh?
+Bylo to až tak zlé, co?
 
 14
 00:00:33,734 --> 00:00:36,601
-- yeah, except it wasn't over
-in two hours.
+Jo, až na to, že to neskonèilo za dvì hodiny.
 
 15
 00:01:10,167 --> 00:01:12,467
-- oh, my.
+No páni.
 
 16
 00:01:22,033 --> 00:01:24,601
-- myka?
-- artie, i'm here.
+- Myko?
+- Artie, jsem tady.
 
 17
 00:01:24,667 --> 00:01:27,934
-In macpherson's apartment.
+V MacPhersonovì bytì.
 
 18
 00:01:28,000 --> 00:01:29,501
-- myka, be careful.
+Myka, buï opatrná.
 
 19
 00:01:32,167 --> 00:01:34,100
-- macpherson's gone.
-it's another dead end.
+Macpherson je pryè. Další slepá ulièka.
 
 20
 00:01:34,167 --> 00:01:35,400
-- found him!
+Našel jsem ho!
 
 21
 00:01:35,467 --> 00:01:36,300
-- pete's having better luck
-in montreal.
+Pete mìl v Montréalu víc štìstí.
 
 22
 00:01:36,367 --> 00:01:38,200
-- how much better?
+Jak víc štìstí?
 
 23
 00:01:38,267 --> 00:01:41,467
@@ -104,93 +93,79 @@ in montreal.
 
 24
 00:01:41,534 --> 00:01:44,000
-- macpherson's headed east
-on sainte-catherine!
+MacPherson míøí na východ do Sainte-Catherine!
 
 25
 00:01:44,067 --> 00:01:45,601
-Artie,
-i've got the cops on me!
+Artie, jdou po mnì poldové!
 
 26
 00:01:45,667 --> 00:01:47,667
-- i'll get rid of the cops.
-you just stay on macpherson.
+- Poldù se zbavím, jdi dál po MacPhersonovi.
 
 27
 00:01:47,734 --> 00:01:49,801
-- there's an alley on the right.
-he's heading for the subway.
+- Napravo je ulièka. Míøí k metru.
 
 28
 00:01:55,400 --> 00:01:56,734
-- [speaking french]
-attention all units.
+Pozor všem jednotkám.
 
 29
 00:01:56,801 --> 00:01:59,267
-Abandon the current pursuit
-on sainte-catherine!
+Zrušte pronásledování v Sainte-Catherine!
 
 30
 00:01:59,334 --> 00:02:01,167
-This is an rcmp matter!
+Spadá to do kompetence Královské kanadské jízní policie!
 
 31
 00:02:01,234 --> 00:02:03,534
-Repeat: this is
-an rcmp matter!
+Opakuji: Spadá to pod KKJP!
 
 32
 00:02:03,601 --> 00:02:05,634
-- we got him, artie!
+Máme ho, Artie!
 
 33
 00:02:05,701 --> 00:02:08,667
-- be careful, pete. we do not
-know if he has them.
+Buï opatrný, Pete. Nevíme, jestli je má.
 
 34
 00:02:08,734 --> 00:02:11,534
-- artie.
+Artie.
 
 35
 00:02:14,968 --> 00:02:17,634
-- give it up, macpherson.
-we win this one.
+Vzdej to, MacPhersone. Tentokrát jsme tì dostali.
 
 36
 00:02:17,701 --> 00:02:19,501
-[policemen speaking french]
+FIX_ME francouzské bláboly, asi smazat.
 
 37
 00:02:22,501 --> 00:02:26,701
-- artie, he has the cymbal.
-he has the cymbal!
+Artie, má ten èinel. Má ten èinel!
 
 38
 00:02:32,968 --> 00:02:34,534
-- pete, you've gotta get out of
-there! just get out of there!
+Pete, musíš odtama vypadnout! Prostì padej odtama!
 
 39
 00:02:34,601 --> 00:02:36,567
-If you see the cymbals,
-cover your ea--
+Když uvidíš èinely, zakryj si uš...
 
 40
 00:02:39,000 --> 00:02:41,234
-[all groan]
+DELETE_ME
 
 41
 00:02:46,534 --> 00:02:49,400
-- pete? artie? what happened?
-is everything okay?
+- Pete? Artie? Co se stalo? Je všechno v poøádku?
 
 42
 00:02:49,467 --> 00:02:53,567
-- pete!
-pete, can you hear me?
+Pete! Pete, slyšíš mì?
 
 43
 00:02:53,634 --> 00:02:54,534
@@ -198,297 +173,261 @@ Pete!
 
 44
 00:02:59,200 --> 00:03:01,934
-[eerie whispering]
+DELETE_ME
 
 45
 00:03:08,667 --> 00:03:15,667
-- [screams]
+DELETE_ME
 
 46
 00:03:19,868 --> 00:03:22,067
-- [breathing heavily]
+DELETE_ME
 
 47
 00:03:22,133 --> 00:03:24,767
-- pete. look, pete.
-pete, you've got to get up.
+Pete. Hele, Pete. Pete, musíš vstát.
 
 48
 00:03:28,701 --> 00:03:30,801
-- mom, i'm up.
-i won't be late.
+Mami, jsem vzhùru. Nepøijdu pozdì.
 
 49
 00:03:37,601 --> 00:03:44,067
-I'm okay.
-i managed to cover my ears.
+Jsem v pohodì. Stihl jsem si zakrýt uši.
 
 50
 00:03:44,133 --> 00:03:47,434
-- where is he?
-where's macpherson?
+Kde je? Kde je MacPherson?
 
 51
 00:03:47,501 --> 00:03:50,133
-- he's gone, artie.
+Je pryè, Artie.
 
 52
 00:03:50,200 --> 00:03:53,400
-I lost him.
-i lost macpherson.
+Ztratil jsem ho. Ztratil jsem MacPhersona.
 
 53
 00:03:53,467 --> 00:03:56,000
-- hey, mom, listen,
-i'm busy right now.
+Hele, mami, poslyš. Zrovna teï nemám èas.
 
 54
 00:03:56,067 --> 00:03:58,100
-I can't really--
-- myka, it's your father.
+- Vážnì nemùžu...
+- Myko, jde o tátu.
 
 55
 00:03:58,167 --> 00:04:01,434
-He--he--he started feeling bad,
-and i-i--he--he--
+Zaèalo mù být špatnì a já... já... on... on...
 
 56
 00:04:01,501 --> 00:04:02,834
-- what?
+Co?
 
 57
 00:04:02,901 --> 00:04:06,667
-- just come on home.
-just come back. just come home.
+Prostì pøijï domù. Proste se vra. Prostì pøijï domù.
 
 58
 00:04:06,734 --> 00:04:07,968
-We've got to wrap it up.
+Musíme to tu zabalit.
 
 59
 00:04:08,033 --> 00:04:11,567
-- artie, i need to go home.
+Artie, potøebuju domù.
 
 60
 00:04:12,068 --> 00:04:14,568
-I'm going home, my father's dying.
+Jedu domù, mùj táta umírá.
 
 61
 00:05:19,133 --> 00:05:22,601
-- dude. heh!
+No ty vole!
 
 62
 00:05:22,667 --> 00:05:25,068
-Does tamara
-know you're stalking her?
+Ví Tamara že ji pronásleduješ?
 
 63
 00:05:25,133 --> 00:05:28,001
-Or is this just
+FIX_ME Or is this just
 for makeup tips?
 
 64
 00:05:28,068 --> 00:05:30,734
-- give it back, greg.
+Vra mi to, Gregu.
 
 65
 00:05:35,534 --> 00:05:38,267
-- boo-hoo, baby.
+Nerozbreè se, blbeèku.
 
 66
 00:05:50,267 --> 00:05:52,801
-- yeah, i don't know, leena.
-it's complicated.
+No, já nevím, Leeno. Je to složité.
 
 67
 00:05:52,867 --> 00:05:57,734
-Macpherson put decoys and bogus
-informational breadcrumbs--
+MacPherson na nás líèí volavky a falešné stopy...
 
 68
 00:05:57,801 --> 00:05:59,334
-Put them all over the world,
+má je po celém svìtì
 
 69
 00:05:59,400 --> 00:06:02,167
-And my software narrowed him
-down to two locations,
+a mùj software to dokázal zúžit jen na dvì místa
 
 70
 00:06:02,233 --> 00:06:04,601
-And montreal turned out to be,
-you know,
+a Montréal se ukázal jako, chápeš,
 
 71
 00:06:04,667 --> 00:06:09,300
-The one that was--did you say
-you wanted no ice in your le--
+ten, který... øíkalas, že nechceš žádný ledo do li...
 
 72
 00:06:12,034 --> 00:06:14,634
-God! don't do that!
+Bože! Nedìlejte to!
 
 73
 00:06:14,701 --> 00:06:18,934
-Mrs. frederic,
-what'd you do with leena?
+Paní Fredericová, co byste dìlala s Leenou?
 
 74
 00:06:19,001 --> 00:06:22,534
-Sorry. would--would you care
+FIX_ME Sorry. would--would you care
 for a le--le--no.
 
 75
 00:06:22,601 --> 00:06:24,734
-You're here because
-you want to know what happened.
+Jste tady, protože chcete vìdìt, co se stalo.
 
 76
 00:06:24,801 --> 00:06:28,367
-- two policemen dead, arthur.
-i know what happened.
+Dva mrtví policisté. Vím, co se stalo.
 
 77
 00:06:28,434 --> 00:06:31,434
-The montreal police have
-a dashboard camera in the car.
+FIX_ME The montreal police have
+a dashboard camera in the car. dashboard camera = kamera na palubovce, snima to z pohledu ridce? vyraz?
 
 78
 00:06:31,500 --> 00:06:33,534
-- but i told pete.
-he had the recording.
+Ale to jsem Petovi øekl, nahrávku má on.
 
 79
 00:06:33,601 --> 00:06:34,867
-How did you--?
-- please.
+Jak jste... prosím?
 
 80
 00:06:34,934 --> 00:06:36,400
-- look, we were
-following a lead.
+Podívejte se, sledovali jsme stopu.
 
 81
 00:06:36,467 --> 00:06:38,034
-- you took a shot
-in the dark.
+Støílel jsi od boku.
 
 82
 00:06:38,100 --> 00:06:39,667
-- we hit the center
-of that target.
+Zasáhli jsme støed cíle.
 
 83
 00:06:39,734 --> 00:06:41,300
-- with
-a small-caliber bullet.
+Malorážní kulkou.
 
 84
 00:06:41,367 --> 00:06:44,334
-- pete's caliber
-is very large. we--
+Pete má velkorážní kulky. My...
 
 85
 00:06:44,400 --> 00:06:46,400
-You know what? i'm done
-with this analogy.
+Víte co? Tahle analogie už staèila.
 
 86
 00:06:46,467 --> 00:06:48,667
-- we had an agreement.
+Mìli jsme dohodu.
 
 87
 00:06:48,734 --> 00:06:50,467
-You were supposed to gather
-information...
+Mìl jsi získat informace...
 
 88
 00:06:50,534 --> 00:06:51,767
-- i know.
-- bring it to me...
+- Já vím.
+- Pøínést je mì...
 
 89
 00:06:51,834 --> 00:06:53,400
-- yeah.
-- and we would plan
+- Jo.
+- A my bychom naplánováli...
 
 90
 00:06:53,467 --> 00:06:55,100
-To get macpherson
-together.
+spoleèný postup proti MacPhersonovi.
 
 91
 00:06:55,167 --> 00:06:57,567
-You had no offensive
-strategy.
+Nemìl jsi žádnou ofenzivní strategii.
 
 92
 00:06:57,634 --> 00:07:00,601
-No defensive posture.
-no containment plan.
+Žádné obranné postavení. Žádný záložní plán.
 
 93
 00:07:00,667 --> 00:07:03,334
-You were not prepared.
+Nebyl jsi pøipravený.
 
 94
 00:07:03,400 --> 00:07:05,100
-Where's lattimer
-and bering?
+Kde jsou Lattimer a Beringová?
 
 95
 00:07:05,167 --> 00:07:07,068
-- out.
+Pryè.
 
 96
 00:07:10,567 --> 00:07:14,734
-- manage my assets better
-or i swear on the ashes
+Spravuj mùj majetek lépe nebo pøísahám pøi popelu
 
 97
 00:07:14,801 --> 00:07:19,267
-Of the first 12 warehouses,
-i will take them away.
+pùvodních 12 skladiš, že jej dám pryè.
 
 98
 00:07:19,334 --> 00:07:22,667
-- i can get macpherson again.
-- i don't doubt it.
+- Zase MacPhersona dostanu. - O tom nepochybuji.
 
 99
 00:07:22,734 --> 00:07:26,068
-You make no moves against him
-without consulting me first.
+Nepodnikneš proti nìmu žádné kroky, aniž bys je nejdøív se mnou konzultoval.
 
 100
 00:07:26,133 --> 00:07:28,400
-- yes, ma'am.
+Ano, madam.
 
 101
 00:07:28,467 --> 00:07:30,200
-Do you have--
+Máte...?
 
 102
 00:07:37,233 --> 00:07:39,167
-How does she do that?
+Jak to dìlá?
 
 103
 00:07:44,567 --> 00:07:47,367
-[eerie whispering]
+DELETE_ME
 
 104
 00:07:59,968 --> 00:08:02,601
-- all right, everyone.
+Dobrá, vážení.
 
 105
 00:08:02,667 --> 00:08:06,467
-Please close your booklets,
-ladies and gentlemen.
+Prosím, zavøete své sešity, dámy a pánové.
 
 106
 00:08:06,534 --> 00:08:09,500
-Tamara, can you
-gather them up, please?
+Tamaro, mohla bys je, prosím, posbírat?
 
 107
 00:08:09,567 --> 00:08:13,467
@@ -3142,6 +3081,3 @@ from the very beginning.
 00:42:19,617 --> 00:42:23,684
 - no. he used me.
 
-9999
-00:00:0,500 --> 00:00:2,00
-<font color="#ffff00" size=14>www.tvsubtitles.net</font>
