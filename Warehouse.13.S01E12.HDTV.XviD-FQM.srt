@@ -732,75 +732,118 @@ Mohlo to bıt horší.
 
 182
 00:12:49,867 --> 00:12:52,367
-- well, hey, wait, wait.
-myka, myka, myka.
+No, hej, poèkej. Myko, Myko, Myko.
 
 183
 00:12:52,434 --> 00:12:53,801
-- yeah?
+No?
 
 184
 00:12:53,867 --> 00:12:55,200
-- look, i was talking
-to your dad.
+Hele, bavil jsem se s tvım tátou.
 
 185
 00:12:55,267 --> 00:12:57,834
-He thinks you're still in d.c.
-they both do.
+On si myslí, e jsi poøád v D.C. Oba si to myslí.
 
 186
 00:12:57,901 --> 00:12:59,567
-- well, yeah.
+No jo.
 
 187
 00:12:59,634 --> 00:13:01,467
-And if you tell them
-any differently, i swear,
+A jestli jim øekneš nìco jiného, tak pøísahám,
 
 188
 00:13:01,534 --> 00:13:04,233
-I will--i will drop a dictionary
-on your crotch.
+e... e ti pustím slovník na rozkrok.
 
 189
 00:13:04,300 --> 00:13:06,467
-What? i'm supposed to tell them
-that i'm working
+Co? To jim jako mám øíct, e pracuju
 
 190
 00:13:06,534 --> 00:13:09,068
+<<<<<<< HEAD
 for the world's most dangerous
 antiques roadshow?
+=======
+pro nejnebezpeènìjší vetešnictví na svìtì?
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 
 191
 00:13:09,133 --> 00:13:11,133
-- no.
-you tell them the truth.
+Ne, øekni jim pravdu.
 
 192
 00:13:11,200 --> 00:13:12,367
-Or at least
-part of the truth.
+Nebo alespoò èásteènou pravdu.
 
 193
 00:13:12,434 --> 00:13:13,734
-I don't know. something
-to cut the stress.
+Nevím, nìco, èím uvolníš tohle napìtí.
 
 194
 00:13:13,801 --> 00:13:15,434
-- i'm not stressed.
+Já nejsem napjatá.
 
 195
 00:13:15,500 --> 00:13:17,334
-- you're lying to them.
+Leš jim.
 
 196
 00:13:17,400 --> 00:13:19,068
-- it's a force of habit,
-you know?
+To je síla zvyku, víš?
 
+197
+00:13:19,133 --> 00:13:20,701
+Tak mùj táta nebude zklamanı.
+
+198
+00:13:22,767 --> 00:13:25,368
+Tu omáèku máš po celém oblièeji.
+
+199
+00:15:04,667 --> 00:15:05,067
+Tati!
+
+200
+00:15:07,633 --> 00:15:08,100
+Mami?
+
+201
+00:15:08,567 --> 00:15:09,868
+Myko, zpátky.
+
+202
+00:15:12,134 --> 00:15:13,467
+Tati?
+
+203
+00:15:13,434 --> 00:15:14,750
+Pozor na oèi.
+
+204
+00:15:15,001 --> 00:15:15,901
+Ou!
+
+205
+00:15:17,701 --> 00:15:20,167
+Warrene. Warrene!
+
+206
+00:15:20,233 --> 00:15:24,267
+- Co se stalo? - Stalo se to, e...
+
+207
+00:15:25,268 --> 00:15:26,568
+...tvùj táta má artefakt.
+
+208
+00:15:41,184 --> 00:15:42,751
+Myko!
+
+<<<<<<< HEAD
 197
 00:13:19,133 --> 00:13:20,701
 It keeps my dad from being
@@ -1680,184 +1723,1016 @@ The youg man ########################### football
 ??????????????????????????????,,
 
 395
+=======
+209
+00:15:42,817 --> 00:15:44,550
+Myko! Hej!
+
+210
+00:15:47,250 --> 00:15:49,450
+- Kde je ten sešit? - Tudy.
+
+211
+00:15:49,517 --> 00:15:50,784
+Myko?
+
+212
+00:15:50,851 --> 00:15:51,984
+Myko, kdo je to? Ona je...?
+
+213
+00:15:52,051 --> 00:15:53,584
+To je Claudia. Pracujeme spolu.
+
+214
+00:15:53,650 --> 00:15:56,084
+- Co to je? - To je...
+
+215
+00:15:56,151 --> 00:15:59,084
+Claudie, zpátky.
+
+216
+00:15:59,151 --> 00:16:00,350
+To je pro mì.
+
+217
+00:16:00,417 --> 00:16:02,851
+Ne, poèkej na okamik.
+
+218
+00:16:02,917 --> 00:16:05,317
+Chci nìkolik odpovìdí, Myko.
+
+219
+00:16:05,383 --> 00:16:07,218
+Tak zaprvé, kdo je ten chlapík z té malé televize?
+
+220
+00:16:07,283 --> 00:16:08,484
+Jmenuje se Artie.
+
+221
+00:16:08,550 --> 00:16:10,084
+- A on je doktor? - Ne, ale...
+
+222
+00:16:10,151 --> 00:16:11,617
+Tvùj otec musí do nemocnice.
+
+223
+00:16:11,684 --> 00:16:14,684
+To není zdravotní problém, mami. Je to nìco jiného.
+
+224
+00:16:14,751 --> 00:16:16,650
+A to víš jak? Nejsi doktor.
+
+225
+00:16:16,717 --> 00:16:18,051
+Chráníš prezidenta.
+
+226
+00:16:18,118 --> 00:16:21,550
+U ne.
+
+227
+00:16:21,617 --> 00:16:25,575
+Poøád pracuju pro vládu, ale teï dìlám tohle.
+
+228
+00:16:26,184 --> 00:16:29,457
+Co? Co vlastnì dìláš?
+
+229
+00:16:33,250 --> 00:16:37,801
+Mami, snaím se pomoct tátovi. Take mì to prostì nech udìlat.
+
+230
+00:16:38,151 --> 00:16:41,199
+Vìø mi. Prosím.
+
+231
+00:16:49,951 --> 00:16:50,984
+- Pøipraven? - Jo.
+
+232
+00:16:51,951 --> 00:16:53,784
+Mami, prostì stùj támhle.
+
+233
+00:16:53,851 --> 00:16:56,650
+A uvidíš nebo uslyšíš cokoli, zùstaò tam.
+
+234
+00:16:56,717 --> 00:16:57,643
+- Ale... - Prostì se nehıbej.
+
+235
+00:17:00,383 --> 00:17:00,717
+Teï...
+
+236
+00:17:02,984 --> 00:17:04,584
+To bude v pohodì.
+
+237
+00:17:04,950 --> 00:17:06,791
+Oni tyhle vìci dìlaj furt.
+
+238
+00:17:07,317 --> 00:17:08,984
+- Claudie? - Musím...
+
+239
+00:17:09,650 --> 00:17:10,950
+Ale co se dìje?
+
+240
+00:17:13,317 --> 00:17:14,818
+Jsou v tomhle fakt dobrı.
+
+241
+00:17:19,550 --> 00:17:21,050
+Tady to je.
+
+242
+00:17:25,717 --> 00:17:27,150
+Zabij to.
+
+243
+00:17:29,051 --> 00:17:29,776
+K zemi a krıt se.
+
+244
+00:17:34,118 --> 00:17:35,451
+Co se dìje?
+
+245
+00:17:36,817 --> 00:17:37,761
+Mami, jak je tátovi?
+
+246
+00:17:38,484 --> 00:17:41,800
+Hm, poøád stejnì.
+
+247
+00:17:42,584 --> 00:17:44,079
+Proè, mìlo se nìco stát?
+
+248
+00:17:47,917 --> 00:17:49,137
+Zkontroluj mu ruce.
+
+249
+00:17:50,484 --> 00:17:51,864
+Poøád to tam je.
+
+250
+00:17:56,851 --> 00:17:59,984
+To je inkoust. Inkoust!
+
+251
+00:18:00,851 --> 00:18:01,684
+Vyndej ji.
+
+252
+00:18:11,118 --> 00:18:12,181
+Co teï?
+
+253
+00:18:13,917 --> 00:18:15,355
+Neutralizér selhal.
+
+254
+00:18:15,684 --> 00:18:17,684
+Protoe si myslím, e je to rozdvojenı objekt.
+
+255
+00:18:17,951 --> 00:18:19,851
+Má... má nejménì dvì èásti,
+
+256
+00:18:19,917 --> 00:18:22,217
+které na sobì navzájem závisí.
+
+257
+00:18:22,383 --> 00:18:27,084
+A... ten sešit je jen jedna pùlka celku.
+
+258
+00:18:27,551 --> 00:18:28,241
+Take, kde je druhá pùlka?
+
+259
+00:18:28,241 --> 00:18:31,151
+Víš, podle toho inkoustu soudím, e
+
+260
+00:18:31,218 --> 00:18:33,056
+podle mì je to pero,
+
+261
+00:18:33,151 --> 00:18:34,717
+nejspíš, no prostì pero.
+
+262
+00:18:34,784 --> 00:18:36,647
+Jo, mimochodem, adresa odesílatele?
+
+263
+00:18:36,714 --> 00:18:38,032
+Úplnì falešná.
+
+264
+00:18:39,084 --> 00:18:40,817
+Poslal to MacPherson, e?
+
+265
+00:18:41,584 --> 00:18:43,950
+To nevím.
+
+266
+00:18:44,317 --> 00:18:45,951
+Take co? Teï nám jde po rodinách?
+
+267
+00:18:46,017 --> 00:18:47,884
+- Co chce? - No, chce nám ublíit.
+
+268
+00:18:47,951 --> 00:18:50,350
+Protoe po nìm jdeme. Stop, stop, stop, stop.
+
+269
+00:18:50,417 --> 00:18:53,450
+Prostì toho nech. Nevíme kdo to poslal ani proè.
+
+270
+00:18:53,517 --> 00:18:56,118
+Jestli to byl MacPherson, tak by to mohla bıt pomsta nebo prostì zlomyslnost.
+
+271
+00:18:56,184 --> 00:18:57,751
+Nebo zástìrka, aby zatímco pracujeme na tomhle
+
+272
+00:18:57,817 --> 00:18:59,351
+on nìco vyvádí nìkde jinde.
+
+273
+00:18:59,817 --> 00:19:02,484
+Jenom pro pøípad, èistì pro vìtší bezpeèí jsem...
+
+274
+00:19:02,550 --> 00:19:07,118
+poslal sledovací dodávky k Joshuovi
+
+275
+00:19:07,184 --> 00:19:08,317
+a k Petovì rodinì.
+
+276
+00:19:08,383 --> 00:19:10,517
+Kdo nebo proè není dùleité.
+
+277
+00:19:10,584 --> 00:19:12,617
+Na èem teï záleí je tvùj otec a ten sešit.
+
+278
+00:19:12,684 --> 00:19:14,283
+A teï... poslouchej.
+
+279
+00:19:14,350 --> 00:19:18,751
+Analyzoval jsem ten text. Není to dobrı, je to Poe.
+
+280
+00:19:18,817 --> 00:19:22,317
+Hm, Edgar Allan Poe.
+
+281
+00:19:22,383 --> 00:19:25,383
+To, proè ta kníka leze tvému otci pod kùi,
+
+282
+00:19:25,450 --> 00:19:27,617
+je protoe u ní není to pero.
+
+283
+00:19:27,684 --> 00:19:29,951
+Take co? Dáme to pero k sešitu
+
+284
+00:19:30,017 --> 00:19:32,250
+- a tohle všechno skonèí? - Jo.
+
+285
+00:19:32,317 --> 00:19:34,350
+No, nejspíš,
+
+286
+00:19:34,417 --> 00:19:36,805
+pokud to pùjde podle typického chování rozdvojenıch artefaktù.
+
+287
+00:19:37,684 --> 00:19:39,484
+To nemùe bıt náhoda.
+
+288
+00:19:39,550 --> 00:19:41,417
+e si ta kniha našla cestu k tvému tátovi.
+
+289
+00:19:41,584 --> 00:19:46,984
+Hele... Myko, zrovna teï je tvùj táta vodiè.
+
+290
+00:19:47,751 --> 00:19:49,851
+Deník a pero jsou napojeny na jeho energii,
+
+291
+00:19:49,917 --> 00:19:52,651
+pøes jeho lásku k psanému slovu.
+
+292
+00:19:52,817 --> 00:19:53,850
+Take kde je to pero?
+
+293
+00:19:54,717 --> 00:19:57,784
+No, prohledávám teï soubìné incidenty .
+
+294
+00:19:57,851 --> 00:19:59,417
+FIX_ME Uh, you know, i've got
+the filters off.
+
+295
+00:19:59,484 --> 00:20:01,184
+Ale dìlá to nìkde problémy?
+
+296
+00:20:01,250 --> 00:20:02,650
+Ale najdu to. Dostanete ho.
+
+297
+00:20:02,717 --> 00:20:04,884
+A bude mít pøíštì záchvat, vysleduju to pero.
+
+298
+00:20:04,951 --> 00:20:06,751
+Vy ho získáte a spojíte se sešitem.
+
+299
+00:20:06,817 --> 00:20:07,884
+Kolik mu zbıvá?
+
+300
+00:20:08,250 --> 00:20:09,517
+Nevím, o èem to... Kolik mu zbıvá... èeho?
+
+301
+00:20:09,984 --> 00:20:10,950
+Kolik mu zbıvá?
+
+302
+00:20:11,517 --> 00:20:14,218
+Artie, mùj táta u to moc dlouho nevydrí.
+
+303
+00:20:14,283 --> 00:20:17,417
+Hm...
+
+304
+00:20:19,584 --> 00:20:22,084
+Den. Moná dva.
+
+305
+00:20:22,151 --> 00:20:24,017
+Ale mùeš mu pomoct.
+
+306
+00:20:24,084 --> 00:20:25,717
+Ne na nìco pøijdu, Myko,
+
+307
+00:20:25,784 --> 00:20:30,017
+prostì ho obklop jeho kníkama, jeho svìtem.
+
+308
+00:20:30,084 --> 00:20:33,484
+A èti mu, Myko. Èti mu kníky, které má rád.
+
+309
+00:20:33,550 --> 00:20:36,417
+A pouij ta slova k boji proti tomu, co se mu dìje.
+
+310
+00:20:36,484 --> 00:20:40,984
+A zkus ho udret ve spojení s realitou, jestli mùeš.
+
+311
+00:20:50,751 --> 00:20:52,350
+Bobby není tak zlı.
+
+312
+00:20:52,617 --> 00:20:54,453
+Hele, øíkám jenom, dávej si bacha.
+
+313
+00:20:56,383 --> 00:20:57,185
+Geekovská láska, fuj.
+
+314
+00:21:04,884 --> 00:21:07,077
+FIX_ME - "i might have been improved
+for my whole life.
+Charles Dickens - David Copperfield, zkusit najít oficiální pøeklad
+
+315
+00:21:08,383 --> 00:21:10,884
+FIX_ME "i might have been made
+another creature, perhaps,
+
+316
+00:21:11,751 --> 00:21:14,915
+FIX_ME For life, by a kind word,
+at that season..."
+
+317
+00:21:20,984 --> 00:21:22,484
+Chceš, abych to pøevzala?
+
+318
+00:21:22,550 --> 00:21:24,641
+Ne, ne. To.. to je dobrı.
+
+319
+00:21:28,550 --> 00:21:31,917
+Bude v poøádku, mami.
+
+320
+00:21:33,784 --> 00:21:35,584
+Ach.
+
+321
+00:21:35,650 --> 00:21:37,218
+Za vteøinku jsem zpátky.
+
+322
+00:21:37,283 --> 00:21:38,827
+Jenom umyju tohle nádobí.
+
+323
+00:21:40,550 --> 00:21:42,884
+Ten úchyl ti beztak šlohnul kalhotky
+
+324
+00:21:42,951 --> 00:21:44,917
+z tìláku nebo tak nìco.
+
+325
+00:21:44,984 --> 00:21:46,083
+Hnus!
+
+326
+00:21:48,250 --> 00:21:48,751
+Tygøe.
+
+327
+00:21:50,600 --> 00:21:51,250
+Tati?
+
+328
+00:21:51,817 --> 00:21:54,917
+Tygøe, nech toho.
+
+329
+00:21:56,317 --> 00:21:58,964
+- Oheò. - Tati?
+
+330
+00:21:59,450 --> 00:22:00,751
+Oheò!
+
+331
+00:22:03,051 --> 00:22:04,017
+Tati?
+
+332
+00:22:10,018 --> 00:22:11,818
+Pomoc! Seeòte nìkdo pomoc!
+
+333
+00:22:20,184 --> 00:22:22,717
+- Artie nìco má. - Co?
+
+334
+00:22:22,783 --> 00:22:25,817
+V pøesnı okamik, kdy tvùj táta køièel "Oheò",
+
+335
+00:22:25,884 --> 00:22:27,850
+spálila kluka z Portlandu v Oregonu
+
+336
+00:22:27,917 --> 00:22:31,251
+nìjaká podivná ohnivá past nastraená v jeho skøínce
+
+337
+00:22:31,317 --> 00:22:33,817
+Nikdo to neumí vysvìtlit.
+
+338
+00:22:33,884 --> 00:22:36,117
+No a co to s tím tygrem?
+
+339
+00:22:36,184 --> 00:22:39,417
+Ten kluk je hvìzda amerického fotbalu, hraje za kingfordské Tygry.
+
+340
+00:22:39,484 --> 00:22:41,117
+- Jdeme. - Poèkej, Myko.
+
+341
+00:22:41,184 --> 00:22:43,209
+Potøebuju, abys zùstala tady.
+
+342
+00:22:44,217 --> 00:22:46,010
+Musím pomoct tátovi, Pete.
+
+343
+00:22:46,650 --> 00:22:49,451
+Já vím, ale máme tady dva artefakty.
+
+344
+00:22:49,518 --> 00:22:50,817
+A on je k jednomu pøipojenı.
+
+345
+00:22:50,884 --> 00:22:52,184
+Potøebuju, abys zùstala u toho sešitu.
+
+346
+00:22:52,251 --> 00:22:53,783
+A já se postarám o to pero.
+
+347
+00:22:54,850 --> 00:22:56,431
+Myko, podívej se na mì.
+
+348
+00:23:01,084 --> 00:23:04,251
+Nikdo teï tvému tátovi nemùe pomoct víc ne ty.
+
+349
+00:23:04,317 --> 00:23:06,317
+Nemùu tì nechat jít samotného.
+
+350
+00:23:06,384 --> 00:23:09,700
+Vezmu Claudii.
+
+351
+00:23:11,017 --> 00:23:12,717
+Dávej na ni pozor.
+
+352
+00:23:12,984 --> 00:23:13,951
+Jo.
+
+353
+00:23:14,317 --> 00:23:16,017
+Ale je tu ještì nìco.
+
+354
+00:23:16,484 --> 00:23:17,380
+Co?
+
+355
+00:23:19,618 --> 00:23:21,717
+Myslím, e jsem se zamiloval to tvojí mámy.
+
+356
+00:23:28,217 --> 00:23:30,117
+Vyøídím to tátovi.
+
+357
+00:23:30,184 --> 00:23:31,484
+Fajn.
+
+358
+00:23:32,551 --> 00:23:35,317
+Musím si s tebou promluvit, Bobby.
+
+359
+00:23:35,384 --> 00:23:37,484
+Je... je všechno v poøádku?
+
+360
+00:23:37,551 --> 00:23:39,351
+Inspiruje tì ta poezie?
+
+361
+00:23:39,417 --> 00:23:42,417
+Ani moc ne.
+
+362
+00:23:42,484 --> 00:23:44,184
+Víš, zdá se,
+
+363
+00:23:44,251 --> 00:23:48,084
+e jsme tady vèera mìli malé vloupání.
+
+364
+00:23:48,151 --> 00:23:52,084
+Ztratilo se pero,
+
+365
+00:23:52,151 --> 00:23:53,618
+které údajnì patøilo Edgaru Allanu Poeovi.
+
+366
+00:23:53,683 --> 00:23:57,213
+Na to vemte jed, e patøilo.
+
+367
+00:23:58,884 --> 00:24:00,717
+Nedívej se na mì tak.
+
+368
+00:24:03,783 --> 00:24:08,884
+Všiml jsem si, e tì to pero zaujalo.
+
+369
+00:24:08,950 --> 00:24:10,783
+Chcete øíct, e jsem ho ukradl?
+
+370
+00:24:10,850 --> 00:24:13,217
+Chceš ty øíct, es ho ukradl?
+
+371
+00:24:13,284 --> 00:24:15,351
+Víš co?
+
+372
+00:24:15,417 --> 00:24:17,650
+Pùjdu teï do sborovny na sodovku.
+
+373
+00:24:17,717 --> 00:24:21,317
+A kdy se to pero objeví, zatímco budu pryè,
+
+374
+00:24:21,384 --> 00:24:23,683
+no, tak to prostì oznaèíme
+
+375
+00:24:23,750 --> 00:24:27,850
+za nìco podivného a záhadného.
+
+376
+00:24:27,917 --> 00:24:30,884
+Za chvíli jsem zpìt.
+
+377
+00:24:30,950 --> 00:24:33,021
+Pane Ivesi. Pane Ivesi.
+
+378
+00:24:36,554 --> 00:24:37,068
+Tady.
+
+379
+00:24:43,317 --> 00:24:45,783
+"Zeï"?
+
+380
+00:24:45,850 --> 00:24:48,084
+"Zeï"? Jaká "Zeï"?
+
+381
+00:24:48,151 --> 00:24:49,284
+Vy.
+
+382
+00:25:10,054 --> 00:25:13,541
+Popáleniny toho mladíka nebyly váné, ale nemohl kvùli nim na trénink.
+
+383
+00:25:13,541 --> 00:25:15,950
+Má tady povìst strašáka lidí.
+
+384
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:15,950 --> 00:25:18,984
-- really?
-does he like horror novels?
+Vánì? Má rád horroré romány?
 
+<<<<<<< HEAD
 396
+=======
+385
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:19,050 --> 00:25:21,451
-Stephen king,
-lovecraft, poe?
+Stephena Kinga, Lovecrafta, Poea?
 
+<<<<<<< HEAD
 397
+=======
+386
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:21,518 --> 00:25:25,017
-- you're assuming the boy reads.
-no, he's just a bully.
+FIX_ME Vy pøedpokládáte, e ten hoch ète. Ne je to jenom bully.
+bully = èlovìk co šikanuje ostatní
 
+<<<<<<< HEAD
 398
+=======
+387
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:25,084 --> 00:25:27,050
-Look, i mean, how big
-a deal is this?
+Podívejte se, je to vánì tak velkı problém?
 
+<<<<<<< HEAD
 399
+=======
+388
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:27,117 --> 00:25:29,284
-I mean, this school's got
-a reputation to maintain,
+Chci øíct, škola si musí udret jistou reputaci.
 
+<<<<<<< HEAD
 400
+=======
+389
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:29,351 --> 00:25:30,950
-And if it gets out
+A jestli se provalí,
 
+<<<<<<< HEAD
 401
+=======
+390
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:31,017 --> 00:25:33,417
-That the government's
-investigating a teenage prank,
+e vláda tady vyšetøuje pubertální ertík,
 
+<<<<<<< HEAD
 402
+=======
+391
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:33,484 --> 00:25:34,683
-It'll put a lot
-of parents off.
+Tak to hodnì rodièù odradí.
 
+<<<<<<< HEAD
 403
+=======
+392
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:34,750 --> 00:25:36,317
-- you mean donors?
+Chtìl jste øíct sponzorù.
 
+<<<<<<< HEAD
 404
+=======
+393
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:36,384 --> 00:25:37,817
-- why do you think
-it's just a prank?
+Proè si myslíte, e to byl jenom ert?
 
+<<<<<<< HEAD
 405
+=======
+394
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:37,884 --> 00:25:39,817
-- well, we're not schooling
-little terrorists here.
+No, nevyuèujeme tady pøece malé teroristy.
 
+<<<<<<< HEAD
 406
+=======
+395
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:39,884 --> 00:25:42,417
-Somebody in the science class
-got tired
+Nìkdo se prostì v hodinì chemie nudil
 
+<<<<<<< HEAD
 407
+=======
+396
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:42,484 --> 00:25:44,618
-Of parmut picking on him
+FIX_ME Of parmut picking on him
 and gave him a hotfoot.
+wtf? fakt netusim
 
+<<<<<<< HEAD
 408
+=======
+397
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:44,683 --> 00:25:46,417
-- oh, yeah?
-how's he doing?
+Opravdu? Jak se mu daøí?
 
+<<<<<<< HEAD
 409
+=======
+398
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:46,484 --> 00:25:48,917
-- he's fine.
-uh, you want this open?
+Je v poøádku. Chcete to otevøít?
 
+<<<<<<< HEAD
 410
+=======
+399
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:25:48,984 --> 00:25:53,783
-- no. we'll, uh,
-we'll take it from here.
+Ne. No, my to odsud pøevezmem.
+
+<<<<<<< HEAD
+411
+=======
+400
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:25:53,850 --> 00:25:55,217
+Radìji ustupte, prosím.
+
+<<<<<<< HEAD
+412
+=======
+401
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:25:55,284 --> 00:25:56,551
+Proè? Není to nebezpeèné.
+
+<<<<<<< HEAD
+413
+=======
+402
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:25:56,618 --> 00:25:58,984
+Prosím.
+
+<<<<<<< HEAD
+414
+=======
+403
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:25:59,050 --> 00:26:02,551
+Dìkuji.
+
+<<<<<<< HEAD
+415
+=======
+404
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:26:06,451 --> 00:26:10,518
+Fajn. Pøipravená?
+
+<<<<<<< HEAD
+416
+=======
+405
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:26:10,584 --> 00:26:11,884
+Proè by ne?
+
+<<<<<<< HEAD
+417
+=======
+406
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:26:17,284 --> 00:26:20,251
+Tak jo jdeme na to. Tak do toho.
+
+<<<<<<< HEAD
+418
+=======
+407
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:26:20,317 --> 00:26:24,084
+Take... mìli jste ještì nìjaké incidenty?
+
+<<<<<<< HEAD
+419
+=======
+408
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:26:24,151 --> 00:26:25,084
+S èím? Ohnìm?
+
+<<<<<<< HEAD
+420
+=======
+409
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:26:25,151 --> 00:26:27,950
+No, cokoli zvláštního.
+
+<<<<<<< HEAD
+421
+=======
+410
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:26:28,017 --> 00:26:30,317
+FIX_ME Say a tell-tale heart, perhaps?
+tell-tale drbna, donašeè, bonzák
+
+<<<<<<< HEAD
+422
+=======
 
 411
-00:25:53,850 --> 00:25:55,217
-- you'll want to step back,
-please.
-
-412
-00:25:55,284 --> 00:25:56,551
-- why?
-it's not dangerous.
-
-413
-00:25:56,618 --> 00:25:58,984
-- please.
-
-414
-00:25:59,050 --> 00:26:02,551
-Thank you.
-
-415
-00:26:06,451 --> 00:26:10,518
-Okay.
-you ready?
-
-416
-00:26:10,584 --> 00:26:11,884
-- why not?
-
-417
-00:26:17,284 --> 00:26:20,251
-- okay, we're in business.
-here we go.
-
-418
-00:26:20,317 --> 00:26:24,084
-So, uh, you had
-any other incidents?
-
-419
-00:26:24,151 --> 00:26:25,084
-- with what, fire?
-
-420
-00:26:25,151 --> 00:26:27,950
-- well, anything strange.
-
-421
-00:26:28,017 --> 00:26:30,317
-Say a tell-tale heart,
-perhaps?
-
-422
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:26:30,384 --> 00:26:32,217
-- what?
+Co?
 
+<<<<<<< HEAD
 423
+=======
+412
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:26:35,551 --> 00:26:37,884
-- there you go.
+FIX_ME- there you go.
 - gotta love artie.
 
+<<<<<<< HEAD
 424
+=======
+413
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:26:37,950 --> 00:26:40,284
-- what's that?
-- you don't happen to have
+- Co to je? - Nemáte tady nìkde náhodou
 
+<<<<<<< HEAD
 425
+=======
+414
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:26:40,351 --> 00:26:42,417
-Edgar allan poe's pen
-lying around, would you?
+pero Edgara Allan Poea, e?
 
+<<<<<<< HEAD
 426
+=======
+415
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:26:42,484 --> 00:26:45,584
-- well, actually--
-- yes?
+- No, vlastnì... - Ano?
 
+<<<<<<< HEAD
 427
+=======
+416
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:26:45,650 --> 00:26:47,484
-- mr. ives' classroom.
+- Ve tøídì pana Ivese.
 
+<<<<<<< HEAD
 428
+=======
+417
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:26:47,551 --> 00:26:49,284
-He likes to collect items
-from famous people.
+Rád sbírá pøedmìty slavnıch lidí.
 
+<<<<<<< HEAD
 429
+=======
+418
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:26:49,351 --> 00:26:51,117
-- the pen is here, then.
+Take to pero je tady.
 
+<<<<<<< HEAD
 430
+=======
+419
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:26:51,184 --> 00:26:54,417
-- well, it was.
-um, it got stolen.
+No, bylo. Nìko jej ukradl.
 
+<<<<<<< HEAD
 431
 00:26:57,351 --> 00:27:01,151
 - [murmurs]
 
 432
+=======
+420
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:27:01,217 --> 00:27:04,584
-- this last one
-was the worst.
+Ten poslední byl nejhorší.
 
+<<<<<<< HEAD
 433
 00:27:04,650 --> 00:27:06,451
 - i know.
@@ -1867,119 +2742,213 @@ was the worst.
 - [murmuring]
 
 435
+=======
+421
+00:27:04,650 --> 00:27:06,451
+Já vím.
+
+422
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:27:21,783 --> 00:27:25,518
-- dad?
+Tati?
 
+<<<<<<< HEAD
 436
+=======
+423
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:27:25,584 --> 00:27:30,050
-- if you'd been a boy
-i'd have called you sue.
+Kdybys byla kluk, tak bych tì pojmenoval Sue.
 
+<<<<<<< HEAD
 437
+=======
+424
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:27:30,117 --> 00:27:31,351
-- what?
+Co?
 
+<<<<<<< HEAD
 438
+=======
+425
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:27:31,417 --> 00:27:33,683
-- johnny cash.
-it's a song.
+Johnny Cash. To je písnièka.
 
+<<<<<<< HEAD
 439
+=======
+426
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:27:33,750 --> 00:27:36,618
-<i>a boy named sue.</i>
+A Boy Named Sue (Kluk jménem Sue)
 
+<<<<<<< HEAD
 440
+=======
+427
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:27:36,683 --> 00:27:38,451
-- okay.
+Fajn.
 
+<<<<<<< HEAD
 441
+=======
+428
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:27:38,518 --> 00:27:42,017
-- make you tough.
+FIX_ME - make you tough.
 
+<<<<<<< HEAD
 442
+=======
+429
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:27:42,084 --> 00:27:47,584
-- well, i'm sorry
-i wasn't a boy.
+No, je mi líto, e nejsem kluk.
 
+<<<<<<< HEAD
 443
+=======
+430
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:27:47,650 --> 00:27:50,317
-- i'm sorry
-i wasn't a father.
+A mì je líto, e jsem nebyl táta.
 
+<<<<<<< HEAD
 444
 00:27:57,551 --> 00:27:59,484
 [groans]
 
 445
+=======
+431
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:01,717 --> 00:28:03,650
-- he has regrets.
+Má vıèitky.
 
+<<<<<<< HEAD
 446
+=======
+432
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:09,484 --> 00:28:12,017
-- about me?
+Kvùli mì?
 
+<<<<<<< HEAD
 447
+=======
+433
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:12,084 --> 00:28:14,017
-- yes.
+Ano.
 
+<<<<<<< HEAD
 448
+=======
+434
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:14,084 --> 00:28:15,950
-About his life.
+Kvùli svému ivotu.
 
+<<<<<<< HEAD
 449
+=======
+435
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:16,017 --> 00:28:18,850
-- what do you mean?
+Co tím myslíš.
 
+<<<<<<< HEAD
 450
+=======
+436
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:18,917 --> 00:28:20,817
-- he wanted to write books.
+Chtìl psát knihy.
 
+<<<<<<< HEAD
 451
+=======
+437
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:20,884 --> 00:28:25,884
-- i know. i know that
-he wanted to write books.
+Já vím. Vím, e chtìl psát knihy.
 
+<<<<<<< HEAD
 452
+=======
+438
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:25,950 --> 00:28:27,984
-- did you know
-he wrote a novel?
+Vìdìlas, e napsal román?
 
+<<<<<<< HEAD
 453
+=======
+439
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:28,050 --> 00:28:30,417
-- no.
+Ne.
 
+<<<<<<< HEAD
 454
+=======
+440
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:30,484 --> 00:28:35,618
-- 12 times.
-over and over again.
+Dvanáctkrát. Znovu a znovu.
 
+<<<<<<< HEAD
 455
+=======
+441
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:35,683 --> 00:28:37,850
-Unpublished.
+Odmítli ho.
 
+<<<<<<< HEAD
 456
+=======
+442
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:37,917 --> 00:28:40,984
-He loved it too much
-to let it go.
+Mìl ho pøíliš rád na to, aby to vzdal.
 
+<<<<<<< HEAD
 457
+=======
+443
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:41,050 --> 00:28:45,017
-He was afraid.
+Mìl strach.
 
+<<<<<<< HEAD
 458
+=======
+444
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:45,084 --> 00:28:47,184
-- where is it?
+Kde je?
 
+<<<<<<< HEAD
 459
+=======
+445
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:47,251 --> 00:28:49,717
-- a long time ago,
-when he finally gave up...
+U dávno, kdy to koneènì vzdal,
 
+<<<<<<< HEAD
 460
+=======
+446
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:28:49,783 --> 00:28:55,451
-[exhales]
-he told me to burn it.
+mi øekl, a ho spálím.
 
+<<<<<<< HEAD
 461
 00:28:55,518 --> 00:28:58,783
 He hasn't written a thing
@@ -1990,100 +2959,179 @@ since.
 - [moans]
 
 463
+=======
+447
+00:28:55,518 --> 00:28:58,783
+Od té toby nenapsal ani øádek.
+
+448
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:11,458 --> 00:29:12,718
-It can't be.
+To nemùe bıt...
 
+<<<<<<< HEAD
 464
+=======
+449
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:23,184 --> 00:29:24,650
-- mr. ives?
+Pane Ivesi?
 
+<<<<<<< HEAD
 465
+=======
+450
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:24,717 --> 00:29:27,684
-Hello?
+Haló?
 
+<<<<<<< HEAD
 466
+=======
+451
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:27,750 --> 00:29:32,284
-- nice place for a pen,
+FIX_ME - nice place for a pen,
 soaking up all that poe juice.
 
+<<<<<<< HEAD
 467
+=======
+452
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:32,351 --> 00:29:33,650
-- huh.
+FIX_ME - huh.
 
+<<<<<<< HEAD
 468
+=======
+453
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:33,717 --> 00:29:35,151
-- do you know that ravens
-are actually brilliant?
+Víš, e havrani jsou vlastnì geniální?
 
+<<<<<<< HEAD
 469
+=======
+454
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:35,217 --> 00:29:37,517
-They've adapted to humans
-like rats and cockroaches.
+Adaptovali se na lidi jako krysy a švábi.
 
+<<<<<<< HEAD
 470
+=======
+455
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:37,583 --> 00:29:39,051
-They've figured out how to
-figure us out.
+Pøišli na to, jak na nás vyzrát.
 
+<<<<<<< HEAD
 471
+=======
+456
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:39,117 --> 00:29:40,850
-- shh.
-- what?
+- Pššt.
+- Co?
 
+<<<<<<< HEAD
 472
+=======
+457
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:41,984 --> 00:29:43,817
-- shh.
+- Pššt.
 
+<<<<<<< HEAD
 473
+=======
+458
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:46,351 --> 00:29:47,384
-Hear anything?
+Slyšelas nìco?
 
+<<<<<<< HEAD
 474
+=======
+459
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:47,483 --> 00:29:49,384
-- just the beating
+FIX_ME - just the beating
 of my hideous--
 
+<<<<<<< HEAD
 475
+=======
+460
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:49,450 --> 00:29:50,717
-- stop it.
-- okay.
+- Nech toho.
+- Fajn.
 
+<<<<<<< HEAD
 476
+=======
+461
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:29:54,817 --> 00:29:55,784
-- listen.
+- Poslouchej.
 
+<<<<<<< HEAD
 477
 00:29:55,850 --> 00:29:58,684
 [faint scratching]
 
 478
+=======
+462
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:30:05,817 --> 00:30:07,051
-What is that?
+Co to je?
 
+<<<<<<< HEAD
 479
+=======
+463
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:30:07,117 --> 00:30:08,884
-- a rat in the wall?
+Krysa ve zdi?
 
+<<<<<<< HEAD
 480
+=======
+464
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:30:10,850 --> 00:30:12,917
-- short story.
-- guy walled up.
+- Povídka. - Zazdìnı chlápek.
 
+<<<<<<< HEAD
 481
+=======
+465
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:30:12,984 --> 00:30:16,650
-<i>- the cask...
-- ...of amontillado.</i>
+- Sud vína... - ...amontilladského!
 
+<<<<<<< HEAD
 482
+=======
+466
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:30:16,717 --> 00:30:18,384
-- here, take if off there.
-- i don't--
+- Tady... sundej ho.
+- Nechci...
 
+<<<<<<< HEAD
 483
+=======
+467
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:30:18,450 --> 00:30:19,650
-I don't want avian flu!
-- take it!
+Nechci dostat ptaèí chøipku!
+- Dìlej!
 
+<<<<<<< HEAD
 484
 00:30:19,717 --> 00:30:23,051
 - all right!
@@ -2098,9 +3146,17 @@ what do i--uhh!
 - [coughs]
 
 487
-00:30:40,117 --> 00:30:41,184
-- mr. ives?
+=======
+468
+00:30:19,717 --> 00:30:23,051
+- Tak jo! Co mám...?
 
+469
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
+00:30:40,117 --> 00:30:41,184
+Pane Ivesi?
+
+<<<<<<< HEAD
 488
 00:30:41,251 --> 00:30:43,217
 - [coughs]
@@ -2110,69 +3166,118 @@ what do i--uhh!
 - [grunting]
 
 490
+=======
+470
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:30:49,151 --> 00:30:50,750
-Who did this to you?
+Kdo vám to udìlal?
 
+<<<<<<< HEAD
 491
+=======
+471
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:30:50,817 --> 00:30:53,517
-- [coughs]
-bobby.
+Bobby.
 
+<<<<<<< HEAD
 492
+=======
+472
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:30:53,583 --> 00:30:56,117
-[coughs]
-find him. stop him.
+Najdìte ho. Zastavte ho.
 
+<<<<<<< HEAD
 493
 00:31:02,517 --> 00:31:05,351
 [creaking]
 
 494
+=======
+473
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:19,650 --> 00:31:23,717
-- bobby, not cool.
+Bobby, to není vtipnı.
 
+<<<<<<< HEAD
 495
+=======
+474
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:23,784 --> 00:31:25,750
-- myka, something's wrong.
+Myko, nìco se dìje.
 
+<<<<<<< HEAD
 496
+=======
+475
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:25,817 --> 00:31:27,750
-- artie, i need help.
+Artie, potøebuju pomoc.
 
+<<<<<<< HEAD
 497
+=======
+476
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:27,817 --> 00:31:30,351
-- what's this?
+Co to je?
 
+<<<<<<< HEAD
 498
+=======
+477
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:30,418 --> 00:31:34,251
-- a poem.
-i wrote it for you.
+Báseò, napsal jsem ji pro tebe.
 
+<<<<<<< HEAD
 499
+=======
+478
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:34,318 --> 00:31:35,550
-- i gotta go.
+Musím jít.
 
+<<<<<<< HEAD
 500
 00:31:38,384 --> 00:31:39,318
 - [groans]
 
 501
+=======
+479
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:39,384 --> 00:31:40,917
-- we're losing him.
+Ztrácíme ho.
 
+<<<<<<< HEAD
 502
+=======
+480
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:40,984 --> 00:31:43,017
-- myka, just read to him.
+Myko, prostì mu èti.
 
+<<<<<<< HEAD
 503
+=======
+481
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:43,084 --> 00:31:45,084
-- read it.
+Pøeèti to.
 
+<<<<<<< HEAD
 504
+=======
+482
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:45,151 --> 00:31:47,151
 - i have read. i've read him
 everything, okay?
 
+<<<<<<< HEAD
 505
 00:31:47,217 --> 00:31:49,717
 It's not working.
@@ -2182,91 +3287,167 @@ It's not working.
 - [anguished cry]
 
 507
+=======
+483
+00:31:47,217 --> 00:31:49,717
+It's not working.
+
+484
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:53,583 --> 00:31:55,884
 - you have to find the words
 that he loves.
 
+<<<<<<< HEAD
 508
+=======
+485
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:55,951 --> 00:31:58,750
 You have to find a book
 that means more to him
 
+<<<<<<< HEAD
 509
+=======
+486
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:31:58,817 --> 00:32:02,384
 Than--than anything
 in the world.
 
+<<<<<<< HEAD
 510
+=======
+487
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:02,450 --> 00:32:04,251
 - mom, tell me
 you didn't burn it.
 
+<<<<<<< HEAD
 511
+=======
+488
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:04,318 --> 00:32:06,384
 - what?
 - dad's book.
 
+<<<<<<< HEAD
 512
+=======
+489
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:06,450 --> 00:32:09,750
 - aunt cindy's bureau.
 the bottom drawer.
 
+<<<<<<< HEAD
 513
+=======
+490
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:11,483 --> 00:32:12,750
 - okay,
 so ives said that--
 
+<<<<<<< HEAD
 514
+=======
+491
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:12,817 --> 00:32:15,117
 That bobby had a crush
 on what--what's her name?
 
+<<<<<<< HEAD
 515
+=======
+492
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:15,184 --> 00:32:16,650
 - tamara.
 - tamara, right.
 
+<<<<<<< HEAD
 516
 00:32:16,717 --> 00:32:18,184
 There's always a girl.
 
 517
+=======
+493
+00:32:16,717 --> 00:32:18,184
+There's always a girl.
+
+494
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:18,251 --> 00:32:20,418
 - don't blame her.
 blame testosterone.
 
+<<<<<<< HEAD
 518
 00:32:20,483 --> 00:32:22,318
 Crazy, crazy man hormone.
 
 519
+=======
+495
+00:32:20,483 --> 00:32:22,318
+Crazy, crazy man hormone.
+
+496
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:22,384 --> 00:32:26,617
 - i'm not blaming the girl.
 i'm blaming poe.
 
+<<<<<<< HEAD
 520
 00:32:26,684 --> 00:32:28,517
 Bobby?
 
 521
+=======
+497
+00:32:26,684 --> 00:32:28,517
+Bobby?
+
+498
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:30,517 --> 00:32:33,784
 - crazy,
 scary man hormone.
 
+<<<<<<< HEAD
 522
+=======
+499
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:36,817 --> 00:32:39,850
 - check out
 miss teenage zombie.
 
+<<<<<<< HEAD
 523
 00:32:39,917 --> 00:32:41,850
 Oh, right.
 
 524
+=======
+500
+00:32:39,917 --> 00:32:41,850
+Oh, right.
+
+501
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:41,917 --> 00:32:43,550
 Uh...
 [clears throat]
 
+<<<<<<< HEAD
 525
 00:32:43,617 --> 00:32:48,583
 Bobby...and...
@@ -2276,24 +3457,48 @@ Bobby...and...
 - tamara.
 
 527
+=======
+502
+00:32:43,617 --> 00:32:48,583
+Bobby...and...
+
+503
+00:32:48,650 --> 00:32:50,784
+- tamara.
+
+504
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:50,850 --> 00:32:52,318
 - tamara, was it?
 right?
 
+<<<<<<< HEAD
 528
 00:32:52,384 --> 00:32:54,217
 [clears throat]
 
 529
+=======
+505
+00:32:52,384 --> 00:32:54,217
+[clears throat]
+
+506
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:54,284 --> 00:32:56,450
 That's a nice pen,
 bobby.
 
+<<<<<<< HEAD
 530
+=======
+507
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:32:56,517 --> 00:32:59,917
 Why don't you give it up,
 huh?
 
+<<<<<<< HEAD
 531
 00:32:59,984 --> 00:33:02,617
 Come on, give it here.
@@ -2319,112 +3524,228 @@ Come on, give it here.
 - i got it.
 
 537
+=======
+508
+00:32:59,984 --> 00:33:02,617
+Come on, give it here.
+
+509
+00:33:05,051 --> 00:33:07,550
+- "pendulum"?
+
+510
+00:33:15,483 --> 00:33:18,217
+- you've gotta be kidding me.
+
+511
+00:33:18,284 --> 00:33:19,251
+- [gasps]
+
+512
+00:33:23,184 --> 00:33:25,017
+- bobby!
+
+513
+00:33:31,617 --> 00:33:33,251
+- i got it.
+
+514
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:33:35,750 --> 00:33:37,750
 - bobby, you've got to
 stop this.
 
+<<<<<<< HEAD
 538
+=======
+515
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:33:37,817 --> 00:33:39,217
 I know,
 you're all full of poe,
 
+<<<<<<< HEAD
 539
+=======
+516
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:33:39,284 --> 00:33:41,817
 Up to your creepy eyeballs
 in "nevermore" and crap, but--
 
+<<<<<<< HEAD
 540
+=======
+517
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:33:41,884 --> 00:33:44,450
 - but--but--but
 this isn't fiction!
 
+<<<<<<< HEAD
 541
 00:33:44,517 --> 00:33:46,017
 It's real!
 
 542
+=======
+518
+00:33:44,517 --> 00:33:46,017
+It's real!
+
+519
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:33:46,084 --> 00:33:49,717
 - it's the most real i have
 ever felt in my entire life.
 
+<<<<<<< HEAD
 543
+=======
+520
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:33:49,784 --> 00:33:52,017
 <i>- the blue willow sky
 by warren bering.</i>
 
+<<<<<<< HEAD
 544
 00:33:52,084 --> 00:33:53,650
 Chapter one.
 
 545
+=======
+521
+00:33:52,084 --> 00:33:53,650
+Chapter one.
+
+522
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:33:53,717 --> 00:33:55,784
 "when the girl was born,
 his first thought was fear."
 
+<<<<<<< HEAD
 546
 00:33:58,051 --> 00:33:59,884
 - it's beautiful.
 
 547
+=======
+523
+00:33:58,051 --> 00:33:59,884
+- it's beautiful.
+
+524
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:33:59,951 --> 00:34:01,550
 - bobby, you're a good person,
 but you're--
 
+<<<<<<< HEAD
 548
 00:34:01,617 --> 00:34:03,583
 You're hurting people!
 
 549
+=======
+525
+00:34:01,617 --> 00:34:03,583
+You're hurting people!
+
+526
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:34:03,650 --> 00:34:05,017
 You're hurting yourself
 and you're hurting tamara,
 
+<<<<<<< HEAD
 550
 00:34:05,084 --> 00:34:06,384
 And it has to stop!
 
 551
+=======
+527
+00:34:05,084 --> 00:34:06,384
+And it has to stop!
+
+528
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:34:06,450 --> 00:34:09,318
 - people like you
 don't see me.
 
+<<<<<<< HEAD
 552
 00:34:09,384 --> 00:34:11,217
 You don't believe in me.
 
 553
+=======
+529
+00:34:09,384 --> 00:34:11,217
+You don't believe in me.
+
+530
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:34:11,284 --> 00:34:13,951
 People like you need to be
 shocked into seeing.
 
+<<<<<<< HEAD
 554
+=======
+531
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:34:14,017 --> 00:34:17,184
 You need to be horrified.
 then you'll understand.
 
+<<<<<<< HEAD
 555
+=======
+532
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:34:17,251 --> 00:34:19,684
 - understand what, bobby?
 tell me what!
 
+<<<<<<< HEAD
 556
 00:34:19,750 --> 00:34:22,217
 - that words have power.
 
 557
+=======
+533
+00:34:19,750 --> 00:34:22,217
+- that words have power.
+
+534
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:34:22,284 --> 00:34:25,450
 - "...for her.
 for his daughter.
 
+<<<<<<< HEAD
 558
 00:34:25,517 --> 00:34:27,151
 She was his life."
 
 559
+=======
+535
+00:34:25,517 --> 00:34:27,151
+She was his life."
+
+536
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:34:27,217 --> 00:34:29,684
 [echoing]
 - but this isn't fiction!
 
+<<<<<<< HEAD
 560
 00:34:29,750 --> 00:34:31,051
 It's real!
@@ -2434,10 +3755,22 @@ It's real!
 - "she was his life.
 
 562
+=======
+537
+00:34:29,750 --> 00:34:31,051
+It's real!
+
+538
+00:34:31,117 --> 00:34:32,517
+- "she was his life.
+
+539
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:34:32,583 --> 00:34:35,784
 His only job now
 was keeping her safe."
 
+<<<<<<< HEAD
 563
 00:34:35,850 --> 00:34:37,717
 - [moaning]
@@ -2451,172 +3784,324 @@ was keeping her safe."
 - it's working, myka.
 
 566
+=======
+540
+00:34:35,850 --> 00:34:37,717
+- [moaning]
+
+541
+00:34:42,450 --> 00:34:46,318
+- "she was his life."
+
+542
+00:34:46,384 --> 00:34:48,550
+- it's working, myka.
+
+543
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:34:48,617 --> 00:34:51,418
 [echoing]
 - words have power.
 
+<<<<<<< HEAD
 567
 00:35:02,750 --> 00:35:04,184
 - something's happening.
 
 568
+=======
+544
+00:35:02,750 --> 00:35:04,184
+- something's happening.
+
+545
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:35:09,384 --> 00:35:13,517
 Go, go, claudia!
 get the pen!
 
+<<<<<<< HEAD
 569
 00:35:26,583 --> 00:35:28,184
 - who are you? what?
 
 570
+=======
+546
+00:35:26,583 --> 00:35:28,184
+- who are you? what?
+
+547
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:35:28,251 --> 00:35:30,517
 - one second. nice, claud.
 - here's the bag.
 
+<<<<<<< HEAD
 571
+=======
+548
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:35:30,583 --> 00:35:32,284
 - get him to a hospital.
 this still has a hold on him!
 
+<<<<<<< HEAD
 572
 00:35:32,285 --> 00:35:33,685
 And Micah's dad.
 
 573
+=======
+549
+00:35:32,285 --> 00:35:33,685
+And Micah's dad.
+
+550
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:35:41,517 --> 00:35:44,450
 - myka! i got it. hey.
 - hey.
 
+<<<<<<< HEAD
 574
 00:35:44,517 --> 00:35:45,550
 - how is he?
 
 575
+=======
+551
+00:35:44,517 --> 00:35:45,550
+- how is he?
+
+552
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:35:45,617 --> 00:35:46,650
 - is that it?
 - that's it.
 
+<<<<<<< HEAD
 576
 00:35:46,717 --> 00:35:47,984
 - well, he--he's not worse,
 
 577
+=======
+553
+00:35:46,717 --> 00:35:47,984
+- well, he--he's not worse,
+
+554
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:35:48,051 --> 00:35:50,417
 But he's not better.
 not--not completely.
 
+<<<<<<< HEAD
 578
+=======
+555
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:35:50,483 --> 00:35:52,884
 - his strength
 is the only thing
 
+<<<<<<< HEAD
 579
+=======
+556
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:35:52,951 --> 00:35:55,084
 That's keeping that pen from
 flipping completely out.
 
+<<<<<<< HEAD
 580
+=======
+557
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:35:55,151 --> 00:35:57,817
 - okay, the notebook's
 in place.
 
+<<<<<<< HEAD
 581
+=======
+558
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:35:57,884 --> 00:35:59,584
 - good. take the pen,
 keep it in the bag,
 
+<<<<<<< HEAD
 582
+=======
+559
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:35:59,650 --> 00:36:02,884
 And just, you know,
 approach the notebook.
 
+<<<<<<< HEAD
 583
+=======
+560
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:02,951 --> 00:36:05,084
 - i'm on it.
 - be careful!
 
+<<<<<<< HEAD
 584
+=======
+561
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:05,151 --> 00:36:07,951
 - i am! would you stop
 yelling at me?
 
+<<<<<<< HEAD
 585
+=======
+562
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:08,017 --> 00:36:10,617
 Somebody turn down his volume
 or something.
 
+<<<<<<< HEAD
 586
 00:36:10,684 --> 00:36:12,450
 - okay. now what?
 
 587
+=======
+563
+00:36:10,684 --> 00:36:12,450
+- okay. now what?
+
+564
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:12,517 --> 00:36:14,650
 - you know, put the bag
 right over the notebook,
 
+<<<<<<< HEAD
 588
+=======
+565
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:14,717 --> 00:36:16,218
 Turn it upside down,
 dump the pen out,
 
+<<<<<<< HEAD
 589
+=======
+566
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:16,284 --> 00:36:18,450
 Make sure it lands on the
 notebook and stays there.
 
+<<<<<<< HEAD
 590
+=======
+567
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:18,517 --> 00:36:20,251
 - that's it?
 just dump it out?
 
+<<<<<<< HEAD
 591
+=======
+568
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:20,318 --> 00:36:22,617
 - yeah.
 - just lay it on the notebook?
 
+<<<<<<< HEAD
 592
+=======
+569
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:22,684 --> 00:36:24,051
 - yeah.
 this isn't cirque du soleil!
 
+<<<<<<< HEAD
 593
+=======
+570
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:24,117 --> 00:36:25,684
 Just dump the pen on the book
 and stand back!
 
+<<<<<<< HEAD
 594
 00:36:25,750 --> 00:36:26,884
 - all right!
 
 595
+=======
+571
+00:36:25,750 --> 00:36:26,884
+- all right!
+
+572
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:34,717 --> 00:36:36,517
 - artie,
 nothing's happening.
 
+<<<<<<< HEAD
 596
+=======
+573
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:36,584 --> 00:36:39,251
 - uh, that's--that's okay.
 it's all right, it's fine.
 
+<<<<<<< HEAD
 597
+=======
+574
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:39,318 --> 00:36:41,517
 It's been a while
 since they've been together.
 
+<<<<<<< HEAD
 598
+=======
+575
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:41,584 --> 00:36:44,917
 Probably they're just
 getting reacquainted.
 
+<<<<<<< HEAD
 599
 00:36:44,984 --> 00:36:48,151
 [electrical buzzing]
 
 600
+=======
+576
+00:36:44,984 --> 00:36:48,151
+[electrical buzzing]
+
+577
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:36:48,218 --> 00:36:49,884
 - wait, wait.
 whoa, whoa, whoa, whoa.
 
+<<<<<<< HEAD
 601
 00:36:56,951 --> 00:36:58,750
 - dad?
@@ -2650,10 +4135,46 @@ Hi.
 - um, sort of.
 
 609
+=======
+578
+00:36:56,951 --> 00:36:58,750
+- dad?
+
+579
+00:37:04,550 --> 00:37:12,318
+- [moaning]
+
+580
+00:37:16,984 --> 00:37:18,851
+[exhales]
+
+581
+00:37:22,483 --> 00:37:23,483
+What's this?
+
+582
+00:37:25,318 --> 00:37:27,350
+- [gasps]
+
+583
+00:37:27,417 --> 00:37:28,517
+Hi.
+
+584
+00:37:28,584 --> 00:37:30,017
+- what, did i doze off?
+
+585
+00:37:30,084 --> 00:37:33,151
+- um, sort of.
+
+586
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:37:33,218 --> 00:37:37,517
 - i was dreaming
 you were reading and...
 
+<<<<<<< HEAD
 610
 00:37:46,750 --> 00:37:47,951
 You didn't burn it?
@@ -2675,82 +4196,166 @@ You didn't burn it?
 - [laughs]
 
 615
+=======
+587
+00:37:46,750 --> 00:37:47,951
+You didn't burn it?
+
+588
+00:37:48,017 --> 00:37:50,617
+- no.
+
+589
+00:37:54,717 --> 00:37:56,617
+[laughter]
+
+590
+00:37:56,684 --> 00:37:58,184
+- i-i did.
+
+591
+00:37:58,251 --> 00:37:59,584
+- [laughs]
+
+592
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:37:59,650 --> 00:38:03,851
 - okay, well, um,
 i think i've got everything.
 
+<<<<<<< HEAD
 616
+=======
+593
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:38:03,917 --> 00:38:06,284
 - honey?
 - yeah.
 
+<<<<<<< HEAD
 617
+=======
+594
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:38:06,350 --> 00:38:08,684
 Hey, i don't know what it is
 you do for a living,
 
+<<<<<<< HEAD
 618
+=======
+595
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:38:08,750 --> 00:38:12,784
 But you do it very well,
 and i mean that.
 
+<<<<<<< HEAD
 619
+=======
+596
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:38:18,584 --> 00:38:21,151
 I'll see you soon,
 and we'll--we'll talk.
 
+<<<<<<< HEAD
 620
+=======
+597
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:38:23,184 --> 00:38:25,817
 We'll talk about something
 other than books.
 
+<<<<<<< HEAD
 621
 00:38:30,750 --> 00:38:31,917
 - oh, mom.
 
 622
+=======
+598
+00:38:30,750 --> 00:38:31,917
+- oh, mom.
+
+599
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:38:31,984 --> 00:38:35,084
 - good-bye, honey.
 thank you so much.
 
+<<<<<<< HEAD
 623
+=======
+600
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:38:35,151 --> 00:38:38,817
 And, um,
 you take care of pete.
 
+<<<<<<< HEAD
 624
 00:38:38,884 --> 00:38:42,251
 - i always do.
 
 625
+=======
+601
+00:38:38,884 --> 00:38:42,251
+- i always do.
+
+602
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:38:50,151 --> 00:38:52,517
 - hello.
 - hello.
 
+<<<<<<< HEAD
 626
+=======
+603
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:38:54,051 --> 00:38:58,917
 - got everything?
 - yeah.
 
+<<<<<<< HEAD
 627
 00:38:58,984 --> 00:39:02,617
 - called the cab? n--
 
 628
+=======
+604
+00:38:58,984 --> 00:39:02,617
+- called the cab? n--
+
+605
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:02,684 --> 00:39:04,984
 - no, no. no, i didn't.
 - oh.
 
+<<<<<<< HEAD
 629
+=======
+606
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:05,051 --> 00:39:10,218
 - i think, mr. poe,
 that when your things arrive,
 
+<<<<<<< HEAD
 630
+=======
+607
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:10,284 --> 00:39:14,650
 We'll stick them in--yeah.
 the madrid section.
 
+<<<<<<< HEAD
 631
 00:39:14,717 --> 00:39:16,450
 That is if leena agrees.
@@ -2760,15 +4365,31 @@ That is if leena agrees.
 - arthur?
 
 633
+=======
+608
+00:39:14,717 --> 00:39:16,450
+That is if leena agrees.
+
+609
+00:39:16,517 --> 00:39:19,951
+- arthur?
+
+610
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:20,017 --> 00:39:22,750
 Pete and myka
 are in colorado springs.
 
+<<<<<<< HEAD
 634
+=======
+611
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:22,817 --> 00:39:24,784
 - yeah, i know.
 i should have tried--
 
+<<<<<<< HEAD
 635
 00:39:24,851 --> 00:39:26,151
 - and so is macpherson.
@@ -2778,24 +4399,48 @@ i should have tried--
 [computer beeps]
 
 637
+=======
+612
+00:39:24,851 --> 00:39:26,151
+- and so is macpherson.
+
+613
+00:39:26,218 --> 00:39:27,717
+[computer beeps]
+
+614
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:27,784 --> 00:39:31,984
 - what?
 how did he--
 
+<<<<<<< HEAD
 638
+=======
+615
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:32,051 --> 00:39:34,218
 He was there
 the whole time?
 
+<<<<<<< HEAD
 639
 00:39:34,284 --> 00:39:36,951
 - he had us all distracted.
 
 640
+=======
+616
+00:39:34,284 --> 00:39:36,951
+- he had us all distracted.
+
+617
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:37,017 --> 00:39:41,184
 I think that was
 macpherson's intent.
 
+<<<<<<< HEAD
 641
 00:39:41,251 --> 00:39:42,151
 [farnsworth buzzing]
@@ -2805,47 +4450,91 @@ macpherson's intent.
 - ooh.
 
 643
+=======
+618
+00:39:41,251 --> 00:39:42,151
+[farnsworth buzzing]
+
+619
+00:39:42,218 --> 00:39:45,984
+- ooh.
+
+620
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:46,051 --> 00:39:47,584
 I'll take the farnsworth.
 - good choice.
 
+<<<<<<< HEAD
 644
 00:39:47,650 --> 00:39:51,784
 - mm-hmm.
 
 645
+=======
+621
+00:39:47,650 --> 00:39:51,784
+- mm-hmm.
+
+622
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:51,851 --> 00:39:53,650
 Hey, artie,
 we're heading home.
 
+<<<<<<< HEAD
 646
+=======
+623
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:53,717 --> 00:39:56,483
 - myka! myka, listen!
 myka!
 
+<<<<<<< HEAD
 647
 00:39:57,984 --> 00:39:59,817
 - that was weird.
 
 648
+=======
+624
+00:39:57,984 --> 00:39:59,817
+- that was weird.
+
+625
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:39:59,884 --> 00:40:03,784
 - hold on.
 - vibe?
 
+<<<<<<< HEAD
 649
+=======
+626
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:40:03,851 --> 00:40:05,717
 - huge.
 your dad.
 
+<<<<<<< HEAD
 650
 00:40:05,784 --> 00:40:08,417
 - what?
 
 651
+=======
+627
+00:40:05,784 --> 00:40:08,417
+- what?
+
+628
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:40:09,984 --> 00:40:13,218
 Is this poe? are we back
 into the poe thing again?
 
+<<<<<<< HEAD
 652
 00:40:13,284 --> 00:40:15,851
 - i don't know.
@@ -2855,15 +4544,31 @@ into the poe thing again?
 - you two are good.
 
 654
+=======
+629
+00:40:13,284 --> 00:40:15,851
+- i don't know.
+
+630
+00:40:38,817 --> 00:40:41,817
+- you two are good.
+
+631
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:40:41,884 --> 00:40:44,184
 I see why mrs. frederic
 drafted you.
 
+<<<<<<< HEAD
 655
+=======
+632
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:40:48,084 --> 00:40:53,650
 - ah-ah! i kill this, and it's
 lights out for mom and dad.
 
+<<<<<<< HEAD
 656
 00:40:53,717 --> 00:40:54,984
 - you hurt my father.
@@ -2873,34 +4578,66 @@ lights out for mom and dad.
 - he glimpsed the mind
 
 658
+=======
+633
+00:40:53,717 --> 00:40:54,984
+- you hurt my father.
+
+634
+00:40:55,051 --> 00:40:56,350
+- he glimpsed the mind
+
+635
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:40:56,417 --> 00:40:57,517
 Of one of the greatest authors
 in the world.
 
+<<<<<<< HEAD
 659
 00:40:57,584 --> 00:40:58,951
 He'll thank me later.
 
 660
+=======
+636
+00:40:57,584 --> 00:40:58,951
+He'll thank me later.
+
+637
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:40:59,017 --> 00:41:01,951
 - oh, you'll be dead later.
 - what do you want?
 
+<<<<<<< HEAD
 661
+=======
+638
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:41:02,017 --> 00:41:05,184
 - i want what you risked
 your lives to get.
 
+<<<<<<< HEAD
 662
+=======
+639
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:41:05,251 --> 00:41:09,817
 I would have done it myself,
 but i lacked the means.
 
+<<<<<<< HEAD
 663
+=======
+640
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:41:11,884 --> 00:41:13,584
 You have
 until the count of one.
 
+<<<<<<< HEAD
 664
 00:41:13,650 --> 00:41:15,483
 - you came after family.
@@ -2910,10 +4647,22 @@ until the count of one.
 - arthur started it.
 
 666
+=======
+641
+00:41:13,650 --> 00:41:15,483
+- you came after family.
+
+642
+00:41:15,550 --> 00:41:16,851
+- arthur started it.
+
+643
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:41:16,917 --> 00:41:18,383
 - what is that
 supposed to mean?
 
+<<<<<<< HEAD
 667
 00:41:18,450 --> 00:41:20,851
 - ask him.
@@ -2947,26 +4696,77 @@ Do it!
 - what the hell was that?
 
 675
+=======
+644
+00:41:18,450 --> 00:41:20,851
+- ask him.
+
+645
+00:41:25,984 --> 00:41:27,350
+- pete.
+
+646
+00:41:35,784 --> 00:41:37,483
+Now let them go.
+
+647
+00:41:44,051 --> 00:41:45,017
+Do it!
+
+648
+00:41:49,650 --> 00:41:50,984
+- thank you.
+
+649
+00:41:51,051 --> 00:41:54,717
+- consider it a loan.
+
+650
+00:41:58,617 --> 00:42:01,517
+- [gasps]
+
+651
+00:42:01,584 --> 00:42:02,951
+- what the hell was that?
+
+652
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:42:03,017 --> 00:42:05,184
 - jack the ripper's
 lantern.
 
+<<<<<<< HEAD
 676
+=======
+653
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:42:05,251 --> 00:42:08,383
 - at least we know
 where that is now.
 
+<<<<<<< HEAD
 677
+=======
+654
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:42:11,318 --> 00:42:15,084
 Sync by <font color="#00ff00">honeybunny</font>
 www.addic7ed.com
 
+<<<<<<< HEAD
 678
+=======
+655
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:42:15,151 --> 00:42:19,550
 - he used us
 from the very beginning.
 
+<<<<<<< HEAD
 679
+=======
+656
+>>>>>>> a8b5dff34ef98314382c3e16102048f7ae7f3fdd
 00:42:19,617 --> 00:42:23,684
 - no. he used me.
 
