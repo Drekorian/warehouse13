@@ -1,10 +1,10 @@
 1
 00:00:00,411 --> 00:00:02,334
-V minulých dílech jste vidìli...
+V minulých dílech Warehouse 13...
 
 2
 00:00:02,400 --> 00:00:03,701
-Kdokoliv ukradl ten meè,
+A už ten meè ukradl kdokoli,
 
 3
 00:00:03,767 --> 00:00:05,801
@@ -32,7 +32,7 @@ Colorado Springs.
 
 9
 00:00:18,601 --> 00:00:22,300
-Mají tam  knihkupectví jménem Bering & synové.
+Mají tam knihkupectví jménem Bering & synové.
 
 10
 00:00:22,367 --> 00:00:24,501
@@ -44,3062 +44,2929 @@ Vidìls nìkdy ten film Velký Santini?
 
 12
 00:00:27,100 --> 00:00:31,441
-With the tough dad
-and the scared kids?
+To s tím pøísným otcema vydìšenýma dìckama?
 
 13
 00:00:32,034 --> 00:00:33,430
-- it's like that, huh?
+Bylo to tak zlý, co?
 
 14
 00:00:34,449 --> 00:00:36,621
-- yeah, except it wasn't over
-in two hours.
+Jo, až na to, že to neskonèilo za dvì hodiny.
 
 15
 00:00:39,283 --> 00:00:40,733
 Colorado City, COLORADO
 
 16
-00:00:27,100 --> 00:00:31,667
-To s tím pøísným otcem a vydìšenýma dìckama?
-
-17
-00:00:31,734 --> 00:00:33,667
-Bylo to až tak zlé, co?
-
-18
-00:00:33,734 --> 00:00:36,601
-Jo, až na to, že to neskonèilo za dvì hodiny.
-
-19
 00:01:12,197 --> 00:01:12,567
 No páni.
 
-20
+17
 00:01:18,132 --> 00:01:20,032
 Berlin, NÌMECKO
 
-21
+18
 00:01:22,033 --> 00:01:24,601
-- Myko?
-- Artie, jsem tady.
+- Myko? - Artie, jsem tady.
 
-22
+19
 00:01:24,667 --> 00:01:26,295
 V MacPhersonovì bytì.
 
-23
+20
 00:01:28,200 --> 00:01:29,259
-Myka, buï opatrná.
+Myko, buï opatrná.
 
-24
+21
 00:01:32,867 --> 00:01:34,450
 Macpherson je pryè. Další slepá ulièka.
 
-25
+22
 00:01:34,450 --> 00:01:35,400
 Našel jsem ho!
 
-26
+23
 00:01:35,467 --> 00:01:36,300
 Pete mìl v Montréalu víc štìstí.
 
-27
+24
 00:01:36,367 --> 00:01:38,200
 Jak víc štìstí?
 
-28
-00:01:38,267 --> 00:01:41,467
-[sirens]
-
-29
+25
 00:01:41,534 --> 00:01:44,000
 MacPherson míøí na východ do Sainte-Catherine!
 
-30
+26
 00:01:44,067 --> 00:01:45,601
 Artie, jdou po mnì poldové!
 
-31
+27
 00:01:45,667 --> 00:01:47,667
 - Poldù se zbavím, jdi dál po MacPhersonovi.
 
-32
+28
 00:01:47,734 --> 00:01:49,801
 - Napravo je ulièka. Míøí k metru.
 
-33
+29
 00:01:55,400 --> 00:01:56,734
 Pozor všem jednotkám.
 
-34
+30
 00:01:56,801 --> 00:01:59,267
 Zrušte pronásledování v Sainte-Catherine!
 
-35
+31
 00:01:59,334 --> 00:02:01,167
 Spadá to do kompetence Královské kanadské jízní policie!
 
-36
+32
 00:02:01,234 --> 00:02:03,534
 Opakuji: Spadá to pod KKJP!
 
-37
+33
 00:02:03,601 --> 00:02:05,634
 Máme ho, Artie!
 
-38
+34
 00:02:05,701 --> 00:02:08,667
 Buï opatrný, Pete. Nevíme, jestli je má.
 
-39
+35
 00:02:08,734 --> 00:02:11,534
 Artie.
 
-40
+36
 00:02:14,968 --> 00:02:17,634
 Vzdej to, MacPhersone. Tentokrát jsme tì dostali.
 
-41
-00:02:17,701 --> 00:02:19,501
-FIX_ME francouzské bláboly, asi smazat.
-
-42
+37
 00:02:22,501 --> 00:02:26,701
 Artie, má ten èinel. Má ten èinel!
 
-43
+38
 00:02:32,968 --> 00:02:34,534
 Pete, musíš odtama vypadnout! Prostì padej odtama!
 
-44
+39
 00:02:34,601 --> 00:02:36,567
 Když uvidíš èinely, zakryj si uš...
 
-45
-00:02:39,000 --> 00:02:41,234
-DELETE_ME
-
-46
+40
 00:02:46,534 --> 00:02:49,400
 - Pete? Artie? Co se stalo? Je všechno v poøádku?
 
-47
+41
 00:02:49,467 --> 00:02:53,567
 Pete! Pete, slyšíš mì?
 
-48
+42
 00:02:53,634 --> 00:02:54,534
 Pete!
 
-49
-00:02:59,200 --> 00:03:01,934
-DELETE_ME
-
-50
+43
 00:03:08,667 --> 00:03:15,667
-DELETE_ME
+...už víckrát ne...
 
-51
-00:03:19,868 --> 00:03:22,067
-DELETE_ME
-
-52
+44
 00:03:22,133 --> 00:03:24,767
 Pete. Hele, Pete. Pete, musíš vstát.
 
-53
+45
 00:03:28,701 --> 00:03:30,801
 Mami, jsem vzhùru. Nepøijdu pozdì.
 
-54
+46
 00:03:37,601 --> 00:03:44,067
 Jsem v pohodì. Stihl jsem si zakrýt uši.
 
-55
+47
 00:03:44,133 --> 00:03:47,434
 Kde je? Kde je MacPherson?
 
-56
+48
 00:03:47,501 --> 00:03:50,133
 Je pryè, Artie.
 
-57
+49
 00:03:50,200 --> 00:03:53,400
 Ztratil jsem ho. Ztratil jsem MacPhersona.
 
-58
+50
 00:03:53,467 --> 00:03:56,000
 Hele, mami, poslyš. Zrovna teï nemám èas.
 
-59
+51
 00:03:56,067 --> 00:03:58,100
-- Vážnì nemùžu...
-- Myko, jde o tátu.
+- Vážnì nemùžu... - Myko, jde o tátu.
 
-60
+52
 00:03:58,167 --> 00:04:01,434
 Zaèalo mù být špatnì a já... já... on... on...
 
-61
+53
 00:04:01,501 --> 00:04:02,834
 Co?
 
-62
+54
 00:04:02,901 --> 00:04:06,667
 Prostì pøijï domù. Proste se vra. Prostì pøijï domù.
 
-63
+55
 00:04:06,734 --> 00:04:07,968
 Musíme to tu zabalit.
 
-64
+56
 00:04:08,033 --> 00:04:11,567
 Artie, potøebuju domù.
 
-65
+57
 00:04:12,068 --> 00:04:14,568
 Jedu domù, mùj táta umírá.
 
-66
+58
 00:05:19,133 --> 00:05:22,601
 No ty vole!
 
-67
+59
 00:05:22,667 --> 00:05:25,068
 Ví Tamara že ji pronásleduješ?
 
-68
+60
 00:05:25,133 --> 00:05:28,001
-FIX_ME Or is this just
-for makeup tips?
+Nebo jenom chceš okoukat, jak se nalíèit?
 
-69
+61
 00:05:28,068 --> 00:05:30,734
 Vra mi to, Gregu.
 
-70
+62
 00:05:35,534 --> 00:05:38,267
 Nerozbreè se, blbeèku.
 
-71
+63
 00:05:50,267 --> 00:05:52,801
 No, já nevím, Leeno. Je to složité.
 
-72
+64
 00:05:52,867 --> 00:05:57,734
 MacPherson na nás líèí volavky a falešné stopy...
 
-73
+65
 00:05:57,801 --> 00:05:59,334
 má je po celém svìtì
 
-74
+66
 00:05:59,400 --> 00:06:02,167
 a mùj software to dokázal zúžit jen na dvì místa
 
-75
+67
 00:06:02,233 --> 00:06:04,601
 a Montréal se ukázal jako, chápeš,
 
-76
+68
 00:06:04,667 --> 00:06:09,300
 ten, který... øíkalas, že nechceš žádný ledo do li...
 
-77
+69
 00:06:12,034 --> 00:06:14,634
 Bože! Nedìlejte to!
 
-78
+70
 00:06:14,701 --> 00:06:18,934
-Paní Fredericová, co byste dìlala s Leenou?
+Paní Fredericová, co jste provedla s Leenou?
 
-79
-00:06:19,001 --> 00:06:22,534
-FIX_ME Sorry. would--would you care
-for a le--le--no.
+71
+00:06:19,001 --> 00:06:22,524
+Promiòte. Nedala... nedala byste si li... li... Ne.
 
-80
+72
 00:06:22,601 --> 00:06:24,734
 Jste tady, protože chcete vìdìt, co se stalo.
 
-81
+73
 00:06:24,801 --> 00:06:28,367
 Dva mrtví policisté. Vím, co se stalo.
 
-82
+74
 00:06:28,434 --> 00:06:31,434
 FIX_ME The montreal police have
 a dashboard camera in the car. dashboard camera = kamera na palubovce, snima to z pohledu ridce? vyraz?
 
-83
+75
 00:06:31,500 --> 00:06:33,534
 Ale to jsem Petovi øekl, nahrávku má on.
 
-84
+76
 00:06:33,601 --> 00:06:34,867
-Jak jste... prosím?
+- Jak jste... - Prosím tì.
 
-85
+77
 00:06:34,934 --> 00:06:36,400
 Podívejte se, sledovali jsme stopu.
 
-86
+78
 00:06:36,467 --> 00:06:38,034
 Støílel jsi od boku.
 
-87
+79
 00:06:38,100 --> 00:06:39,667
-Zasáhli jsme støed cíle.
+Zasáhli jsme støed terèe.
 
-88
+80
 00:06:39,734 --> 00:06:41,300
 Malorážní kulkou.
 
-89
+81
 00:06:41,367 --> 00:06:44,334
 Pete má velkorážní kulky. My...
 
-90
+82
 00:06:44,400 --> 00:06:46,400
 Víte co? Tahle analogie už staèila.
 
-91
+83
 00:06:46,467 --> 00:06:48,667
 Mìli jsme dohodu.
 
-92
+84
 00:06:48,734 --> 00:06:50,467
 Mìl jsi získat informace...
 
-93
+85
 00:06:50,534 --> 00:06:51,767
 - Já vím.
 - Pøínést je mì...
 
-94
+86
 00:06:51,834 --> 00:06:53,400
 - Jo.
 - A my bychom naplánováli...
 
-95
+87
 00:06:53,467 --> 00:06:55,100
 spoleèný postup proti MacPhersonovi.
 
-96
+88
 00:06:55,167 --> 00:06:57,567
 Nemìl jsi žádnou ofenzivní strategii.
 
-97
+89
 00:06:57,634 --> 00:07:00,601
 Žádné obranné postavení. Žádný záložní plán.
 
-98
+90
 00:07:00,667 --> 00:07:03,334
 Nebyl jsi pøipravený.
 
-99
+91
 00:07:03,400 --> 00:07:05,100
 Kde jsou Lattimer a Beringová?
 
-100
+92
 00:07:05,167 --> 00:07:07,068
 Pryè.
 
-101
+93
 00:07:10,567 --> 00:07:14,734
 Spravuj mùj majetek lépe nebo pøísahám pøi popelu
 
-102
+94
 00:07:14,801 --> 00:07:19,267
 pùvodních 12 skladiš, že jej dám pryè.
 
-103
+95
 00:07:19,334 --> 00:07:22,667
 - Zase MacPhersona dostanu. - O tom nepochybuji.
 
-104
+96
 00:07:22,734 --> 00:07:26,068
 Nepodnikneš proti nìmu žádné kroky, aniž bys je nejdøív se mnou konzultoval.
 
-105
+97
 00:07:26,133 --> 00:07:28,400
 Ano, madam.
 
-106
+98
 00:07:28,467 --> 00:07:30,200
 Máte...?
 
-107
+99
 00:07:37,233 --> 00:07:39,167
 Jak to dìlá?
 
-108
-00:07:44,567 --> 00:07:47,367
-DELETE_ME
-
-109
+100
 00:07:59,968 --> 00:08:02,601
 Dobrá, vážení.
 
-110
+101
 00:08:02,667 --> 00:08:06,467
 Prosím, zavøete své sešity, dámy a pánové.
 
-111
+102
 00:08:06,534 --> 00:08:09,500
 Tamaro, mohla bys je, prosím, posbírat?
 
-112
+103
 00:08:09,567 --> 00:08:13,467
-<i>okeydoke.
-john steinbeck's east of eden.</i>
+Tedy dobrá. "Na východ od ráje" od Johna Steinbecka.
+
+104
+00:08:13,534 --> 00:08:17,167
+Zrada, ztracená láska, žárlivost. Dobré ètení.
+
+105
+00:08:17,233 --> 00:08:19,834
+Prosím, pøeètìte si prvních 50 stran, zítra si udìláme diskuzi.
+
+106
+00:08:19,901 --> 00:08:21,233
+Když budete té lásky. Pøíjemné poètení.
+
+107
+00:08:31,267 --> 00:08:35,233
+Bobby, mùžeš na okamžik?
+
+108
+00:08:35,300 --> 00:08:37,367
+Jsi v poøádku? Zdál ses mi trošku roztìkaný.
+
+109
+00:08:37,434 --> 00:08:40,233
+Úkol do výpoèetky. Ponocoval jsem.
+
+110
+00:08:41,934 --> 00:08:43,434
+Už... už jsi s ní mluvil?
+
+111
+00:08:48,267 --> 00:08:50,601
+Nìco pro tebe mám.
+
+112
+00:09:24,233 --> 00:09:28,400
+- Díky, Tamaro. - Není zaè.
 
 113
-00:08:13,534 --> 00:08:17,167
-Betrayal, lost love,
-jealousy. good stuff.
+00:09:28,467 --> 00:09:32,801
+Poezie. Burns, Blake, Byron.
 
 114
-00:08:17,233 --> 00:08:19,834
-Please read the first 50 pages
-for discussion tomorrow,
+00:09:32,867 --> 00:09:35,801
+A to je jenom B.
 
 115
-00:08:19,901 --> 00:08:21,233
-If you would.
-have a good one.
+00:09:35,867 --> 00:09:39,001
+Nech je, a mluví za tebe, hm?
 
 116
-00:08:21,300 --> 00:08:24,100
-[eerie whispering]
+00:09:40,801 --> 00:09:42,500
+Hodnì štìstí.
 
 117
-00:08:31,267 --> 00:08:35,233
-- bobby, can you come here
-for a sec?
+00:10:02,567 --> 00:10:04,233
+Mami.
 
 118
-00:08:35,300 --> 00:08:37,367
-You okay? uh, you
-seem a little distracted.
+00:10:04,300 --> 00:10:05,834
+Mami?
 
 119
-00:08:37,434 --> 00:08:40,233
-- computer lab thing.
-up late.
+00:10:05,901 --> 00:10:07,534
+- Mami. - Ach, Myko.
 
 120
-00:08:41,934 --> 00:08:43,434
-- did you, uh--
-did you talk to her yet?
+00:10:07,601 --> 00:10:10,534
+Ahoj, ahoj! Tvùj telefon nefunguje...
 
 121
-00:08:48,267 --> 00:08:50,601
-I've got something for you.
+00:10:10,601 --> 00:10:12,434
+- ...a já ti volala, ale.... - Vybila se mi baterka.
 
 122
-00:08:56,968 --> 00:09:00,534
-[eerie whispering]
+00:10:12,500 --> 00:10:14,567
+- Kde je? - Je v poøádku, neboj.
 
 123
-00:09:24,233 --> 00:09:28,400
-- thanks, tamara.
-- no problem.
+00:10:14,634 --> 00:10:16,934
+Je nahoøe, proè se za ním nejdeš nahoru podívat?
 
 124
-00:09:28,467 --> 00:09:32,801
-- poetry.
-burns, blake, byron.
+00:10:17,001 --> 00:10:21,233
+Je mi líto, že jsem tì vydìsila, ale už je v poøádku.
 
 125
-00:09:32,867 --> 00:09:35,801
-That's just the bs.
+00:10:21,300 --> 00:10:22,968
+- Ahoj. - Ahoj.
 
 126
-00:09:35,867 --> 00:09:39,001
-Let them do the talking
-for you, hmm?
+00:10:23,034 --> 00:10:25,534
+- Jo. Výlet nadarmo, holka.
 
 127
-00:09:40,801 --> 00:09:42,500
-Good luck.
+00:10:25,601 --> 00:10:27,300
+Vzala sis sem zbraò?
 
 128
-00:09:52,167 --> 00:09:55,001
-[eerie whispering]
+00:10:27,367 --> 00:10:29,467
+- Jo je zabalená dole. Rozebraná.
 
 129
-00:10:02,567 --> 00:10:04,233
-- mom.
+00:10:29,534 --> 00:10:30,934
+Myslela jsem, že budeš v nemocnici.
 
 130
-00:10:04,300 --> 00:10:05,834
-Mom?
+00:10:31,001 --> 00:10:32,934
+- Myslela jsem, že umíráš. - Tvoje matka pøehánìla.
 
 131
-00:10:05,901 --> 00:10:07,534
-Mom.
-- oh, myka!
+00:10:33,001 --> 00:10:35,567
+Jsem v poøádku.
 
 132
-00:10:07,601 --> 00:10:10,534
-Hi, hi!
-your cell phone isn't working,
+00:10:35,634 --> 00:10:38,834
+- To nebyla mrtvice? - Ne, ne, ne, žádná mrtvice.
 
 133
-00:10:10,601 --> 00:10:12,434
-And i tried calling, but--
-- the battery died.
+00:10:38,901 --> 00:10:41,834
+Udìlali mu pár dalších testù, ale Bože!
 
 134
-00:10:12,500 --> 00:10:14,567
-Where is he?
-- he's fine. don't worry.
+00:10:41,901 --> 00:10:43,068
+Mìlas ho slyšet køièet.
 
 135
-00:10:14,634 --> 00:10:16,934
-He's upstairs. why don't you
-go up and see him?
+00:10:43,133 --> 00:10:44,634
+- Já nekøièel.
+- Ale.
 
 136
-00:10:17,001 --> 00:10:21,233
-Sorry i scared you,
-but he's fine now.
+00:10:44,701 --> 00:10:46,300
+Celý svùj život jsem nekøièel!
 
 137
-00:10:21,300 --> 00:10:22,968
-- hey.
-- hey.
+00:10:46,367 --> 00:10:48,701
+Pamatuješ si, co se stalo?
 
 138
-00:10:23,034 --> 00:10:25,534
-- yep.
-a wasted trip, kiddo.
+00:10:48,767 --> 00:10:51,334
+Ne, nepamatuju se nic. Akorát, že jsem se vzbudil
 
 139
-00:10:25,601 --> 00:10:27,300
-You bring a gun in here?
+00:10:51,400 --> 00:10:54,701
+v sanitce a øíkal si, co se to kèertu asi dìje.
 
 140
-00:10:27,367 --> 00:10:29,467
-- yeah, it's packed
-downstairs, disassembled.
+00:10:54,767 --> 00:10:57,467
+- Jeannie, udìlej holce nìco k jídlu. - Mami, já... já nemám hlad.
 
 141
-00:10:29,534 --> 00:10:30,934
-I thought you
-were in the hospital.
+00:10:57,534 --> 00:10:59,634
+To protože tvoje chu k jídlu umøela hlady.
 
 142
-00:10:31,001 --> 00:10:32,934
-I thought you were dying.
-- your mother overreacted.
+00:10:59,701 --> 00:11:01,901
+Hm, doktor øíkal, že by to mohl být virus.
 
 143
-00:10:33,001 --> 00:10:35,567
-I'm fine.
+00:11:01,968 --> 00:11:03,467
+Seš moc hubená.
 
 144
-00:10:35,634 --> 00:10:38,834
-- it's not a stroke?
-- no, no, no, not a stroke.
+00:11:03,534 --> 00:11:06,734
+Nìco s vnitøním uchem nebo zánìt páteøe.
 
 145
-00:10:38,901 --> 00:10:41,834
-We've got a few more tests,
-but, oh, god,
+00:11:06,801 --> 00:11:09,634
+Hm, dali mu steroidy a antiviriotika.
 
 146
-00:10:41,901 --> 00:10:43,068
-You should have heard him
-screaming.
+00:11:09,701 --> 00:11:13,801
+Paní B., jé, èau.
 
 147
-00:10:43,133 --> 00:10:44,634
-- i didn't scream.
-- oh.
+00:11:13,867 --> 00:11:18,068
+Budu potøebovat recept. Tahle pálivá omáèka je super.
 
 148
-00:10:44,701 --> 00:10:46,300
-- i've never screamed
-in my life!
+00:11:18,133 --> 00:11:20,334
+Výbornì. Ó, máte tady trochu...
 
 149
-00:10:46,367 --> 00:10:48,701
-- do you remember
-what happened?
+00:11:20,400 --> 00:11:22,434
+Kouknìte se na sebe. - Ó, pardon.
 
 150
-00:10:48,767 --> 00:10:51,334
-- no, i don't remember
-anything, except waking up
+00:11:22,500 --> 00:11:24,467
+Co tady...?
 
 151
-00:10:51,400 --> 00:10:54,701
-In the ambulance, wondering
-what the fuss was all about.
+00:11:24,534 --> 00:11:26,734
+- No, Peta už známe. - Páni, to je otrapa.
 
 152
-00:10:54,767 --> 00:10:57,467
-Jeannie, get the girl some food.
-- mom, i'm--i'm not hungry.
+00:11:26,801 --> 00:11:28,334
+Právì jsem pøijel, poznal tvého tátu.
 
 153
-00:10:57,534 --> 00:10:59,634
-- it's because you've starved
-your hunger nerve to death.
+00:11:28,400 --> 00:11:32,300
+Ty jsou vaše? Našel jsem je v kuchyni.
 
 154
-00:10:59,701 --> 00:11:01,901
-- uh, the doctor said
-it might be a virus.
+00:11:32,367 --> 00:11:34,500
+Jo, velice se omlouvám. Ty jsou na...
 
 155
-00:11:01,968 --> 00:11:03,467
-- you're too skinny.
+00:11:34,567 --> 00:11:37,500
+sbírání dùkazù, promiòte.
 
 156
-00:11:03,534 --> 00:11:06,734
-- um, an inner ear
-or spinal inflammation.
+00:11:37,567 --> 00:11:38,867
+Co tady dìláš?
 
 157
-00:11:06,801 --> 00:11:09,634
-Um, they've got him on steroids
-and an anti-viral.
+00:11:38,934 --> 00:11:40,667
+No, napadlo mì, že bys mohla potøebovat podporu.
 
 158
-00:11:09,701 --> 00:11:13,801
-- oh, mrs. b.
-oh, hi.
-
-159
-00:11:13,867 --> 00:11:18,068
-I am gonna need this recipe.
-the hot sauce is killer.
-
-160
-00:11:18,133 --> 00:11:20,334
-- great.
-oh, you've got some--
-
-161
-00:11:20,400 --> 00:11:22,434
-Look at you.
-- oh, sorry.
-
-162
-00:11:22,500 --> 00:11:24,467
-- what are you--?
-
-163
-00:11:24,534 --> 00:11:26,734
-- oh, we've met pete.
-- boy, he's a pip.
-
-164
-00:11:26,801 --> 00:11:28,334
-- just got here.
-met your dad.
-
-165
-00:11:28,400 --> 00:11:32,300
-- are these yours?
-found them in the kitchen.
-
-166
-00:11:32,367 --> 00:11:34,500
-- yeah. i'm so sorry.
-they're, uh,
-
-167
-00:11:34,567 --> 00:11:37,500
-For collecting evidence.
-i'm sorry.
-
-168
-00:11:37,567 --> 00:11:38,867
-- what are you
-doing here?
-
-169
-00:11:38,934 --> 00:11:40,667
-- well, i thought
-you might need the support.
-
-170
 00:11:40,734 --> 00:11:43,233
 Artie disagreed
 but was overruled.
 
-171
+159
 00:11:43,300 --> 00:11:45,367
-- [laughs]
-by who?
+Kým?
+
+160
+00:11:45,434 --> 00:11:47,834
+Mnou, otrapou.
+
+161
+00:11:47,901 --> 00:11:51,334
+No, nepotøebuju žádnou podporu.
+
+162
+00:11:51,400 --> 00:11:53,567
+Hm... sleèna Nezávislá. Já taky ne.
+
+163
+00:11:53,634 --> 00:11:55,701
+Vážnì, tati. Jsem tu, jak dlouho?
+
+164
+00:11:55,767 --> 00:11:57,300
+- Minutu?
+- A taky sleèna Netykavka.
+
+165
+00:11:57,367 --> 00:11:58,667
+Prosím tì, Warrene.
+
+166
+00:11:58,734 --> 00:12:00,367
+Musím jít dolù do sklepa.
+
+167
+00:12:00,434 --> 00:12:02,434
+Snìz nìco!
+
+168
+00:12:02,500 --> 00:12:05,200
+Nemám hlad.
+
+169
+00:12:05,267 --> 00:12:09,834
+No, pùjdu pøipravit pokoj pro hosty.
+
+170
+00:12:09,901 --> 00:12:12,233
+A pro tvoji postel mám nové flanelové povleèení.
+
+171
+00:12:12,300 --> 00:12:15,200
+Koupila jsem ho u Dodyho. Ne, ne, ne. Jste mými hosty.
 
 172
-00:11:45,434 --> 00:11:47,834
-- by me.
-the pip.
+00:12:15,267 --> 00:12:18,400
+Je to mùj dùm. Jste mými hosty.
 
 173
-00:11:47,901 --> 00:11:51,334
-- well, i don't need
-any support.
+00:12:22,467 --> 00:12:24,601
+Páni.
 
 174
-00:11:51,400 --> 00:11:53,567
-- miss independent,
-me neither.
+00:12:24,667 --> 00:12:25,934
+A co práce?
 
 175
-00:11:53,634 --> 00:11:55,701
-- seriously, dad.
-i've been here for, like, what?
+00:12:26,001 --> 00:12:28,034
+Hm, no práce zmizla.
 
 176
-00:11:55,767 --> 00:11:57,300
-A minute?
-- miss touchy, too.
+00:12:28,100 --> 00:12:33,001
+A než se zase objeví, tak jsem tady jako pøítel.
 
 177
-00:11:57,367 --> 00:11:58,667
-- oh, please, warren.
-
-178
-00:11:58,734 --> 00:12:00,367
-- i've got to go down
-to the basement.
-
-179
-00:12:00,434 --> 00:12:02,434
-Eat something!
-
-180
-00:12:02,500 --> 00:12:05,200
-- i'm not hungry.
-
-181
-00:12:05,267 --> 00:12:09,834
-- well, um, i'm going to get
-that guest room ready.
-
-182
-00:12:09,901 --> 00:12:12,233
-And for your bed, i've got
-some new flannel sheets
-
-183
-00:12:12,300 --> 00:12:15,200
-I got at dody's.
-no, no, no. you are my guests.
-
-184
-00:12:15,267 --> 00:12:18,400
-It's my house.
-you're my guests.
-
-185
-00:12:22,467 --> 00:12:24,601
-- wow.
-[laughs]
-
-186
-00:12:24,667 --> 00:12:25,934
-- what about work?
-
-187
-00:12:26,001 --> 00:12:28,034
-- uh, well,
-work vanished.
-
-188
-00:12:28,100 --> 00:12:33,001
-And until it reappears,
-i'm here as a friend
-
-189
 00:12:33,068 --> 00:12:35,968
-In this hopefully
+FIX_ME In this hopefully
 not too stressful time.
 
-190
+178
 00:12:36,034 --> 00:12:39,701
-I mean, it could have
+FIX_ME I mean, it could have
 been worse, right? your dad?
 
-191
+179
 00:12:39,767 --> 00:12:43,200
-- thank you.
+Díky.
 
-192
+180
 00:12:43,267 --> 00:12:48,133
-No, i-i appreciate it,
-and you're right.
+Vážnì, já... oceòuju to. Máš pravdu.
 
-193
+181
 00:12:48,200 --> 00:12:49,801
-It could have been worse.
+Mohlo to být horší.
 
-194
+182
 00:12:49,867 --> 00:12:52,367
 - well, hey, wait, wait.
 myka, myka, myka.
 
-195
+183
 00:12:52,434 --> 00:12:53,801
 - yeah?
 
-196
+184
 00:12:53,867 --> 00:12:55,200
 - look, i was talking
 to your dad.
 
-197
+185
 00:12:55,267 --> 00:12:57,834
 He thinks you're still in d.c.
 they both do.
 
-198
+186
 00:12:57,901 --> 00:12:59,567
 - well, yeah.
 
-199
+187
 00:12:59,634 --> 00:13:01,467
 And if you tell them
 any differently, i swear,
 
-200
+188
 00:13:01,534 --> 00:13:04,233
 I will--i will drop a dictionary
 on your crotch.
 
-201
+189
 00:13:04,300 --> 00:13:06,467
 What? i'm supposed to tell them
 that i'm working
 
-202
+190
 00:13:06,534 --> 00:13:09,068
-<i>for the world's most dangerous
-antiques roadshow?</i>
+for the world's most dangerous
+antiques roadshow?
 
-203
+191
 00:13:09,133 --> 00:13:11,133
 - no.
 you tell them the truth.
 
-204
+192
 00:13:11,200 --> 00:13:12,367
 Or at least
 part of the truth.
 
-205
+193
 00:13:12,434 --> 00:13:13,734
 I don't know. something
 to cut the stress.
 
-206
+194
 00:13:13,801 --> 00:13:15,434
 - i'm not stressed.
 
-207
+195
 00:13:15,500 --> 00:13:17,334
 - you're lying to them.
 
-208
+196
 00:13:17,400 --> 00:13:19,068
 - it's a force of habit,
 you know?
 
-209
-00:13:19,133 --> 00:13:22,701
+197
+00:13:19,133 --> 00:13:20,701
 It keeps my dad from being
 disappointed.
 
-210
-00:13:22,767 --> 00:13:26,068
+198
+00:13:22,767 --> 00:13:25,368
 You have hot sauce
 all over your face.
 
-211
+199
 00:13:28,233 --> 00:13:31,068
 [eerie whispering]
 
-212
+200
 00:13:56,634 --> 00:13:59,434
 [eerie whispering]
 
-213
+201
 00:14:55,534 --> 00:14:59,100
 - [screams]
 
-214
-00:15:04,167 --> 00:15:05,167
+202
+00:15:04,667 --> 00:15:05,067
 - dad!
 
-215
-00:15:07,233 --> 00:15:08,500
+203
+00:15:07,633 --> 00:15:08,100
 Mom?
 
-216
-00:15:08,567 --> 00:15:10,968
+204
+00:15:08,567 --> 00:15:09,868
 - myka, get back.
 
-217
-00:15:11,034 --> 00:15:13,367
+205
+00:15:12,134 --> 00:15:13,467
 - dad?
 
-218
-00:15:13,434 --> 00:15:14,934
+206
+00:15:13,434 --> 00:15:14,750
 - watch your eyes.
 
-219
+207
 00:15:15,001 --> 00:15:15,901
 - oh!
 
-220
+208
 00:15:15,968 --> 00:15:17,634
 [electricity crackles]
 
-221
+209
 00:15:17,701 --> 00:15:20,167
 - warren. warren.
 
-222
+210
 00:15:20,233 --> 00:15:24,267
 What happened?
 - what happened is...
 
-223
+211
 00:15:25,268 --> 00:15:26,568
 Your dad's got an artifact.
 
-224
+212
 00:15:41,184 --> 00:15:42,751
 - myka!
 
-225
+213
 00:15:42,817 --> 00:15:44,550
 Myka! hey!
 
-226
+214
 00:15:47,250 --> 00:15:49,450
 - where's the notebook?
 - it's this way.
 
-227
+215
 00:15:49,517 --> 00:15:50,784
 - myka?
 - mom, it's okay.
 
-228
+216
 00:15:50,851 --> 00:15:51,984
 - myka, who is it?
 is she--
 
-229
+217
 00:15:52,051 --> 00:15:53,584
 - this is claudia.
 we work with her.
 
-230
+218
 00:15:53,650 --> 00:15:56,084
 - what's that?
 - that is--
 
-231
+219
 00:15:56,151 --> 00:15:59,084
 - claudia, back here.
 
-232
+220
 00:15:59,151 --> 00:16:00,350
 - that's for me.
 
-233
+221
 00:16:00,417 --> 00:16:02,851
 - no, you wait
 just a minute.
 
-234
+222
 00:16:02,917 --> 00:16:05,317
 I want some answers,
 myka.
 
-235
+223
 00:16:05,383 --> 00:16:07,218
 Now, first of all, who is
 the man in the little tv?
 
-236
+224
 00:16:07,283 --> 00:16:08,484
 - his name is artie.
 
-237
+225
 00:16:08,550 --> 00:16:10,084
 - and is he a doctor?
 - no, but--
 
-238
+226
 00:16:10,151 --> 00:16:11,617
 - your father belongs
 in a hospital.
 
-239
+227
 00:16:11,684 --> 00:16:14,684
 - this isn't medical. mom,
 this is something else.
 
-240
+228
 00:16:14,751 --> 00:16:16,650
 - and how do you know?
 you're not a doctor.
 
-241
+229
 00:16:16,717 --> 00:16:18,051
 You protect the president.
 
-242
+230
 00:16:18,118 --> 00:16:21,550
 - not anymore.
 
-243
-00:16:21,617 --> 00:16:26,118
+231
+00:16:21,617 --> 00:16:25,575
 I'm still with the government,
 but i am doing this now.
 
-244
-00:16:26,184 --> 00:16:30,350
+232
+00:16:26,184 --> 00:16:29,457
 - what?
 what are you doing?
 
-245
-00:16:33,250 --> 00:16:38,084
+233
+00:16:33,250 --> 00:16:37,801
 - i'm trying to help dad, mom,
 so just let me do that.
 
-246
-00:16:38,151 --> 00:16:42,684
+234
+00:16:38,151 --> 00:16:41,199
 Trust me.
 please.
 
-247
-00:16:49,951 --> 00:16:51,884
+235
+00:16:49,951 --> 00:16:50,984
 - ready?
 - yeah.
 
-248
+236
 00:16:51,951 --> 00:16:53,784
 Um, mom, just stay here.
 
-249
+237
 00:16:53,851 --> 00:16:56,650
 Whatever you see or hear,
 just stay put.
 
-250
-00:16:56,717 --> 00:17:00,218
+238
+00:16:56,717 --> 00:16:57,643
 - but--
 - just don't move.
 
-251
-00:17:00,283 --> 00:17:02,717
+239
+00:17:00,383 --> 00:17:00,717
 - do--
 
-252
-00:17:02,784 --> 00:17:05,184
+240
+00:17:02,984 --> 00:17:04,584
 - it'll be okay.
 
-253
-00:17:05,250 --> 00:17:07,751
+241
+00:17:04,950 --> 00:17:06,791
 They do this kind of stuff
 all the time, so--
 
-254
-00:17:07,817 --> 00:17:09,584
+242
+00:17:07,317 --> 00:17:08,984
 - claudia?
 - i gotta--
 
-255
-00:17:09,650 --> 00:17:13,250
+243
+00:17:09,650 --> 00:17:10,950
 - but what's going on?
 
-256
-00:17:13,317 --> 00:17:15,084
+244
+00:17:13,317 --> 00:17:14,818
 - they're really good
 at this.
 
-257
+245
 00:17:17,084 --> 00:17:19,283
 - [groans]
 
-258
-00:17:19,350 --> 00:17:22,250
+246
+00:17:19,550 --> 00:17:21,050
 - here it is.
 
-259
-00:17:26,017 --> 00:17:27,550
+247
+00:17:25,717 --> 00:17:27,150
 - kill it.
 
-260
-00:17:29,051 --> 00:17:31,984
+248
+00:17:29,051 --> 00:17:29,776
 - duck and cover.
 
-261
-00:17:34,118 --> 00:17:36,751
+249
+00:17:34,118 --> 00:17:35,451
 - what's happening?
 
-262
-00:17:36,817 --> 00:17:38,417
+250
+00:17:36,817 --> 00:17:37,761
 - mom, how's dad?
 
-263
-00:17:38,484 --> 00:17:43,017
+251
+00:17:38,484 --> 00:17:41,800
 - um, he's the same.
 
-264
-00:17:43,084 --> 00:17:44,383
+252
+00:17:42,584 --> 00:17:44,079
 Why, was something
 supposed to happen?
 
-265
-00:17:47,917 --> 00:17:50,417
+253
+00:17:47,917 --> 00:17:49,137
 - check his arms.
 
-266
-00:17:50,484 --> 00:17:52,118
+254
+00:17:50,484 --> 00:17:51,864
 - it's still there.
 
-267
-00:17:56,851 --> 00:18:00,784
+255
+00:17:56,851 --> 00:17:59,984
 - it's ink.
 ink.
 
-268
+256
 00:18:00,851 --> 00:18:01,684
 Take it out.
 
-269
-00:18:11,118 --> 00:18:13,851
+257
+00:18:11,118 --> 00:18:12,181
 - now what?
 
-270
-00:18:13,917 --> 00:18:15,617
+258
+00:18:13,917 --> 00:18:15,355
 - the neutralizer failed
 
-271
-00:18:15,684 --> 00:18:17,884
+259
+00:18:15,684 --> 00:18:17,684
 Because i think we're dealing
 with a bifurcated object.
 
-272
+260
 00:18:17,951 --> 00:18:19,851
 It's--it's got
 at least two parts,
 
-273
-00:18:19,917 --> 00:18:22,317
+261
+00:18:19,917 --> 00:18:22,217
 And they're each dependent
 on the other.
 
-274
-00:18:22,383 --> 00:18:27,684
+262
+00:18:22,383 --> 00:18:27,084
 And, uh, that notebook is just
 one half of the package.
 
-275
-00:18:27,751 --> 00:18:29,084
+263
+00:18:27,551 --> 00:18:28,241
 - so what's the other half?
 
-276
-00:18:29,151 --> 00:18:31,151
+264
+00:18:28,241 --> 00:18:31,151
 - you know, based on
 the manifestations of the ink,
 
-277
-00:18:31,218 --> 00:18:33,084
+265
+00:18:31,218 --> 00:18:33,056
 Then that would tell me that
 it's a pen,
 
-278
-00:18:33,151 --> 00:18:34,917
+266
+00:18:33,151 --> 00:18:34,717
 Most like--well, a pen,
 anyway.
 
-279
-00:18:34,984 --> 00:18:36,917
+267
+00:18:34,784 --> 00:18:36,647
 Oh, by the way,
 the shipper's address?
 
-280
-00:18:36,984 --> 00:18:39,017
+268
+00:18:36,714 --> 00:18:38,032
 That's completely phony.
 
-281
-00:18:39,084 --> 00:18:41,517
+269
+00:18:39,084 --> 00:18:40,817
 - macpherson sent it,
 didn't he?
 
-282
-00:18:41,584 --> 00:18:44,250
+270
+00:18:41,584 --> 00:18:43,950
 - [sighs]
 i don't know that.
 
-283
+271
 00:18:44,317 --> 00:18:45,951
 - so what?
 he's coming after family now?
 
-284
+272
 00:18:46,017 --> 00:18:47,884
 - what does he want?
 - well, he wants to hurt us,
 
-285
+273
 00:18:47,951 --> 00:18:50,350
 Because we're going after him.
 - stop, stop, stop, stop.
 
-286
+274
 00:18:50,417 --> 00:18:53,450
 Just stop it. we don't know
 who sent it or why.
 
-287
+275
 00:18:53,517 --> 00:18:56,118
 If it is macpherson,
 it could be revenge or mischief
 
-288
+276
 00:18:56,184 --> 00:18:57,751
 Or a diversion
 so that we're doing this
 
-289
-00:18:57,817 --> 00:18:59,751
+277
+00:18:57,817 --> 00:18:59,351
 While he's doing
 something else.
 
-290
+278
 00:18:59,817 --> 00:19:02,484
 Just in case,
 just to be safe, i've, uh--
 
-291
+279
 00:19:02,550 --> 00:19:07,118
 I'm circling the wagons
 around joshua
 
-292
+280
 00:19:07,184 --> 00:19:08,317
 And around pete's family.
 
-293
+281
 00:19:08,383 --> 00:19:10,517
 Who or why does not matter.
 
-294
+282
 00:19:10,584 --> 00:19:12,617
 What matters is your father
 and the notebook.
 
-295
+283
 00:19:12,684 --> 00:19:14,283
 Now--now, listen.
 
-296
+284
 00:19:14,350 --> 00:19:18,751
 I've analyzed the text.
 it ain't good. it's poe.
 
-297
+285
 00:19:18,817 --> 00:19:22,317
 Um, edgar allan poe.
 
-298
+286
 00:19:22,383 --> 00:19:25,383
 The reason that the book is
 getting under your father's skin
 
-299
+287
 00:19:25,450 --> 00:19:27,617
 Is because the pen
 is not with it.
 
-300
+288
 00:19:27,684 --> 00:19:29,951
 - so, what? we bring the pen
 together with the notebook
 
-301
+289
 00:19:30,017 --> 00:19:32,250
 And this all stops?
 - yeah.
 
-302
+290
 00:19:32,317 --> 00:19:34,350
 Well, probably,
 
-303
-00:19:34,417 --> 00:19:37,617
+291
+00:19:34,417 --> 00:19:36,805
 If it follows a typical
 bifurcated artifact scenario.
 
-304
+292
 00:19:37,684 --> 00:19:39,484
 It can't be an accident
 
-305
-00:19:39,550 --> 00:19:41,517
+293
+00:19:39,550 --> 00:19:41,417
 That this book found its way
 to your dad.
 
-306
-00:19:41,584 --> 00:19:47,684
+294
+00:19:41,584 --> 00:19:46,984
 Look, uh, myka, right now
 your father is a conduit.
 
-307
+295
 00:19:47,751 --> 00:19:49,851
 The notebook, the pen, they're
 linked through his energy,
 
-308
-00:19:49,917 --> 00:19:52,751
+296
+00:19:49,917 --> 00:19:52,651
 Through his love
 of the written word.
 
-309
-00:19:52,817 --> 00:19:54,650
+297
+00:19:52,817 --> 00:19:53,850
 - so where is this pen?
 
-310
+298
 00:19:54,717 --> 00:19:57,784
 - well, i'm searching for
 coinciding incidents right now.
 
-311
+299
 00:19:57,851 --> 00:19:59,417
 Uh, you know, i've got
 the filters off.
 
-312
+300
 00:19:59,484 --> 00:20:01,184
 - but it's causing trouble
 somewhere?
 
-313
+301
 00:20:01,250 --> 00:20:02,650
 - but i'll find it.
 you'll get it.
 
-314
+302
 00:20:02,717 --> 00:20:04,884
 The next time he has an attack,
 i'll trace the pen.
 
-315
+303
 00:20:04,951 --> 00:20:06,751
 You'll retrieve it and reunite
 it with the notebook.
 
-316
-00:20:06,817 --> 00:20:08,184
+304
+00:20:06,817 --> 00:20:07,884
 - how long does he have?
 
-317
-00:20:08,250 --> 00:20:09,917
+305
+00:20:08,250 --> 00:20:09,517
 - i don't know what you--
 how long--what?
 
-318
-00:20:09,984 --> 00:20:11,450
+306
+00:20:09,984 --> 00:20:10,950
 - how long does he have?
 
-319
+307
 00:20:11,517 --> 00:20:14,218
 Artie, my father can't
 take this much longer.
 
-320
+308
 00:20:14,283 --> 00:20:17,417
 - um...
 
-321
+309
 00:20:17,484 --> 00:20:19,517
 [stutters]
 
-322
+310
 00:20:19,584 --> 00:20:22,084
 A day.
 maybe two.
 
-323
+311
 00:20:22,151 --> 00:20:24,017
 But you can help him.
 
-324
+312
 00:20:24,084 --> 00:20:25,717
 Until i land on something,
 myka,
 
-325
+313
 00:20:25,784 --> 00:20:30,017
 Just surround him with
 his books, with his world,
 
-326
+314
 00:20:30,084 --> 00:20:33,484
 And read to him, myka,
 read to him books that he loves
 
-327
+315
 00:20:33,550 --> 00:20:36,417
 And use those words to fight
 what's happening to him.
 
-328
-00:20:36,484 --> 00:20:41,684
+316
+00:20:36,484 --> 00:20:40,984
 And just try to keep him
 connected to reality if you can.
 
-329
-00:20:50,751 --> 00:20:52,550
+317
+00:20:50,751 --> 00:20:52,350
 - bobby's not that bad.
 
-330
-00:20:52,617 --> 00:20:54,917
+318
+00:20:52,617 --> 00:20:54,453
 - look, all i'm saying is,
 watch out.
 
-331
+319
 00:20:54,984 --> 00:20:56,317
 [both laugh]
 
-332
-00:20:56,383 --> 00:20:59,584
+320
+00:20:56,383 --> 00:20:57,185
 Geek love. ugh!
 
-333
-00:21:04,884 --> 00:21:08,317
+321
+00:21:04,884 --> 00:21:07,077
 - "i might have been improved
 for my whole life.
 
-334
-00:21:08,383 --> 00:21:11,684
+322
+00:21:08,383 --> 00:21:10,884
 "i might have been made
 another creature, perhaps,
 
-335
-00:21:11,751 --> 00:21:16,383
+323
+00:21:11,751 --> 00:21:14,915
 For life, by a kind word,
 at that season..."
 
-336
+324
 00:21:20,984 --> 00:21:22,484
 - do you
 want me to take over?
 
-337
-00:21:22,550 --> 00:21:25,884
-- no, no.
-i'm--i'm fine.
+325
+00:21:22,550 --> 00:21:24,641
+Ne, ne. Jsem v.. v pohodì.
 
-338
-00:21:28,550 --> 00:21:32,517
-He's gonna be okay, mom.
+326
+00:21:28,550 --> 00:21:31,917
+Bude v poøádku, mami.
 
-339
+327
 00:21:32,584 --> 00:21:33,717
-- um...
+DELETE_ME_LATER
 
-340
+328
 00:21:33,784 --> 00:21:35,584
-Oh.
+DELETE_ME_LATER
 
-341
+329
 00:21:35,650 --> 00:21:37,218
-I'll be back in a sec.
+Hned se vrátím.
 
-342
-00:21:37,283 --> 00:21:40,484
-I'm just gonna
-take these dishes.
+330
+00:21:37,283 --> 00:21:38,827
+Jenom odnesu tenhle talíø.
 
-343
+331
 00:21:40,550 --> 00:21:42,884
-- freak's probably
-swiped your panties
+FIX ME_freak's probably swiped your panties
 
-344
+332
 00:21:42,951 --> 00:21:44,917
-From gym class
+FIX ME_From gym class
 or something.
 
+333
+00:21:44,984 --> 00:21:46,083
+ FIX ME_gross!
+
+334
+00:21:48,250 --> 00:21:48,751
+Tygøe.
+
+335
+00:21:50,600 --> 00:21:51,250
+Tati?
+
+336
+00:21:51,817 --> 00:21:54,917
+Tygøe, zastav se.
+
+337
+00:21:56,317 --> 00:21:58,964
+- Oheò. - Tati?
+
+338
+00:21:59,450 --> 00:22:00,751
+Oheò!
+
+339
+00:22:03,051 --> 00:22:04,017
+tati?
+
+340
+00:22:10,018 --> 00:22:11,818
+Pomoc, pojïte mi nìkdo pomoct.
+
+341
+00:22:20,184 --> 00:22:22,717
+- Artie nìco má. - Co?
+
+342
+00:22:22,783 --> 00:22:25,817
+Pøesnì v okamžiku, když tvùj táta køièel "oheò,"
+
+343
+00:22:25,884 --> 00:22:27,850
+byl kluk z Portlandu v Oregonu popálen
+
+344
+00:22:27,917 --> 00:22:31,251
+nìjakým bizarním plamenem, který šlehal s jeho skøíòky.
+
 345
-00:21:44,984 --> 00:21:46,283
-- gross!
+00:22:31,317 --> 00:22:33,017
+Nikdo to nemùže vysvìtlit.
 
 346
-00:21:48,250 --> 00:21:51,151
-- tiger.
+00:22:33,884 --> 00:22:36,117
+No a co táta myslel tím "tygrem"?
 
 347
-00:21:51,218 --> 00:21:52,250
-- dad?
+00:22:36,184 --> 00:22:39,417
+Klukovská fotbalová hvìzda s Kingfordských tygrù.
 
 348
-00:21:52,317 --> 00:21:54,917
-- tiger, stop it.
+00:22:39,484 --> 00:22:41,117
+- Tak jdeme. - Poèkej, Myko.
 
 349
-00:21:56,317 --> 00:21:59,383
-- fire.
-- dad?
+00:22:41,184 --> 00:22:43,209
+Potøebuju, abys zùstala tady.
 
 350
-00:21:59,450 --> 00:22:00,751
-- fire!
+00:22:44,217 --> 00:22:46,010
+Musím pomoct svému tátovi, Pete.
 
 351
-00:22:00,817 --> 00:22:02,984
-[all screaming]
+00:22:46,650 --> 00:22:49,451
+Já vím, ale máme tady dva artefakty.
 
 352
-00:22:03,051 --> 00:22:04,017
-- dad?
+00:22:49,518 --> 00:22:50,817
+FIX ME_He's connected to one.
 
 353
-00:22:04,084 --> 00:22:05,317
-[screaming]
+00:22:50,884 --> 00:22:52,184
+Potøebuju, abys zùstala na notebooku.
 
 354
-00:22:10,018 --> 00:22:11,918
-Help, somebody get some help.
+00:22:52,251 --> 00:22:53,783
+FIX ME_I'll take care of the pen.
 
 355
-00:22:20,184 --> 00:22:22,717
-- artie's got something.
-- what?
+00:22:54,850 --> 00:22:56,431
+Myko, podívej se na mì.
 
 356
-00:22:22,783 --> 00:22:25,817
-- at the precise moment
-your dad was shouting "fire,"
+00:23:01,084 --> 00:23:04,251
+Nikdo teï nepomùže tvému tátovi více, než mùžeš ty.
 
 357
-00:22:25,884 --> 00:22:27,850
-A kid in portland, oregon,
-was burned
+00:23:04,317 --> 00:23:06,317
+Nemùžu tì nechat jít samotného.
 
 358
-00:22:27,917 --> 00:22:31,251
-By some bizarre wall of flame
-shooting from his locker.
+00:23:06,384 --> 00:23:07,845
+Vezmu Claudii.
 
 359
-00:22:31,317 --> 00:22:33,817
-No one can explain it.
+00:23:11,917 --> 00:23:12,717
+Ochraòuj ji.
 
 360
-00:22:33,884 --> 00:22:36,117
-- well, what about
-the tiger thing?
+00:23:12,984 --> 00:23:13,951
+Jo.
 
 361
-00:22:36,184 --> 00:22:39,417
-- kid's a football star
-for the kingford tigers.
+00:23:14,317 --> 00:23:16,017
+Ale je tady ještì nìco.
 
 362
-00:22:39,484 --> 00:22:41,117
-- let's go.
-- wait, myka.
+00:23:16,484 --> 00:23:17,380
+Co?
 
 363
-00:22:41,184 --> 00:22:44,151
-I need you to stay here.
+00:23:19,618 --> 00:23:21,717
+FIX ME_i think i'm hot for your mom.
 
 364
-00:22:44,217 --> 00:22:46,584
-- i have to help my dad,
-pete.
+00:23:28,217 --> 00:23:30,117
+FIX ME_i'll break it to dad.
 
 365
-00:22:46,650 --> 00:22:49,451
-- i know, but we've got
-two artifacts.
+00:23:30,184 --> 00:23:31,484
+Fajn.
 
 366
-00:22:49,518 --> 00:22:50,817
-He's connected to one.
+00:23:32,551 --> 00:23:35,317
+Musím si s tebou promluvit, Bobby.
 
 367
-00:22:50,884 --> 00:22:52,184
-I need you to stay
-on the notebook.
+00:23:35,384 --> 00:23:37,484
+Je... je všechno v poøádku?
 
 368
-00:22:52,251 --> 00:22:54,783
-I'll take care of the pen.
+00:23:37,551 --> 00:23:39,351
+Inspiruje tì poezie?
 
 369
-00:22:54,850 --> 00:22:57,251
-Myka, look at me.
+00:23:39,417 --> 00:23:40,711
+Moc ne.
 
 370
-00:23:01,084 --> 00:23:04,251
-No one can help your dad
-right now more than you can.
+00:23:42,484 --> 00:23:44,184
+Víš, zdá se...
 
 371
-00:23:04,317 --> 00:23:06,317
-- i can't let you
-go alone.
+00:23:44,251 --> 00:23:48,084
+FIX ME_We had a little burglary here the other day.
 
 372
-00:23:06,384 --> 00:23:10,950
-- i'll take claudia.
+00:23:48,151 --> 00:23:52,084
+FIX ME_The story is that it was one of the pens
 
 373
-00:23:11,017 --> 00:23:12,917
-- keep her safe.
-
-374
-00:23:12,984 --> 00:23:14,251
-- yeah.
-
-375
-00:23:14,317 --> 00:23:16,417
-But there's something else.
-
-376
-00:23:16,484 --> 00:23:19,551
-- what?
-
-377
-00:23:19,618 --> 00:23:21,717
-- i think i'm hot
-for your mom.
-
-378
-00:23:28,217 --> 00:23:30,117
-- i'll break it to dad.
-
-379
-00:23:30,184 --> 00:23:32,484
-- okay.
-
-380
-00:23:32,551 --> 00:23:35,317
-- i needed to speak
-with you, bobby.
-
-381
-00:23:35,384 --> 00:23:37,484
-Is, uh--
-is everything okay?
-
-382
-00:23:37,551 --> 00:23:39,351
-The poetry inspiring you?
-
-383
-00:23:39,417 --> 00:23:42,417
-- not so much.
-
-384
-00:23:42,484 --> 00:23:44,184
-- you know, it seems
-
-385
-00:23:44,251 --> 00:23:48,084
-We had a little burglary here
-the other day.
-
-386
-00:23:48,151 --> 00:23:52,084
-The story is that
-it was one of the pens
-
-387
 00:23:52,151 --> 00:23:53,618
 That edgar allan poe used.
 
-388
-00:23:53,683 --> 00:23:58,817
+374
+00:23:53,683 --> 00:23:57,213
 - oh, he used it.
 
-389
+375
 00:23:58,884 --> 00:24:00,717
-Don't look at me
-like that.
+Nedívej se na mì takhle.
 
-390
+376
 00:24:03,783 --> 00:24:08,884
 - i noticed that you were
 fascinated with the pen.
 
-391
+377
 00:24:08,950 --> 00:24:10,783
 - are you saying
 i took it?
 
-392
+378
 00:24:10,850 --> 00:24:13,217
 Are you saying i took it?
 
-393
+379
 00:24:13,284 --> 00:24:15,351
 - i'll tell you what.
 
-394
+380
 00:24:15,417 --> 00:24:17,650
 I'm gonna go to the lounge
 for a soda,
 
-395
+381
 00:24:17,717 --> 00:24:21,317
 And if the pen
 should show up while i'm gone,
 
-396
+382
 00:24:21,384 --> 00:24:23,683
 Well, we'll just chalk it up
 
-397
+383
 00:24:23,750 --> 00:24:27,850
 To something strange
 and mysterious.
 
-398
+384
 00:24:27,917 --> 00:24:30,884
 Back in a bit.
 
-399
-00:24:30,950 --> 00:24:35,417
+385
+00:24:30,950 --> 00:24:33,021
 - mr. ives.
 mr. ives.
 
-400
-00:24:35,484 --> 00:24:37,618
+386
+00:24:36,554 --> 00:24:37,068
 Here.
 
-401
+387
 00:24:43,317 --> 00:24:45,783
 - "wall"?
 
-402
+388
 00:24:45,850 --> 00:24:48,084
 "wall"?
 "wall" what?
 
-403
+389
 00:24:48,151 --> 00:24:49,284
 - you.
 
-404
+390
 00:24:49,351 --> 00:24:52,551
 [eerie whispering]
 
-405
+391
 00:24:54,251 --> 00:24:55,351
 - [screaming]
 
-406
+392
 00:24:55,417 --> 00:24:57,950
 - [moaning]
 
-407
+393
+00:25:10,054 --> 00:25:13,541
+The youg man ########################### football
+??????????????????????????
+
+394
+00:25:13,541 --> 00:25:15,950
+##################
+??????????????????????????????,,
+
+395
 00:25:15,950 --> 00:25:18,984
 - really?
 does he like horror novels?
 
-408
+396
 00:25:19,050 --> 00:25:21,451
 Stephen king,
 lovecraft, poe?
 
-409
+397
 00:25:21,518 --> 00:25:25,017
 - you're assuming the boy reads.
 no, he's just a bully.
 
-410
+398
 00:25:25,084 --> 00:25:27,050
 Look, i mean, how big
 a deal is this?
 
-411
+399
 00:25:27,117 --> 00:25:29,284
 I mean, this school's got
 a reputation to maintain,
 
-412
+400
 00:25:29,351 --> 00:25:30,950
 And if it gets out
 
-413
+401
 00:25:31,017 --> 00:25:33,417
 That the government's
 investigating a teenage prank,
 
-414
+402
 00:25:33,484 --> 00:25:34,683
 It'll put a lot
 of parents off.
 
-415
+403
 00:25:34,750 --> 00:25:36,317
 - you mean donors?
 
-416
+404
 00:25:36,384 --> 00:25:37,817
 - why do you think
 it's just a prank?
 
-417
+405
 00:25:37,884 --> 00:25:39,817
 - well, we're not schooling
 little terrorists here.
 
-418
+406
 00:25:39,884 --> 00:25:42,417
 Somebody in the science class
 got tired
 
-419
+407
 00:25:42,484 --> 00:25:44,618
 Of parmut picking on him
 and gave him a hotfoot.
 
-420
+408
 00:25:44,683 --> 00:25:46,417
 - oh, yeah?
 how's he doing?
 
-421
+409
 00:25:46,484 --> 00:25:48,917
 - he's fine.
 uh, you want this open?
 
-422
+410
 00:25:48,984 --> 00:25:53,783
 - no. we'll, uh,
 we'll take it from here.
 
-423
+411
 00:25:53,850 --> 00:25:55,217
 - you'll want to step back,
 please.
 
-424
+412
 00:25:55,284 --> 00:25:56,551
 - why?
 it's not dangerous.
 
-425
+413
 00:25:56,618 --> 00:25:58,984
 - please.
 
-426
+414
 00:25:59,050 --> 00:26:02,551
 Thank you.
 
-427
+415
 00:26:06,451 --> 00:26:10,518
 Okay.
 you ready?
 
-428
+416
 00:26:10,584 --> 00:26:11,884
 - why not?
 
-429
+417
 00:26:17,284 --> 00:26:20,251
 - okay, we're in business.
 here we go.
 
-430
+418
 00:26:20,317 --> 00:26:24,084
 So, uh, you had
 any other incidents?
 
-431
+419
 00:26:24,151 --> 00:26:25,084
 - with what, fire?
 
-432
+420
 00:26:25,151 --> 00:26:27,950
 - well, anything strange.
 
-433
+421
 00:26:28,017 --> 00:26:30,317
 Say a tell-tale heart,
 perhaps?
 
-434
+422
 00:26:30,384 --> 00:26:32,217
 - what?
 
-435
+423
 00:26:35,551 --> 00:26:37,884
 - there you go.
 - gotta love artie.
 
-436
+424
 00:26:37,950 --> 00:26:40,284
 - what's that?
 - you don't happen to have
 
-437
+425
 00:26:40,351 --> 00:26:42,417
 Edgar allan poe's pen
 lying around, would you?
 
-438
+426
 00:26:42,484 --> 00:26:45,584
 - well, actually--
 - yes?
 
-439
+427
 00:26:45,650 --> 00:26:47,484
 - mr. ives' classroom.
 
-440
+428
 00:26:47,551 --> 00:26:49,284
 He likes to collect items
 from famous people.
 
-441
+429
 00:26:49,351 --> 00:26:51,117
 - the pen is here, then.
 
-442
+430
 00:26:51,184 --> 00:26:54,417
 - well, it was.
 um, it got stolen.
 
-443
+431
 00:26:57,351 --> 00:27:01,151
 - [murmurs]
 
-444
+432
 00:27:01,217 --> 00:27:04,584
 - this last one
 was the worst.
 
-445
+433
 00:27:04,650 --> 00:27:06,451
 - i know.
 
-446
+434
 00:27:13,217 --> 00:27:14,917
 - [murmuring]
 
-447
+435
 00:27:21,783 --> 00:27:25,518
 - dad?
 
-448
+436
 00:27:25,584 --> 00:27:30,050
 - if you'd been a boy
 i'd have called you sue.
 
-449
+437
 00:27:30,117 --> 00:27:31,351
 - what?
 
-450
+438
 00:27:31,417 --> 00:27:33,683
 - johnny cash.
 it's a song.
 
-451
+439
 00:27:33,750 --> 00:27:36,618
 <i>a boy named sue.</i>
 
-452
+440
 00:27:36,683 --> 00:27:38,451
 - okay.
 
-453
+441
 00:27:38,518 --> 00:27:42,017
 - make you tough.
 
-454
+442
 00:27:42,084 --> 00:27:47,584
 - well, i'm sorry
 i wasn't a boy.
 
-455
+443
 00:27:47,650 --> 00:27:50,317
 - i'm sorry
 i wasn't a father.
 
-456
+444
 00:27:57,551 --> 00:27:59,484
 [groans]
 
-457
+445
 00:28:01,717 --> 00:28:03,650
 - he has regrets.
 
-458
+446
 00:28:09,484 --> 00:28:12,017
 - about me?
 
-459
+447
 00:28:12,084 --> 00:28:14,017
 - yes.
 
-460
+448
 00:28:14,084 --> 00:28:15,950
 About his life.
 
-461
+449
 00:28:16,017 --> 00:28:18,850
 - what do you mean?
 
-462
+450
 00:28:18,917 --> 00:28:20,817
 - he wanted to write books.
 
-463
+451
 00:28:20,884 --> 00:28:25,884
 - i know. i know that
 he wanted to write books.
 
-464
+452
 00:28:25,950 --> 00:28:27,984
 - did you know
 he wrote a novel?
 
-465
+453
 00:28:28,050 --> 00:28:30,417
 - no.
 
-466
+454
 00:28:30,484 --> 00:28:35,618
 - 12 times.
 over and over again.
 
-467
+455
 00:28:35,683 --> 00:28:37,850
 Unpublished.
 
-468
+456
 00:28:37,917 --> 00:28:40,984
 He loved it too much
 to let it go.
 
-469
+457
 00:28:41,050 --> 00:28:45,017
 He was afraid.
 
-470
+458
 00:28:45,084 --> 00:28:47,184
 - where is it?
 
-471
+459
 00:28:47,251 --> 00:28:49,717
 - a long time ago,
 when he finally gave up...
 
-472
+460
 00:28:49,783 --> 00:28:55,451
 [exhales]
 he told me to burn it.
 
-473
+461
 00:28:55,518 --> 00:28:58,783
 He hasn't written a thing
 since.
 
-474
+462
 00:29:02,417 --> 00:29:03,717
 - [moans]
 
-475
+463
 00:29:11,458 --> 00:29:12,718
 It can't be.
 
-476
+464
 00:29:23,184 --> 00:29:24,650
 - mr. ives?
 
-477
+465
 00:29:24,717 --> 00:29:27,684
 Hello?
 
-478
+466
 00:29:27,750 --> 00:29:32,284
 - nice place for a pen,
 soaking up all that poe juice.
 
-479
+467
 00:29:32,351 --> 00:29:33,650
 - huh.
 
-480
+468
 00:29:33,717 --> 00:29:35,151
 - do you know that ravens
 are actually brilliant?
 
-481
+469
 00:29:35,217 --> 00:29:37,517
 They've adapted to humans
 like rats and cockroaches.
 
-482
+470
 00:29:37,583 --> 00:29:39,051
 They've figured out how to
 figure us out.
 
-483
+471
 00:29:39,117 --> 00:29:40,850
 - shh.
 - what?
 
-484
+472
 00:29:41,984 --> 00:29:43,817
 - shh.
 
-485
+473
 00:29:46,351 --> 00:29:47,384
 Hear anything?
 
-486
+474
 00:29:47,483 --> 00:29:49,384
 - just the beating
 of my hideous--
 
-487
+475
 00:29:49,450 --> 00:29:50,717
 - stop it.
 - okay.
 
-488
+476
 00:29:54,817 --> 00:29:55,784
 - listen.
 
-489
+477
 00:29:55,850 --> 00:29:58,684
 [faint scratching]
 
-490
+478
 00:30:05,817 --> 00:30:07,051
 What is that?
 
-491
+479
 00:30:07,117 --> 00:30:08,884
 - a rat in the wall?
 
-492
+480
 00:30:10,850 --> 00:30:12,917
 - short story.
 - guy walled up.
 
-493
+481
 00:30:12,984 --> 00:30:16,650
 <i>- the cask...
 - ...of amontillado.</i>
 
-494
+482
 00:30:16,717 --> 00:30:18,384
 - here, take if off there.
 - i don't--
 
-495
+483
 00:30:18,450 --> 00:30:19,650
 I don't want avian flu!
 - take it!
 
-496
+484
 00:30:19,717 --> 00:30:23,051
 - all right!
 what do i--uhh!
 
-497
+485
 00:30:23,117 --> 00:30:25,917
 - [grunting]
 
-498
+486
 00:30:38,017 --> 00:30:40,051
 - [coughs]
 
-499
+487
 00:30:40,117 --> 00:30:41,184
 - mr. ives?
 
-500
+488
 00:30:41,251 --> 00:30:43,217
 - [coughs]
 
-501
+489
 00:30:43,284 --> 00:30:46,418
 - [grunting]
 
-502
+490
 00:30:49,151 --> 00:30:50,750
 Who did this to you?
 
-503
+491
 00:30:50,817 --> 00:30:53,517
 - [coughs]
 bobby.
 
-504
+492
 00:30:53,583 --> 00:30:56,117
 [coughs]
 find him. stop him.
 
-505
+493
 00:31:02,517 --> 00:31:05,351
 [creaking]
 
-506
+494
 00:31:19,650 --> 00:31:23,717
 - bobby, not cool.
 
-507
+495
 00:31:23,784 --> 00:31:25,750
 - myka, something's wrong.
 
-508
+496
 00:31:25,817 --> 00:31:27,750
 - artie, i need help.
 
-509
+497
 00:31:27,817 --> 00:31:30,351
 - what's this?
 
-510
+498
 00:31:30,418 --> 00:31:34,251
 - a poem.
 i wrote it for you.
 
-511
+499
 00:31:34,318 --> 00:31:35,550
 - i gotta go.
 
-512
+500
 00:31:38,384 --> 00:31:39,318
 - [groans]
 
-513
+501
 00:31:39,384 --> 00:31:40,917
 - we're losing him.
 
-514
+502
 00:31:40,984 --> 00:31:43,017
 - myka, just read to him.
 
-515
+503
 00:31:43,084 --> 00:31:45,084
 - read it.
 
-516
+504
 00:31:45,151 --> 00:31:47,151
 - i have read. i've read him
 everything, okay?
 
-517
+505
 00:31:47,217 --> 00:31:49,717
 It's not working.
 
-518
+506
 00:31:51,850 --> 00:31:53,517
 - [anguished cry]
 
-519
+507
 00:31:53,583 --> 00:31:55,884
 - you have to find the words
 that he loves.
 
-520
+508
 00:31:55,951 --> 00:31:58,750
 You have to find a book
 that means more to him
 
-521
+509
 00:31:58,817 --> 00:32:02,384
 Than--than anything
 in the world.
 
-522
+510
 00:32:02,450 --> 00:32:04,251
 - mom, tell me
 you didn't burn it.
 
-523
+511
 00:32:04,318 --> 00:32:06,384
 - what?
 - dad's book.
 
-524
+512
 00:32:06,450 --> 00:32:09,750
 - aunt cindy's bureau.
 the bottom drawer.
 
-525
+513
 00:32:11,483 --> 00:32:12,750
 - okay,
 so ives said that--
 
-526
+514
 00:32:12,817 --> 00:32:15,117
 That bobby had a crush
 on what--what's her name?
 
-527
+515
 00:32:15,184 --> 00:32:16,650
 - tamara.
 - tamara, right.
 
-528
+516
 00:32:16,717 --> 00:32:18,184
 There's always a girl.
 
-529
+517
 00:32:18,251 --> 00:32:20,418
 - don't blame her.
 blame testosterone.
 
-530
+518
 00:32:20,483 --> 00:32:22,318
 Crazy, crazy man hormone.
 
-531
+519
 00:32:22,384 --> 00:32:26,617
 - i'm not blaming the girl.
 i'm blaming poe.
 
-532
+520
 00:32:26,684 --> 00:32:28,517
 Bobby?
 
-533
+521
 00:32:30,517 --> 00:32:33,784
 - crazy,
 scary man hormone.
 
-534
+522
 00:32:36,817 --> 00:32:39,850
 - check out
 miss teenage zombie.
 
-535
+523
 00:32:39,917 --> 00:32:41,850
 Oh, right.
 
-536
+524
 00:32:41,917 --> 00:32:43,550
 Uh...
 [clears throat]
 
-537
+525
 00:32:43,617 --> 00:32:48,583
 Bobby...and...
 
-538
+526
 00:32:48,650 --> 00:32:50,784
 - tamara.
 
-539
+527
 00:32:50,850 --> 00:32:52,318
 - tamara, was it?
 right?
 
-540
+528
 00:32:52,384 --> 00:32:54,217
 [clears throat]
 
-541
+529
 00:32:54,284 --> 00:32:56,450
 That's a nice pen,
 bobby.
 
-542
+530
 00:32:56,517 --> 00:32:59,917
 Why don't you give it up,
 huh?
 
-543
+531
 00:32:59,984 --> 00:33:02,617
 Come on, give it here.
 
-544
+532
 00:33:05,051 --> 00:33:07,550
 - "pendulum"?
 
-545
+533
 00:33:15,483 --> 00:33:18,217
 - you've gotta be kidding me.
 
-546
+534
 00:33:18,284 --> 00:33:19,251
 - [gasps]
 
-547
+535
 00:33:23,184 --> 00:33:25,017
 - bobby!
 
-548
+536
 00:33:31,617 --> 00:33:33,251
 - i got it.
 
-549
+537
 00:33:35,750 --> 00:33:37,750
 - bobby, you've got to
 stop this.
 
-550
+538
 00:33:37,817 --> 00:33:39,217
 I know,
 you're all full of poe,
 
-551
+539
 00:33:39,284 --> 00:33:41,817
 Up to your creepy eyeballs
 in "nevermore" and crap, but--
 
-552
+540
 00:33:41,884 --> 00:33:44,450
 - but--but--but
 this isn't fiction!
 
-553
+541
 00:33:44,517 --> 00:33:46,017
 It's real!
 
-554
+542
 00:33:46,084 --> 00:33:49,717
 - it's the most real i have
 ever felt in my entire life.
 
-555
+543
 00:33:49,784 --> 00:33:52,017
 <i>- the blue willow sky
 by warren bering.</i>
 
-556
+544
 00:33:52,084 --> 00:33:53,650
 Chapter one.
 
-557
+545
 00:33:53,717 --> 00:33:55,784
 "when the girl was born,
 his first thought was fear."
 
-558
+546
 00:33:58,051 --> 00:33:59,884
 - it's beautiful.
 
-559
+547
 00:33:59,951 --> 00:34:01,550
 - bobby, you're a good person,
 but you're--
 
-560
+548
 00:34:01,617 --> 00:34:03,583
 You're hurting people!
 
-561
+549
 00:34:03,650 --> 00:34:05,017
 You're hurting yourself
 and you're hurting tamara,
 
-562
+550
 00:34:05,084 --> 00:34:06,384
 And it has to stop!
 
-563
+551
 00:34:06,450 --> 00:34:09,318
 - people like you
 don't see me.
 
-564
+552
 00:34:09,384 --> 00:34:11,217
 You don't believe in me.
 
-565
+553
 00:34:11,284 --> 00:34:13,951
 People like you need to be
 shocked into seeing.
 
-566
+554
 00:34:14,017 --> 00:34:17,184
 You need to be horrified.
 then you'll understand.
 
-567
+555
 00:34:17,251 --> 00:34:19,684
 - understand what, bobby?
 tell me what!
 
-568
+556
 00:34:19,750 --> 00:34:22,217
 - that words have power.
 
-569
+557
 00:34:22,284 --> 00:34:25,450
 - "...for her.
 for his daughter.
 
-570
+558
 00:34:25,517 --> 00:34:27,151
 She was his life."
 
-571
+559
 00:34:27,217 --> 00:34:29,684
 [echoing]
 - but this isn't fiction!
 
-572
+560
 00:34:29,750 --> 00:34:31,051
 It's real!
 
-573
+561
 00:34:31,117 --> 00:34:32,517
 - "she was his life.
 
-574
+562
 00:34:32,583 --> 00:34:35,784
 His only job now
 was keeping her safe."
 
-575
+563
 00:34:35,850 --> 00:34:37,717
 - [moaning]
 
-576
+564
 00:34:42,450 --> 00:34:46,318
 - "she was his life."
 
-577
+565
 00:34:46,384 --> 00:34:48,550
 - it's working, myka.
 
-578
+566
 00:34:48,617 --> 00:34:51,418
 [echoing]
 - words have power.
 
-579
+567
 00:35:02,750 --> 00:35:04,184
 - something's happening.
 
-580
+568
 00:35:09,384 --> 00:35:13,517
 Go, go, claudia!
 get the pen!
 
-581
+569
 00:35:26,583 --> 00:35:28,184
 - who are you? what?
 
-582
+570
 00:35:28,251 --> 00:35:30,517
 - one second. nice, claud.
 - here's the bag.
 
-583
+571
 00:35:30,583 --> 00:35:32,284
 - get him to a hospital.
 this still has a hold on him!
 
-584
+572
 00:35:32,285 --> 00:35:33,685
 And Micah's dad.
 
-585
+573
 00:35:41,517 --> 00:35:44,450
 - myka! i got it. hey.
 - hey.
 
-586
+574
 00:35:44,517 --> 00:35:45,550
 - how is he?
 
-587
+575
 00:35:45,617 --> 00:35:46,650
 - is that it?
 - that's it.
 
-588
+576
 00:35:46,717 --> 00:35:47,984
 - well, he--he's not worse,
 
-589
+577
 00:35:48,051 --> 00:35:50,417
 But he's not better.
 not--not completely.
 
-590
+578
 00:35:50,483 --> 00:35:52,884
 - his strength
 is the only thing
 
-591
+579
 00:35:52,951 --> 00:35:55,084
 That's keeping that pen from
 flipping completely out.
 
-592
+580
 00:35:55,151 --> 00:35:57,817
 - okay, the notebook's
 in place.
 
-593
+581
 00:35:57,884 --> 00:35:59,584
 - good. take the pen,
 keep it in the bag,
 
-594
+582
 00:35:59,650 --> 00:36:02,884
 And just, you know,
 approach the notebook.
 
-595
+583
 00:36:02,951 --> 00:36:05,084
 - i'm on it.
 - be careful!
 
-596
+584
 00:36:05,151 --> 00:36:07,951
 - i am! would you stop
 yelling at me?
 
-597
+585
 00:36:08,017 --> 00:36:10,617
 Somebody turn down his volume
 or something.
 
-598
+586
 00:36:10,684 --> 00:36:12,450
 - okay. now what?
 
-599
+587
 00:36:12,517 --> 00:36:14,650
 - you know, put the bag
 right over the notebook,
 
-600
+588
 00:36:14,717 --> 00:36:16,218
 Turn it upside down,
 dump the pen out,
 
-601
+589
 00:36:16,284 --> 00:36:18,450
 Make sure it lands on the
 notebook and stays there.
 
-602
+590
 00:36:18,517 --> 00:36:20,251
 - that's it?
 just dump it out?
 
-603
+591
 00:36:20,318 --> 00:36:22,617
 - yeah.
 - just lay it on the notebook?
 
-604
+592
 00:36:22,684 --> 00:36:24,051
 - yeah.
 this isn't cirque du soleil!
 
-605
+593
 00:36:24,117 --> 00:36:25,684
 Just dump the pen on the book
 and stand back!
 
-606
+594
 00:36:25,750 --> 00:36:26,884
 - all right!
 
-607
+595
 00:36:34,717 --> 00:36:36,517
 - artie,
 nothing's happening.
 
-608
+596
 00:36:36,584 --> 00:36:39,251
 - uh, that's--that's okay.
 it's all right, it's fine.
 
-609
+597
 00:36:39,318 --> 00:36:41,517
 It's been a while
 since they've been together.
 
-610
+598
 00:36:41,584 --> 00:36:44,917
 Probably they're just
 getting reacquainted.
 
-611
+599
 00:36:44,984 --> 00:36:48,151
 [electrical buzzing]
 
-612
+600
 00:36:48,218 --> 00:36:49,884
 - wait, wait.
 whoa, whoa, whoa, whoa.
 
-613
+601
 00:36:56,951 --> 00:36:58,750
 - dad?
 
-614
+602
 00:37:04,550 --> 00:37:12,318
 - [moaning]
 
-615
+603
 00:37:16,984 --> 00:37:18,851
 [exhales]
 
-616
+604
 00:37:22,483 --> 00:37:23,483
 What's this?
 
-617
+605
 00:37:25,318 --> 00:37:27,350
 - [gasps]
 
-618
+606
 00:37:27,417 --> 00:37:28,517
 Hi.
 
-619
+607
 00:37:28,584 --> 00:37:30,017
 - what, did i doze off?
 
-620
+608
 00:37:30,084 --> 00:37:33,151
 - um, sort of.
 
-621
+609
 00:37:33,218 --> 00:37:37,517
 - i was dreaming
 you were reading and...
 
-622
+610
 00:37:46,750 --> 00:37:47,951
 You didn't burn it?
 
-623
+611
 00:37:48,017 --> 00:37:50,617
 - no.
 
-624
+612
 00:37:54,717 --> 00:37:56,617
 [laughter]
 
-625
+613
 00:37:56,684 --> 00:37:58,184
 - i-i did.
 
-626
+614
 00:37:58,251 --> 00:37:59,584
 - [laughs]
 
-627
+615
 00:37:59,650 --> 00:38:03,851
 - okay, well, um,
 i think i've got everything.
 
-628
+616
 00:38:03,917 --> 00:38:06,284
 - honey?
 - yeah.
 
-629
+617
 00:38:06,350 --> 00:38:08,684
 Hey, i don't know what it is
 you do for a living,
 
-630
+618
 00:38:08,750 --> 00:38:12,784
 But you do it very well,
 and i mean that.
 
-631
+619
 00:38:18,584 --> 00:38:21,151
 I'll see you soon,
 and we'll--we'll talk.
 
-632
+620
 00:38:23,184 --> 00:38:25,817
 We'll talk about something
 other than books.
 
-633
+621
 00:38:30,750 --> 00:38:31,917
 - oh, mom.
 
-634
+622
 00:38:31,984 --> 00:38:35,084
 - good-bye, honey.
 thank you so much.
 
-635
+623
 00:38:35,151 --> 00:38:38,817
 And, um,
 you take care of pete.
 
-636
+624
 00:38:38,884 --> 00:38:42,251
 - i always do.
 
-637
+625
 00:38:50,151 --> 00:38:52,517
 - hello.
 - hello.
 
-638
+626
 00:38:54,051 --> 00:38:58,917
 - got everything?
 - yeah.
 
-639
+627
 00:38:58,984 --> 00:39:02,617
 - called the cab? n--
 
-640
+628
 00:39:02,684 --> 00:39:04,984
 - no, no. no, i didn't.
 - oh.
 
-641
+629
 00:39:05,051 --> 00:39:10,218
 - i think, mr. poe,
 that when your things arrive,
 
-642
+630
 00:39:10,284 --> 00:39:14,650
 We'll stick them in--yeah.
 the madrid section.
 
-643
+631
 00:39:14,717 --> 00:39:16,450
 That is if leena agrees.
 
-644
+632
 00:39:16,517 --> 00:39:19,951
 - arthur?
 
-645
+633
 00:39:20,017 --> 00:39:22,750
 Pete and myka
 are in colorado springs.
 
-646
+634
 00:39:22,817 --> 00:39:24,784
 - yeah, i know.
 i should have tried--
 
-647
+635
 00:39:24,851 --> 00:39:26,151
 - and so is macpherson.
 
-648
+636
 00:39:26,218 --> 00:39:27,717
 [computer beeps]
 
-649
+637
 00:39:27,784 --> 00:39:31,984
 - what?
 how did he--
 
-650
+638
 00:39:32,051 --> 00:39:34,218
 He was there
 the whole time?
 
-651
+639
 00:39:34,284 --> 00:39:36,951
 - he had us all distracted.
 
-652
+640
 00:39:37,017 --> 00:39:41,184
 I think that was
 macpherson's intent.
 
-653
+641
 00:39:41,251 --> 00:39:42,151
 [farnsworth buzzing]
 
-654
+642
 00:39:42,218 --> 00:39:45,984
 - ooh.
 
-655
+643
 00:39:46,051 --> 00:39:47,584
 I'll take the farnsworth.
 - good choice.
 
-656
+644
 00:39:47,650 --> 00:39:51,784
 - mm-hmm.
 
-657
+645
 00:39:51,851 --> 00:39:53,650
 Hey, artie,
 we're heading home.
 
-658
+646
 00:39:53,717 --> 00:39:56,483
 - myka! myka, listen!
 myka!
 
-659
+647
 00:39:57,984 --> 00:39:59,817
 - that was weird.
 
-660
+648
 00:39:59,884 --> 00:40:03,784
 - hold on.
 - vibe?
 
-661
+649
 00:40:03,851 --> 00:40:05,717
 - huge.
 your dad.
 
-662
+650
 00:40:05,784 --> 00:40:08,417
 - what?
 
-663
+651
 00:40:09,984 --> 00:40:13,218
 Is this poe? are we back
 into the poe thing again?
 
-664
+652
 00:40:13,284 --> 00:40:15,851
 - i don't know.
 
-665
+653
 00:40:38,817 --> 00:40:41,817
 - you two are good.
 
-666
+654
 00:40:41,884 --> 00:40:44,184
 I see why mrs. frederic
 drafted you.
 
-667
+655
 00:40:48,084 --> 00:40:53,650
 - ah-ah! i kill this, and it's
 lights out for mom and dad.
 
-668
+656
 00:40:53,717 --> 00:40:54,984
 - you hurt my father.
 
-669
+657
 00:40:55,051 --> 00:40:56,350
 - he glimpsed the mind
 
-670
+658
 00:40:56,417 --> 00:40:57,517
 Of one of the greatest authors
 in the world.
 
-671
+659
 00:40:57,584 --> 00:40:58,951
 He'll thank me later.
 
-672
+660
 00:40:59,017 --> 00:41:01,951
 - oh, you'll be dead later.
 - what do you want?
 
-673
+661
 00:41:02,017 --> 00:41:05,184
 - i want what you risked
 your lives to get.
 
-674
+662
 00:41:05,251 --> 00:41:09,817
 I would have done it myself,
 but i lacked the means.
 
-675
+663
 00:41:11,884 --> 00:41:13,584
 You have
 until the count of one.
 
-676
+664
 00:41:13,650 --> 00:41:15,483
 - you came after family.
 
-677
+665
 00:41:15,550 --> 00:41:16,851
 - arthur started it.
 
-678
+666
 00:41:16,917 --> 00:41:18,383
 - what is that
 supposed to mean?
 
-679
+667
 00:41:18,450 --> 00:41:20,851
 - ask him.
 
-680
+668
 00:41:25,984 --> 00:41:27,350
 - pete.
 
-681
+669
 00:41:35,784 --> 00:41:37,483
 Now let them go.
 
-682
+670
 00:41:44,051 --> 00:41:45,017
 Do it!
 
-683
+671
 00:41:49,650 --> 00:41:50,984
 - thank you.
 
-684
+672
 00:41:51,051 --> 00:41:54,717
 - consider it a loan.
 
-685
+673
 00:41:58,617 --> 00:42:01,517
 - [gasps]
 
-686
+674
 00:42:01,584 --> 00:42:02,951
 - what the hell was that?
 
-687
+675
 00:42:03,017 --> 00:42:05,184
 - jack the ripper's
 lantern.
 
-688
+676
 00:42:05,251 --> 00:42:08,383
 - at least we know
 where that is now.
 
-689
+677
 00:42:11,318 --> 00:42:15,084
 Sync by <font color="#00ff00">honeybunny</font>
 www.addic7ed.com
 
-690
+678
 00:42:15,151 --> 00:42:19,550
 - he used us
 from the very beginning.
 
-691
+679
 00:42:19,617 --> 00:42:23,684
 - no. he used me.
 
