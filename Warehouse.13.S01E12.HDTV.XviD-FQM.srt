@@ -732,671 +732,588 @@ Mohlo to být horší.
 
 182
 00:12:49,867 --> 00:12:52,367
-- well, hey, wait, wait.
-myka, myka, myka.
+No, hej, poèkej. Myko, Myko, Myko.
 
 183
 00:12:52,434 --> 00:12:53,801
-- yeah?
+No?
 
 184
 00:12:53,867 --> 00:12:55,200
-- look, i was talking
-to your dad.
+Hele, bavil jsem se s tvým tátou.
 
 185
 00:12:55,267 --> 00:12:57,834
-He thinks you're still in d.c.
-they both do.
+On si myslí, že jsi poøád v D.C. Oba si to myslí.
 
 186
 00:12:57,901 --> 00:12:59,567
-- well, yeah.
+No jo.
 
 187
 00:12:59,634 --> 00:13:01,467
-And if you tell them
-any differently, i swear,
+A jestli jim øekneš nìco jiného, tak pøísahám,
 
 188
 00:13:01,534 --> 00:13:04,233
-I will--i will drop a dictionary
-on your crotch.
+že... že ti pustím slovník na rozkrok.
 
 189
 00:13:04,300 --> 00:13:06,467
-What? i'm supposed to tell them
-that i'm working
+Co? To jim jako mám øíct, že pracuju
 
 190
 00:13:06,534 --> 00:13:09,068
-for the world's most dangerous
-antiques roadshow?
+pro nejnebezpeènìjší vetešnictví na svìtì?
 
 191
 00:13:09,133 --> 00:13:11,133
-- no.
-you tell them the truth.
+Ne, øekni jim pravdu.
 
 192
 00:13:11,200 --> 00:13:12,367
-Or at least
-part of the truth.
+Nebo alespoò èásteènou pravdu.
 
 193
 00:13:12,434 --> 00:13:13,734
-I don't know. something
-to cut the stress.
+Nevím, nìco, èím uvolníš tohle napìtí.
 
 194
 00:13:13,801 --> 00:13:15,434
-- i'm not stressed.
+Já nejsem napjatá.
 
 195
 00:13:15,500 --> 00:13:17,334
-- you're lying to them.
+Lžeš jim.
 
 196
 00:13:17,400 --> 00:13:19,068
-- it's a force of habit,
-you know?
+To je síla zvyku, víš?
 
 197
 00:13:19,133 --> 00:13:20,701
-It keeps my dad from being
-disappointed.
+Tak mùj táta nebude zklamaný.
 
 198
 00:13:22,767 --> 00:13:25,368
-You have hot sauce
-all over your face.
+Tu omáèku máš po celém oblièeji.
 
 199
 00:13:28,233 --> 00:13:31,068
-[eerie whispering]
+DELETE_ME
 
 200
 00:13:56,634 --> 00:13:59,434
-[eerie whispering]
+DELETE_ME
 
 201
 00:14:55,534 --> 00:14:59,100
-- [screams]
+DELETE_ME
 
 202
 00:15:04,667 --> 00:15:05,067
-- dad!
+Tati!
 
 203
 00:15:07,633 --> 00:15:08,100
-Mom?
+Mami?
 
 204
 00:15:08,567 --> 00:15:09,868
-- myka, get back.
+Myko, zpátky.
 
 205
 00:15:12,134 --> 00:15:13,467
-- dad?
+Tati?
 
 206
 00:15:13,434 --> 00:15:14,750
-- watch your eyes.
+Pozor na oèi.
 
 207
 00:15:15,001 --> 00:15:15,901
-- oh!
+Ou!
 
 208
 00:15:15,968 --> 00:15:17,634
-[electricity crackles]
+DELETE_ME
 
 209
 00:15:17,701 --> 00:15:20,167
-- warren. warren.
+Warrene. Warrene!
 
 210
 00:15:20,233 --> 00:15:24,267
-What happened?
-- what happened is...
+- Co se stalo? - Stalo se to, že...
 
 211
 00:15:25,268 --> 00:15:26,568
-Your dad's got an artifact.
+...tvùj táta má artefakt.
 
 212
 00:15:41,184 --> 00:15:42,751
-- myka!
+Myko!
 
 213
 00:15:42,817 --> 00:15:44,550
-Myka! hey!
+Myko! Hej!
 
 214
 00:15:47,250 --> 00:15:49,450
-- where's the notebook?
-- it's this way.
+- Kde je ten sešit? - Tudy.
 
 215
 00:15:49,517 --> 00:15:50,784
-- myka?
-- mom, it's okay.
+Myko?
 
 216
 00:15:50,851 --> 00:15:51,984
-- myka, who is it?
-is she--
+Myko, kdo je to? Ona je...?
 
 217
 00:15:52,051 --> 00:15:53,584
-- this is claudia.
-we work with her.
+To je Claudia. Pracujeme spolu.
 
 218
 00:15:53,650 --> 00:15:56,084
-- what's that?
-- that is--
+- Co to je? - To je...
 
 219
 00:15:56,151 --> 00:15:59,084
-- claudia, back here.
+Claudie, zpátky.
 
 220
 00:15:59,151 --> 00:16:00,350
-- that's for me.
+To je pro mì.
 
 221
 00:16:00,417 --> 00:16:02,851
-- no, you wait
-just a minute.
+Ne, poèkej na okamžik.
 
 222
 00:16:02,917 --> 00:16:05,317
-I want some answers,
-myka.
+Chci nìkolik odpovìdí, Myko.
 
 223
 00:16:05,383 --> 00:16:07,218
-Now, first of all, who is
-the man in the little tv?
+Tak zaprvé, kdo je ten chlapík z té malé televize?
 
 224
 00:16:07,283 --> 00:16:08,484
-- his name is artie.
+Jmenuje se Artie.
 
 225
 00:16:08,550 --> 00:16:10,084
-- and is he a doctor?
-- no, but--
+- A on je doktor? - Ne, ale...
 
 226
 00:16:10,151 --> 00:16:11,617
-- your father belongs
-in a hospital.
+Tvùj otec musí do nemocnice.
 
 227
 00:16:11,684 --> 00:16:14,684
-- this isn't medical. mom,
-this is something else.
+To není zdravotní problém, mami. Je to nìco jiného.
 
 228
 00:16:14,751 --> 00:16:16,650
-- and how do you know?
-you're not a doctor.
+A to víš jak? Nejsi doktor.
 
 229
 00:16:16,717 --> 00:16:18,051
-You protect the president.
+Chráníš prezidenta.
 
 230
 00:16:18,118 --> 00:16:21,550
-- not anymore.
+Už ne.
 
 231
 00:16:21,617 --> 00:16:25,575
-I'm still with the government,
-but i am doing this now.
+Poøád pracuju pro vládu, ale teï dìlám tohle.
 
 232
 00:16:26,184 --> 00:16:29,457
-- what?
-what are you doing?
+Co? Co vlastnì dìláš?
 
 233
 00:16:33,250 --> 00:16:37,801
-- i'm trying to help dad, mom,
-so just let me do that.
+Mami, snažím se pomoct tátovi. Takže mì to prostì nech udìlat.
 
 234
 00:16:38,151 --> 00:16:41,199
-Trust me.
-please.
+Vìø mi. Prosím.
 
 235
 00:16:49,951 --> 00:16:50,984
-- ready?
-- yeah.
+- Pøipraven? - Jo.
 
 236
 00:16:51,951 --> 00:16:53,784
-Um, mom, just stay here.
+Mami, prostì stùj támhle.
 
 237
 00:16:53,851 --> 00:16:56,650
-Whatever you see or hear,
-just stay put.
+A uvidíš nebo uslyšíš cokoli, zùstaò tam.
 
 238
 00:16:56,717 --> 00:16:57,643
-- but--
-- just don't move.
+- Ale... - Prostì se nehýbej.
 
 239
 00:17:00,383 --> 00:17:00,717
-- do--
+Teï...
 
 240
 00:17:02,984 --> 00:17:04,584
-- it'll be okay.
+To bude v pohodì.
 
 241
 00:17:04,950 --> 00:17:06,791
-They do this kind of stuff
-all the time, so--
+Oni tyhle vìci dìlaj furt.
 
 242
 00:17:07,317 --> 00:17:08,984
-- claudia?
-- i gotta--
+- Claudie? - Musím...
 
 243
 00:17:09,650 --> 00:17:10,950
-- but what's going on?
+Ale co se dìje?
 
 244
 00:17:13,317 --> 00:17:14,818
-- they're really good
-at this.
+Jsou v tomhle fakt dobrý.
 
 245
 00:17:17,084 --> 00:17:19,283
-- [groans]
+DELETE_ME
 
 246
 00:17:19,550 --> 00:17:21,050
-- here it is.
+Tady to je.
 
 247
 00:17:25,717 --> 00:17:27,150
-- kill it.
+Zabij to.
 
 248
 00:17:29,051 --> 00:17:29,776
-- duck and cover.
+K zemi a krýt se.
 
 249
 00:17:34,118 --> 00:17:35,451
-- what's happening?
+Co se dìje?
 
 250
 00:17:36,817 --> 00:17:37,761
-- mom, how's dad?
+Mami, jak je tátovi?
 
 251
 00:17:38,484 --> 00:17:41,800
-- um, he's the same.
+Hm, poøád stejnì.
 
 252
 00:17:42,584 --> 00:17:44,079
-Why, was something
-supposed to happen?
+Proè, mìlo se nìco stát?
 
 253
 00:17:47,917 --> 00:17:49,137
-- check his arms.
+Zkontroluj mu ruce.
 
 254
 00:17:50,484 --> 00:17:51,864
-- it's still there.
+Poøád to tam je.
 
 255
 00:17:56,851 --> 00:17:59,984
-- it's ink.
-ink.
+To je inkoust. Inkoust!
 
 256
 00:18:00,851 --> 00:18:01,684
-Take it out.
+Vyndej ji.
 
 257
 00:18:11,118 --> 00:18:12,181
-- now what?
+Co teï?
 
 258
 00:18:13,917 --> 00:18:15,355
-- the neutralizer failed
+Neutralizér selhal.
 
 259
 00:18:15,684 --> 00:18:17,684
-Because i think we're dealing
-with a bifurcated object.
+Protože si myslím, že je to rozdvojený objekt.
 
 260
 00:18:17,951 --> 00:18:19,851
-It's--it's got
-at least two parts,
+Má... má nejménì dvì èásti,
 
 261
 00:18:19,917 --> 00:18:22,217
-And they're each dependent
-on the other.
+které na sobì navzájem závisí.
 
 262
 00:18:22,383 --> 00:18:27,084
-And, uh, that notebook is just
-one half of the package.
+A... ten sešit je jen jedna pùlka celku.
 
 263
 00:18:27,551 --> 00:18:28,241
-- so what's the other half?
+Takže, kde je druhá pùlka?
 
 264
 00:18:28,241 --> 00:18:31,151
-- you know, based on
-the manifestations of the ink,
+Víš, podle toho inkoustu soudím, že
 
 265
 00:18:31,218 --> 00:18:33,056
-Then that would tell me that
-it's a pen,
+podle mì je to pero,
 
 266
 00:18:33,151 --> 00:18:34,717
-Most like--well, a pen,
-anyway.
+nejspíš, no prostì pero.
 
 267
 00:18:34,784 --> 00:18:36,647
-Oh, by the way,
-the shipper's address?
+Jo, mimochodem, adresa odesílatele?
 
 268
 00:18:36,714 --> 00:18:38,032
-That's completely phony.
+Úplnì falešná.
 
 269
 00:18:39,084 --> 00:18:40,817
-- macpherson sent it,
-didn't he?
+Poslal to MacPherson, že?
 
 270
 00:18:41,584 --> 00:18:43,950
-- [sighs]
-i don't know that.
+To nevím.
 
 271
 00:18:44,317 --> 00:18:45,951
-- so what?
-he's coming after family now?
+Takže co? Teï nám jde po rodinách?
 
 272
 00:18:46,017 --> 00:18:47,884
-- what does he want?
-- well, he wants to hurt us,
+- Co chce? - No, chce nám ublížit.
 
 273
 00:18:47,951 --> 00:18:50,350
-Because we're going after him.
-- stop, stop, stop, stop.
+Protože po nìm jdeme. Stop, stop, stop, stop.
 
 274
 00:18:50,417 --> 00:18:53,450
-Just stop it. we don't know
-who sent it or why.
+Prostì toho nech. Nevíme kdo to poslal ani proè.
 
 275
 00:18:53,517 --> 00:18:56,118
-If it is macpherson,
-it could be revenge or mischief
+Jestli to byl MacPherson, tak by to mohla být pomsta nebo prostì zlomyslnost.
 
 276
 00:18:56,184 --> 00:18:57,751
-Or a diversion
-so that we're doing this
+Nebo zástìrka, aby zatímco pracujeme na tomhle
 
 277
 00:18:57,817 --> 00:18:59,351
-While he's doing
-something else.
+on nìco vyvádí nìkde jinde.
 
 278
 00:18:59,817 --> 00:19:02,484
-Just in case,
-just to be safe, i've, uh--
+Jenom pro pøípad, èistì pro vìtší bezpeèí jsem...
 
 279
 00:19:02,550 --> 00:19:07,118
-I'm circling the wagons
-around joshua
+poslal sledovací dodávky k Joshuovi
 
 280
 00:19:07,184 --> 00:19:08,317
-And around pete's family.
+a k Petovì rodinì.
 
 281
 00:19:08,383 --> 00:19:10,517
-Who or why does not matter.
+Kdo nebo proè není dùležité.
 
 282
 00:19:10,584 --> 00:19:12,617
-What matters is your father
-and the notebook.
+Na èem teï záleží je tvùj otec a ten sešit.
 
 283
 00:19:12,684 --> 00:19:14,283
-Now--now, listen.
+A teï... poslouchej.
 
 284
 00:19:14,350 --> 00:19:18,751
-I've analyzed the text.
-it ain't good. it's poe.
+Analyzoval jsem ten text. Není to dobrý, je to Poe.
 
 285
 00:19:18,817 --> 00:19:22,317
-Um, edgar allan poe.
+Hm, Edgar Allan Poe.
 
 286
 00:19:22,383 --> 00:19:25,383
-The reason that the book is
-getting under your father's skin
+To, proè ta knížka leze tvému otci pod kùži,
 
 287
 00:19:25,450 --> 00:19:27,617
-Is because the pen
-is not with it.
+je protože u ní není to pero.
 
 288
 00:19:27,684 --> 00:19:29,951
-- so, what? we bring the pen
-together with the notebook
+Takže co? Dáme to pero k sešitu
 
 289
 00:19:30,017 --> 00:19:32,250
-And this all stops?
-- yeah.
+- a tohle všechno skonèí? - Jo.
 
 290
 00:19:32,317 --> 00:19:34,350
-Well, probably,
+No, nejspíš,
 
 291
 00:19:34,417 --> 00:19:36,805
-If it follows a typical
-bifurcated artifact scenario.
+pokud to pùjde podle typického chování rozdvojených artefaktù.
 
 292
 00:19:37,684 --> 00:19:39,484
-It can't be an accident
+To nemùže být náhoda.
 
 293
 00:19:39,550 --> 00:19:41,417
-That this book found its way
-to your dad.
+Že si ta kniha našla cestu k tvému tátovi.
 
 294
 00:19:41,584 --> 00:19:46,984
-Look, uh, myka, right now
-your father is a conduit.
+Hele... Myko, zrovna teï je tvùj táta vodiè.
 
 295
 00:19:47,751 --> 00:19:49,851
-The notebook, the pen, they're
-linked through his energy,
+Deník a pero jsou napojeny na jeho energii,
 
 296
 00:19:49,917 --> 00:19:52,651
-Through his love
-of the written word.
+pøes jeho lásku k psanému slovu.
 
 297
 00:19:52,817 --> 00:19:53,850
-- so where is this pen?
+Takže kde je to pero?
 
 298
 00:19:54,717 --> 00:19:57,784
-- well, i'm searching for
-coinciding incidents right now.
+No, prohledávám teï soubìžné incidenty .
 
 299
 00:19:57,851 --> 00:19:59,417
-Uh, you know, i've got
+FIX_ME Uh, you know, i've got
 the filters off.
 
 300
 00:19:59,484 --> 00:20:01,184
-- but it's causing trouble
-somewhere?
+Ale dìlá to nìkde problémy?
 
 301
 00:20:01,250 --> 00:20:02,650
-- but i'll find it.
-you'll get it.
+Ale najdu to. Dostanete ho.
 
 302
 00:20:02,717 --> 00:20:04,884
-The next time he has an attack,
-i'll trace the pen.
+Až bude mít pøíštì záchvat, vysleduju to pero.
 
 303
 00:20:04,951 --> 00:20:06,751
-You'll retrieve it and reunite
-it with the notebook.
+Vy ho získáte a spojíte se sešitem.
 
 304
 00:20:06,817 --> 00:20:07,884
-- how long does he have?
+Kolik mu zbývá?
 
 305
 00:20:08,250 --> 00:20:09,517
-- i don't know what you--
-how long--what?
+Nevím, o èem to... Kolik mu zbývá... èeho?
 
 306
 00:20:09,984 --> 00:20:10,950
-- how long does he have?
+Kolik mu zbývá?
 
 307
 00:20:11,517 --> 00:20:14,218
-Artie, my father can't
-take this much longer.
+Artie, mùj táta už to moc dlouho nevydrží.
 
 308
 00:20:14,283 --> 00:20:17,417
-- um...
+Hm...
 
 309
 00:20:17,484 --> 00:20:19,517
-[stutters]
+DELETE_ME
 
 310
 00:20:19,584 --> 00:20:22,084
-A day.
-maybe two.
+Den. Možná dva.
 
 311
 00:20:22,151 --> 00:20:24,017
-But you can help him.
+Ale mùžeš mu pomoct.
 
 312
 00:20:24,084 --> 00:20:25,717
-Until i land on something,
-myka,
+Než na nìco pøijdu, Myko,
 
 313
 00:20:25,784 --> 00:20:30,017
-Just surround him with
-his books, with his world,
+prostì ho obklop jeho knížkama, jeho svìtem.
 
 314
 00:20:30,084 --> 00:20:33,484
-And read to him, myka,
-read to him books that he loves
+A èti mu, Myko. Èti mu knížky, které má rád.
 
 315
 00:20:33,550 --> 00:20:36,417
-And use those words to fight
-what's happening to him.
+A použij ta slova k boji proti tomu, co se mu dìje.
 
 316
 00:20:36,484 --> 00:20:40,984
-And just try to keep him
-connected to reality if you can.
+A zkus ho udržet ve spojení s realitou, jestli mùžeš.
 
 317
 00:20:50,751 --> 00:20:52,350
-- bobby's not that bad.
+Bobby není tak zlý.
 
 318
 00:20:52,617 --> 00:20:54,453
-- look, all i'm saying is,
-watch out.
+Hele, øíkám jenom, dávej si bacha.
 
 319
 00:20:54,984 --> 00:20:56,317
-[both laugh]
+DELETE_ME
 
 320
 00:20:56,383 --> 00:20:57,185
-Geek love. ugh!
+Geekovská láska, fuj.
 
 321
 00:21:04,884 --> 00:21:07,077
-- "i might have been improved
+FIX_ME - "i might have been improved
 for my whole life.
+google, co to je za knihu a zkusit najit preklad
 
 322
 00:21:08,383 --> 00:21:10,884
-"i might have been made
+FIX_ME "i might have been made
 another creature, perhaps,
 
 323
 00:21:11,751 --> 00:21:14,915
-For life, by a kind word,
+FIX_ME For life, by a kind word,
 at that season..."
 
 324
 00:21:20,984 --> 00:21:22,484
-- do you
-want me to take over?
+Chceš, abych to pøevzala?
 
 325
 00:21:22,550 --> 00:21:24,641
-- no, no.
-i'm--i'm fine.
+Ne, ne. To.. to je dobrý.
 
 326
 00:21:28,550 --> 00:21:31,917
-He's gonna be okay, mom.
+Bude v poøádku, mami.
 
 327
 00:21:32,584 --> 00:21:33,717
@@ -1404,225 +1321,203 @@ DELETE_ME_LATER
 
 328
 00:21:33,784 --> 00:21:35,584
-Oh.
+Ach.
 
 329
 00:21:35,650 --> 00:21:37,218
-I'll be back in a sec.
+Za vteøinku jsem zpátky.
 
 330
 00:21:37,283 --> 00:21:38,827
-I'm just gonna
-take these dishes.
+Jenom umyju tohle nádobí.
 
 331
 00:21:40,550 --> 00:21:42,884
-- freak's probably
-swiped your panties
+Ten úchyl ti beztak šlohnul kalhotky
 
 332
 00:21:42,951 --> 00:21:44,917
-From gym class
-or something.
+z tìláku nebo tak nìco.
 
 333
 00:21:44,984 --> 00:21:46,083
-- gross!
+Hnus!
 
 334
 00:21:48,250 --> 00:21:48,751
-- tiger.
+Tygøe.
 
 335
 00:21:50,600 --> 00:21:51,250
-- dad?
+Tati?
 
 336
 00:21:51,817 --> 00:21:54,917
-- tiger, stop it.
+Tygøe, nech toho.
 
 337
 00:21:56,317 --> 00:21:58,964
-- fire.
-- dad?
+- Oheò. - Tati?
 
 338
 00:21:59,450 --> 00:22:00,751
-- fire!
+Oheò!
 
 339
 00:22:00,817 --> 00:22:02,984
-[all screaming]
+DELETE_ME
 
 340
 00:22:03,051 --> 00:22:04,017
-- dad?
+Tati?
 
 341
 00:22:04,084 --> 00:22:05,317
-[screaming]
+DELETE_ME
 
 342
 00:22:10,018 --> 00:22:11,818
-Help, somebody get some help.
+Pomoc! Sežeòte nìkdo pomoc!
 
 343
 00:22:20,184 --> 00:22:22,717
-- artie's got something.
-- what?
+- Artie nìco má. - Co?
 
 344
 00:22:22,783 --> 00:22:25,817
-- at the precise moment
-your dad was shouting "fire,"
+V pøesný okamžik, kdy tvùj táta køièel "Oheò",
 
 345
 00:22:25,884 --> 00:22:27,850
-A kid in portland, oregon,
-was burned
+spálila kluka z Portlandu v Oregonu
 
 346
 00:22:27,917 --> 00:22:31,251
-By some bizarre wall of flame
-shooting from his locker.
+nìjaká podivná ohnivá past nastražená v jeho skøínce
 
 347
 00:22:31,317 --> 00:22:33,817
-No one can explain it.
+Nikdo to neumí vysvìtlit.
 
 348
 00:22:33,884 --> 00:22:36,117
-- well, what about
-the tiger thing?
+No a co to s tím tygrem?
 
 349
 00:22:36,184 --> 00:22:39,417
-- kid's a football star
-for the kingford tigers.
+Ten kluk je hvìzda amerického fotbalu, hraje za kingfordské Tygry.
 
 350
 00:22:39,484 --> 00:22:41,117
-- let's go.
-- wait, myka.
+- Jdeme. - Poèkej, Myko.
 
 351
 00:22:41,184 --> 00:22:43,209
-I need you to stay here.
+Potøebuju, abys zùstala tady.
 
 352
 00:22:44,217 --> 00:22:46,010
-- i have to help my dad,
-pete.
+Musím pomoct tátovi, Pete.
 
 353
 00:22:46,650 --> 00:22:49,451
-- i know, but we've got
-two artifacts.
+Já vím, ale máme tady dva artefakty.
 
 354
 00:22:49,518 --> 00:22:50,817
-He's connected to one.
+A on je k jednomu pøipojený.
 
 355
 00:22:50,884 --> 00:22:52,184
-I need you to stay
-on the notebook.
+Potøebuju, abys zùstala u toho sešitu.
 
 356
 00:22:52,251 --> 00:22:53,783
-I'll take care of the pen.
+A já se postarám o to pero.
 
 357
 00:22:54,850 --> 00:22:56,431
-Myka, look at me.
+Myko, podívej se na mì.
 
 358
 00:23:01,084 --> 00:23:04,251
-No one can help your dad
-right now more than you can.
+Nikdo teï tvému tátovi nemùže pomoct víc než ty.
 
 359
 00:23:04,317 --> 00:23:06,317
-- i can't let you
-go alone.
+Nemùžu tì nechat jít samotného.
 
 360
 00:23:06,384 --> 00:23:09,700
-- i'll take claudia.
+Vezmu Claudii.
 
 361
 00:23:11,017 --> 00:23:12,717
-- keep her safe.
+Dávej na ni pozor.
 
 362
 00:23:12,984 --> 00:23:13,951
-- yeah.
+Jo.
 
 363
 00:23:14,317 --> 00:23:16,017
-But there's something else.
+Ale je tu ještì nìco.
 
 364
 00:23:16,484 --> 00:23:17,380
-- what?
+Co?
 
 365
 00:23:19,618 --> 00:23:21,717
-- i think i'm hot
-for your mom.
+Myslím, že jsem se zamiloval to tvojí mámy.
 
 366
 00:23:28,217 --> 00:23:30,117
-- i'll break it to dad.
+Vyøídím to tátovi.
 
 367
 00:23:30,184 --> 00:23:31,484
-- okay.
+Fajn.
 
 368
 00:23:32,551 --> 00:23:35,317
-- i needed to speak
-with you, bobby.
+Musím si s tebou promluvit, Bobby.
 
 369
 00:23:35,384 --> 00:23:37,484
-Is, uh--
-is everything okay?
+Je... je všechno v poøádku?
 
 370
 00:23:37,551 --> 00:23:39,351
-The poetry inspiring you?
+Inspiruje tì ta poezie?
 
 371
 00:23:39,417 --> 00:23:42,417
-- not so much.
+Ani moc ne.
 
 372
 00:23:42,484 --> 00:23:44,184
-- you know, it seems
+Víš, zdá se,
 
 373
 00:23:44,251 --> 00:23:48,084
-We had a little burglary here
-the other day.
+že jsme tady vèera mìli malé vloupání.
 
 374
 00:23:48,151 --> 00:23:52,084
-The story is that
-it was one of the pens
+Ztratilo se pero,
 
 375
 00:23:52,151 --> 00:23:53,618
-That edgar allan poe used.
+které údajnì patøilo Edgaru Allanu Poeovi.
 
 376
 00:23:53,683 --> 00:23:57,213
-- oh, he used it.
+Na to vemte jed, že patøilo.
 
 377
 00:23:58,884 --> 00:24:00,717
-Don't look at me
-like that.
+Nedívej se na mì tak.
 
 378
 00:24:03,783 --> 00:24:08,884
