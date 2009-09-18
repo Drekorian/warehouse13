@@ -166,8 +166,8 @@ Když uvidíš èinely, zakryj si uš...
 
 39
 00:02:46,534 --> 00:02:49,400
-Pete? Artie? Co se
-stalo? Je všechno v poøádku?
+Pete? Artie? Co se stalo?
+Je všechno v poøádku?
 
 40
 00:02:49,467 --> 00:02:53,567
@@ -178,8 +178,8 @@ Pete! Pete, slyšíš mì?
 Pete!
 
 42
-00:03:08,667 --> 00:03:15,667
-Víckrát ne...
+00:03:06,667 --> 00:03:15,667
+<i>Víckrát ne...</i>
 
 43
 00:03:22,133 --> 00:03:24,767
@@ -242,8 +242,8 @@ Pøeklad a èasování: Drekorian & NoWQa
 
 57
 00:04:33,559 --> 00:04:36,679
-Rip:
-Warehouse.13.S01E12.Nevermore.HDTV.XviD-FQM (366 953 774 bajtù)
+Warehouse.13.S01E12.Nevermore.HDTV.XviD-FQM
+(366 953 774 bajtù)
 
 58
 00:04:37,000 --> 00:04:39,460
@@ -251,7 +251,7 @@ www.serialzone.cz
 
 59
 00:04:52,560 --> 00:04:54,787
-WareHouse 13 - 1x12  NeverMore
+Warehouse 13 - 1x12 - Nikdy víc
 
 60
 00:04:55,161 --> 00:04:57,361
@@ -398,8 +398,8 @@ Nemìl jsi žádnou ofenzivní strategii.
 
 93
 00:06:57,634 --> 00:07:00,601
-Žádné obranné
-postavení. Žádný záložní plán.
+Žádné obranné postavení.
+Žádný záložní plán.
 
 94
 00:07:00,667 --> 00:07:03,334
@@ -415,8 +415,8 @@ Pryè.
 
 97
 00:07:10,567 --> 00:07:14,734
-Spravuj mùj majetek
-lépe nebo pøísahám pøi popelu
+Spravuj mùj majetek lépe
+nebo pøísahám pøi popelu
 
 98
 00:07:14,801 --> 00:07:19,267
@@ -465,8 +465,8 @@ od ráje" od Johna Steinbecka.
 
 108
 00:08:13,534 --> 00:08:17,167
-Zrada, ztracená
-láska, žárlivost. Dobré ètení.
+Zrada, ztracená láska,
+žárlivost. Dobré ètení.
 
 109
 00:08:17,233 --> 00:08:19,834
@@ -474,7 +474,7 @@ Prosím, pøeètìte si prvních 50
 stran, zítra si o nich podebatujeme.
 
 110
-00:08:19,901 --> 00:08:21,233
+00:08:19,901 --> 00:08:22,233
 Když budete té lásky. Pøíjemné poètení.
 
 111
@@ -578,7 +578,7 @@ Myslela jsem, že budeš v nemocnici.
 
 134
 00:10:31,001 --> 00:10:32,934
-- Myslela jsem, že umíráš.
+- Myslela jsem, že umíráš!
 - Tvoje matka pøehánìla.
 
 135
@@ -587,8 +587,8 @@ Nic mi není.
 
 136
 00:10:35,634 --> 00:10:38,834
-- To nebyla mrtvice? -
-Ne, ne, ne, žádná mrtvice.
+- To nebyla mrtvice?
+- Ne, ne, ne, žádná mrtvice.
 
 137
 00:10:38,901 --> 00:10:41,834
@@ -999,8 +999,8 @@ Co? Co vlastnì dìláš?
 
 232
 00:16:33,250 --> 00:16:37,801
-Mami, snažím se pomoct
-tátovi. Takže mì to prostì nech udìlat.
+Mami, snažím se pomoct tátovi.
+Takže mì to prostì nech udìlat.
 
 233
 00:16:38,151 --> 00:16:41,199
@@ -1345,7 +1345,7 @@ spojení s realitou, jestli mùžeš.
 Bobby není tak zlý.
 
 312
-00:20:52,617 --> 00:20:54,453
+00:20:52,617 --> 00:20:55,453
 Hele, øíkám jenom, dávej si bacha.
 
 313
@@ -1522,7 +1522,7 @@ Ale je tu ještì nìco.
 Co?
 
 354
-00:23:19,618 --> 00:23:21,717
+00:23:19,618 --> 00:23:22,717
 Myslím, že jsem se
 zamiloval to tvojí mámy.
 
@@ -1560,12 +1560,11 @@ Víš, zdá se,
 
 363
 00:23:48,151 --> 00:23:52,084
-Ztratilo se pero,
+Ztratilo se pero, které údajnì patøilo
 
 364
 00:23:52,151 --> 00:23:53,618
-které údajnì
-patøilo Edgaru Allanu Poeovi.
+Edgaru Allanu Poeovi.
 
 365
 00:23:53,683 --> 00:23:57,213
@@ -1643,7 +1642,7 @@ Má tady povìst strašáka lidí.
 
 383
 00:25:15,950 --> 00:25:18,984
-Vážnì? Má rád horroré romány?
+Vážnì? Má rád horrorové romány?
 
 384
 00:25:19,050 --> 00:25:21,451
@@ -1821,11 +1820,12 @@ Johnny Cash. To je písnièka.
 
 425
 00:27:33,750 --> 00:27:36,618
-A Boy Named Sue (Kluk jménem Sue)
+A Boy Named Sue
+(Kluk jménem Sue)
 
 426
 00:27:36,683 --> 00:27:38,451
-Fajn.
+Dobøe.
 
 427
 00:27:38,518 --> 00:27:42,017
@@ -1881,7 +1881,7 @@ Dvanáctkrát. Znovu a znovu.
 
 440
 00:28:35,683 --> 00:28:37,850
-Odmítli ho.
+Neotisknuto.
 
 441
 00:28:37,917 --> 00:28:40,984
@@ -1909,7 +1909,7 @@ Od té toby nenapsal ani øádek.
 
 447
 00:29:11,458 --> 00:29:12,718
-To nemùže být...
+Pohni, Pete.
 
 448
 00:29:23,184 --> 00:29:24,650
@@ -1969,7 +1969,7 @@ Jenom tlukot mého odporného...
 
 461
 00:29:54,817 --> 00:29:55,784
-- Poslouchej.
+Poslouchej.
 
 462
 00:30:05,817 --> 00:30:07,051
@@ -2276,7 +2276,7 @@ Porozumíme èemu, Bobby? Øekni mi, èemu?
 
 534
 00:34:31,117 --> 00:34:32,517
-"Byla jeho celý život."
+<i>"Byla jeho celý život."</i>
 
 535
 00:34:32,583 --> 00:34:35,784
@@ -2314,8 +2314,7 @@ Kdo jste? Co?
 
 543
 00:35:30,583 --> 00:35:32,284
-Vemte ho do
-nemocnice.
+Vemte ho do nemocnice.
 Poøád to na nìj má vliv!
 
 544
@@ -2369,7 +2368,7 @@ pøibliž se k zápisníku.
 555
 00:36:02,951 --> 00:36:05,084
 - Jdu na to.
-- Buï opatrný.
+- Buï opatrný!
 
 556
 00:36:05,151 --> 00:36:07,951
@@ -2390,8 +2389,8 @@ No, polož sáèek pøímo na zápisník.
 
 560
 00:36:14,717 --> 00:36:16,218
-Pøevra ho vzhùru
-nohama, a z nìj vypadne to pero.
+Pøevra ho vzhùru nohama,
+a z nìj vypadne to pero.
 
 561
 00:36:16,284 --> 00:36:18,450
@@ -2565,7 +2564,7 @@ Jo, já vím. Mìl jsem zkusit....
 
 601
 00:39:24,851 --> 00:39:26,151
-A MacPherson taky.
+A MacPherson také.
 
 602
 00:39:27,784 --> 00:39:31,984
@@ -2585,7 +2584,7 @@ Myslím, že to byl celou dobu jeho plán.
 
 606
 00:39:46,051 --> 00:39:47,584
-- Vezmu Farsnworth.
+- Beru Farsnworth.
 - Dobrá volba.
 
 607
@@ -2607,7 +2606,7 @@ To bylo divný.
 
 611
 00:40:03,851 --> 00:40:05,717
-- Obrovská. Tvùj táta.
+Obrovská. Tvùj táta!
 
 612
 00:40:05,784 --> 00:40:08,417
