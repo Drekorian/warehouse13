@@ -4,23 +4,23 @@ V minulých dílech Warehouse 13...
 
 2
 00:00:03,320 --> 00:00:05,790
-Claudia Donovanová, Warehouse 13: Nová generace.
+Claudia Donovanová, Skladištì 13: Nová generace.
 
 3
 00:00:05,779 --> 00:00:07,420
-Nechceš se radìji bavit s lidmi svého vìku?
+Nemìla by ses radìji bavit s lidmi svého vìku?
 
 4
 00:00:07,435 --> 00:00:09,500
-Artie, já mám svùj vlastní vìk.
+Artie, já nejsem èlovìk svýho vìku.
 
 5
 00:00:10,280 --> 00:00:11,801
-Tohle místo je mùj domov.
+Tohle je mùj domov.
 
 6
 00:00:12,910 --> 00:00:14,887
-Macpherson smìøuje k Saint-Catherine!
+MacPherson míøí na východ do Saint-Catherine!
 
 7
 00:00:17,590 --> 00:00:20,010
@@ -28,7 +28,7 @@ Chci to, pro co jste riskovali životy.
 
 8
 00:00:21,050 --> 00:00:22,369
-Mùžu Macpherson znova dostat.
+Zase MacPhersona dostanu.
 
 9
 00:00:22,380 --> 00:00:23,542
@@ -36,7 +36,7 @@ O tom nepochybuji.
 
 10
 00:00:24,240 --> 00:00:25,661
-Tys šel po mé rodinì.
+Šels po mé rodinì.
 
 11
 00:00:25,870 --> 00:00:26,852
@@ -56,11 +56,11 @@ PØED 15 LETY
 
 15
 00:00:47,640 --> 00:00:50,409
-Pøestaò mi omílat skladištní dogma, Arthure!
+Pøestaò mi citovat skladištní dogma, Arthure!
 
 16
 00:00:50,640 --> 00:00:51,830
-Život ženy je v sázce.
+V sázce je lidský život.
 
 17
 00:00:51,850 --> 00:00:53,310
@@ -68,23 +68,23 @@ Mnoho životù je v sázce!
 
 18
 00:00:53,320 --> 00:00:56,110
-- A dal jsi slib. - Miluju ji.
+- A pøísal jsi! - Miluji ji!
 
 19
 00:00:56,120 --> 00:00:57,570
-Zachráním ji.
+A jdu do dovnitø.
 
 20
 00:00:57,590 --> 00:00:58,540
-Miluješ jí.
+I ty ji miluješ.
 
 21
 00:00:58,550 --> 00:01:00,410
-Vím, že ji miluješ taky.
+Vím, že ji také miluješ.
 
 22
 00:01:01,720 --> 00:01:04,189
-Takže víš jak bolestivé to pro mì je.
+Potom víš, jak bolestivé to pro mì je!
 
 23
 00:01:04,450 --> 00:01:05,390
@@ -96,7 +96,7 @@ A co následky?
 
 25
 00:01:06,771 --> 00:01:09,080
-Ona žije, ostatní lidé umírají!
+Pokud bude žít, ostatní zemøou!
 
 26
 00:01:09,009 --> 00:01:10,330
@@ -104,15 +104,15 @@ Chceš s tímhle žít?
 
 27
 00:01:10,340 --> 00:01:11,972
-Nemùžeš si hrát na Boha.
+Nemùžeš si hrát na Boha!
 
 28
 00:01:12,520 --> 00:01:14,500
-No, ale ani ty.
+Ani ty ne!
 
 29
 00:01:14,510 --> 00:01:16,365
-Ani ty, ani Fyzici, ani Regenti.
+Ani ty, ani fyzikální zákony, ani Regenti!
 
 30
 00:01:16,470 --> 00:01:19,582
@@ -120,19 +120,19 @@ Arthure, oni akorát sedí a hromadí si vìci, které mùžou zachránit svìt.
 
 31
 00:01:19,810 --> 00:01:20,605
-Pomùžeme jim.
+A my jim pomáháme!
 
 32
 00:01:21,050 --> 00:01:22,255
-No, teï už ne.
+No, už toho bylo dost!
 
 33
 00:01:22,850 --> 00:01:24,061
-Dokonèil jsem to.
+Už toho mám dost!
 
 34
 00:01:25,630 --> 00:01:27,180
-Dej mi to!
+Dej to sem!
 
 35
 00:01:27,190 --> 00:01:28,160
@@ -156,11 +156,11 @@ Pìt hasièù zemøelo té noci.
 
 40
 00:02:28,830 --> 00:02:30,383
-Pouze žena pøežila.
+Pøežila pouze ta žena.
 
 41
 00:02:30,609 --> 00:02:31,251
-Kdo to je?
+Kdo je to?
 
 42
 00:02:32,170 --> 00:02:33,340
@@ -168,15 +168,15 @@ Carol Augustine.
 
 43
 00:02:33,364 --> 00:02:34,631
-Žije v D.C.
+Teï žije v D.C.
 
 44
 00:02:34,840 --> 00:02:36,176
-Momentálnì sama, alespoò pokud víme.
+Sama, alespoò pokud víme.
 
 45
 00:02:36,380 --> 00:02:37,782
-A ona byla Macphersonova žena?
+A ona byla MacPhersonova žena?
 
 46
 00:02:37,890 --> 00:02:38,764
@@ -188,7 +188,7 @@ Dostali nìkdy to vraždícího zkur...?
 
 48
 00:02:40,710 --> 00:02:44,230
-MacPherson dostal pìt po sobì jdoucích doživotí
+MacPherson dostal pìt soubìžných doživotí
 
 49
 00:02:44,240 --> 00:02:45,576
@@ -196,19 +196,19 @@ a byl vypovìzen ze Skladištì.
 
 50
 00:02:45,900 --> 00:02:47,249
-Tak samozøejmì MacPherson utekl.
+Ale MacPherson oèividnì utekl.
 
 51
 00:02:47,750 --> 00:02:49,640
-Poté, co sloužil dva roky ve vìzení,
+Poté, co si odpykal dva roky ve vazbì,
 
 52
 00:02:49,650 --> 00:02:51,955
-tam došlo k nevysvìtlitelné explozi.
+ve vìzení došlo k nevysvìtlitelné explozi.
 
 53
 00:02:52,030 --> 00:02:53,061
-Desítky byly zabity.
+Zemøely tucty lidí.
 
 54
 00:02:53,560 --> 00:02:55,600
@@ -220,7 +220,7 @@ Byli jsme špatnì informováni.
 
 56
 00:02:57,710 --> 00:03:00,289
-Pak se objeví na japonské ambasádì v D.C.
+Pak se objevil na japonské ambasádì v D.C.
 
 57
 00:03:00,450 --> 00:03:02,978
@@ -228,7 +228,7 @@ Od té toby jsme Carol sledovali.
 
 58
 00:03:03,530 --> 00:03:05,830
-Sledovala jsem jeho pohyby v D.C.,
+Monitorovala jsem sledování v D.C.,
 
 59
 00:03:05,840 --> 00:03:07,433
@@ -240,11 +240,11 @@ Ne, místo toho šel po mé rodinì.
 
 61
 00:03:13,910 --> 00:03:16,280
-Nemohu pochopit, proè jím je Artie posedlý.
+Už chápu, proè je jím Artie tak posedlý.
 
 62
 00:03:18,160 --> 00:03:20,700
-No, tenhle chlap nemá žádný problém zabít kohokoliv, co?
+No, tenhle chlap nemá problém zabít kohokoliv, co?
 
 63
 00:03:20,720 --> 00:03:23,572
@@ -264,7 +264,7 @@ Zní to jako Romeo a Julie.
 
 67
 00:03:31,900 --> 00:03:33,540
-Ne, ne, ne, nic na tom není romantické.
+Ne, ne, ne, není na tom nic romantického.
 
 68
 00:03:33,550 --> 00:03:34,970
@@ -284,31 +284,31 @@ tak mu byla trvale vpíchnuta substance,
 
 72
 00:03:43,100 --> 00:03:46,340
-která dramaticky reaguje, pokud je v blízkosti tohoto "painitu".
+která drasticky reaguje, pokud je v blízkosti tohoto "painitu".
 
 73
 00:03:47,370 --> 00:03:48,192
-Dramaticky?
+Drasticky?
 
 74
 00:03:48,860 --> 00:03:51,020
-Mohl bys být trošku konkrétnìjší s modifikátory?
+Mohly by tvoje pøívlastky být trochu konkrétnìjší?
 
 75
 00:03:51,030 --> 00:03:51,440
-Mohl.
+Mohly.
 
 76
 00:03:52,450 --> 00:03:54,290
-Pokud by MacPherson dorazil do Skladištì,
+Pokud by MacPherson vstoupil do Skladištì,
 
 77
 00:03:54,300 --> 00:03:55,750
-jeho krev by se zmìnila v kyselinu.
+jeho krev by se zmìnila v kyselinu
 
 78
 00:03:55,760 --> 00:03:57,782
-A okamžitì prožrala jeho žílami.
+a okamžitì se prožrala jeho žílami.
 
 79
 00:03:58,350 --> 00:03:59,110
@@ -332,7 +332,7 @@ Už jsem prošla Blízký Východ, míøím do Afriky - já ho najdu.
 
 84
 00:04:06,110 --> 00:04:07,930
-No, možná jsi našla sobì rovného co se týèe
+No, možná jsi našla sobì rovného, co se týèe
 
 85
 00:04:07,940 --> 00:04:09,600
@@ -340,15 +340,15 @@ hackování do MacPhersonova...
 
 86
 00:04:09,610 --> 00:04:11,970
-No jasnì. Kdo je tady borec?
+Ó ano! Kdo je tady borec?!
 
 87
 00:04:11,980 --> 00:04:12,910
-FIX_ME You got a nibble?  nibble-trošku,kousek,ždibec(dal bych tam zdrobnìlinu)  Máš nìcièko?
+Našlas vodítko?
 
 88
 00:04:12,920 --> 00:04:13,810
-- Žvýkat. - Co?
+- Poøádný. - Co?
 
 89
 00:04:13,820 --> 00:04:15,110
@@ -360,19 +360,19 @@ Na prodej.
 
 91
 00:04:16,010 --> 00:04:18,604
-Ne. Podívám se. Pardon.
+Ne. Podívám se. Dovolíš?
 
 92
 00:04:20,980 --> 00:04:23,870
-"Pro prohlédnutí zbytku této elitní sbírky...
+"Pro prohlédnutí zbytku této elitní sbírky..."
 
 93
 00:04:23,880 --> 00:04:24,570
-" sbírky?
+"sbírky" ?
 
 94
 00:04:24,590 --> 00:04:26,950
-Proè by prodával artefakty - leda... Ne!
+- Proè by prodával artefakty... leda... - Ne!
 
 95
 00:04:26,960 --> 00:04:27,637
@@ -384,7 +384,7 @@ No, já vždycky neznámé stránky projedu antivirem, než na nì vstoupím.
 
 97
 00:04:40,360 --> 00:04:42,590
-- To je dobrý postup. - No jo...
+- To je dobrý nápad. - No jo...
 
 98
 00:04:43,100 --> 00:04:44,990
@@ -392,7 +392,7 @@ Ach, ne. Ne, ne, ne, ne, ne.
 
 99
 00:04:45,000 --> 00:04:46,620
-Nesmíte vypnout Claudio-metr.
+Claudio-metr teda nevypneš.
 
 100
 00:04:46,630 --> 00:04:47,720
@@ -400,11 +400,11 @@ Je mi to hroznì, hroznì líto.
 
 101
 00:04:47,730 --> 00:04:49,210
-Tak to chodí v kybersvìtì.
+Takovej je život v kybersvìtì, brácho.
 
 102
 00:04:49,220 --> 00:04:50,640
-Budeme potøebovat chvilku.
+Budu potøebovat vteøinku.
 
 103
 00:04:50,650 --> 00:04:52,632
@@ -416,7 +416,7 @@ WASHINGTON, DC
 
 105
 00:05:00,050 --> 00:05:01,660
-Dìkuji vám za trpìlivost, pane.
+Dìkuji vám za trpìlivost, panové.
 
 106
 00:05:01,670 --> 00:05:06,724
@@ -428,7 +428,7 @@ Co to pøesnì dìlá, pane MacPhersone?
 
 108
 00:05:10,190 --> 00:05:12,370
-Pøejeïte prsty pøes okraj.
+Pøejeïte prsty po okraji.
 
 109
 00:05:17,080 --> 00:05:17,712
@@ -444,7 +444,7 @@ Ukázku toho, co pøijde.
 
 112
 00:05:22,690 --> 00:05:25,431
-Pane MacPherone, jaké další artefakty budou na prodej?
+Pane MacPhersone, jaké další artefakty budou na prodej?
 
 113
 00:05:25,880 --> 00:05:28,680
@@ -452,15 +452,15 @@ Pane Paku, jak se zdá, tak už jste v osidlech chamtivosti.
 
 114
 00:05:28,690 --> 00:05:31,220
-No, další artefakty jsou sbírány zatímco spolu mluvíme.
+Inu, další artefakty jsou sbírány zatímco spolu mluvíme.
 
 115
 00:05:31,230 --> 00:05:35,466
-Ale zatím, pohleïte na Fénixe!
+Ale mezitím, pohleïte na Fénixe!
 
 116
 00:05:37,750 --> 00:05:43,604
-Je to dùvod, proè jsme tady v mé továrnì - tato ukázka?
+To je... proè jsme zde, v mé továrnì. Kvùli ukázce.
 
 117
 00:05:43,750 --> 00:05:45,390
@@ -468,11 +468,11 @@ Jste velmi vnímavý, pane Freitagu.
 
 118
 00:05:45,410 --> 00:05:46,870
-Ano, nemyslel jsem, že tak opatrní gentlemanové,
+Nemyslel jsem, že tak opatrní gentlemanové,
 
 119
 00:05:46,880 --> 00:05:51,482
-jako vy by by utratili takové peníze za povídaèku nebo legendu.
+jako vy, by by utratili takové peníze za povídaèku nebo legendu.
 
 120
 00:05:51,540 --> 00:05:52,493
@@ -488,15 +488,15 @@ Dìkuji.
 
 123
 00:06:01,860 --> 00:06:02,460
-Co to dìláte, èlovìèe?
+Co to dìláte?!
 
 124
 00:06:02,480 --> 00:06:03,700
-Poèkat! Stát!
+DELETE_ME_LATER
 
 125
 00:06:03,710 --> 00:06:04,810
-On tam zemøe.
+On tam zemøe!
 
 126
 00:06:04,820 --> 00:06:05,561
@@ -504,7 +504,7 @@ Trpìlivost!
 
 127
 00:06:06,060 --> 00:06:06,338
-Trpìlivost.
+Trpìlivost...
 
 128
 00:06:08,210 --> 00:06:08,666
@@ -512,7 +512,7 @@ Trpìlivost.
 
 129
 00:06:10,720 --> 00:06:11,996
-Ano. Tady.
+Ano. Už.
 
 130
 00:06:18,280 --> 00:06:22,812
@@ -528,7 +528,7 @@ Co je s nimi?
 
 133
 00:06:29,660 --> 00:06:31,890
-- Pøíèina a dùsledek pánové. - Pøíèina a dùsledek.
+Pøíèina a dùsledek pánové. Pøíèina a dùsledek.
 
 134
 00:06:31,900 --> 00:06:34,230
@@ -536,15 +536,15 @@ I anomálie jsou spoutány jejich vlastními pøírodními zákony.
 
 135
 00:06:34,240 --> 00:06:36,340
-Nevýznamné souèasné poškození.
+Nevýznamný vedlejší úèinek.
 
 136
 00:06:36,350 --> 00:06:38,862
-Ale vhodné pro pøedvedení.
+Ale vhodný pro pøedvedení.
 
 137
 00:06:39,480 --> 00:06:42,150
-Pane MacPherone, zastavte to.
+Pane MacPhersone, zastavte to.
 
 138
 00:06:42,160 --> 00:06:43,015
@@ -564,7 +564,7 @@ Ale ostatní mají ménì štìstí.
 
 142
 00:06:50,370 --> 00:06:52,840
-A toto si dovlujete v mojí továrnì?
+A toto si dovolujete v mé továrnì?
 
 143
 00:06:52,850 --> 00:06:54,300
@@ -584,7 +584,7 @@ Pánové...
 
 147
 00:07:00,930 --> 00:07:03,583
-Umíte si pøedstavit tento nástroj v rukách jednoho z vašich patriotù?
+Pøedstavte si tento nástroj v rukou jednoho z vašich patriotù?
 
 148
 00:07:04,210 --> 00:07:11,230
