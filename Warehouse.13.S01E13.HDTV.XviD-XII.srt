@@ -271,7 +271,7 @@ Ne, ne, ne, nic na tom není romantické.
 Zdi Skladištì jsou napuštìny
 
 69
-00:03:34,980 --> 00:03:37,960
+00:03:34,980 --> 00:03:37,860
 velice vzácnım nerostem jménem "painit".
 
 70
@@ -283,11 +283,11 @@ A ne byl MacPherson uvìznìn,
 tak mu byla trvale vpíchnuta substance,
 
 72
-00:03:43,100 --> 00:03:46,630
+00:03:43,100 --> 00:03:46,340
 která dramaticky reaguje, pokud je v blízkosti tohoto "painitu".
 
 73
-00:03:47,370 --> 00:03:48,392
+00:03:47,370 --> 00:03:48,192
 Dramaticky?
 
 74
@@ -359,8 +359,8 @@ Pero Edgara Allana Poea.
 Na prodej.
 
 91
-00:04:16,010 --> 00:04:18,630
-No Podívám se. Pardon.
+00:04:16,010 --> 00:04:18,604
+Ne. Podívám se. Pardon.
 
 92
 00:04:20,980 --> 00:04:23,870
@@ -375,7 +375,7 @@ No Podívám se. Pardon.
 Proè by prodával artefakty - leda... Ne!
 
 95
-00:04:26,960 --> 00:04:29,240
+00:04:26,960 --> 00:04:27,637
 Neklikej na to!
 
 96
@@ -384,7 +384,7 @@ No, já vdycky neznámé stránky projedu antivirem, ne na nì vstoupím.
 
 97
 00:04:40,360 --> 00:04:42,590
-- To je dobrı nápad. - No jo...
+- To je dobrı postup. - No jo...
 
 98
 00:04:43,100 --> 00:04:44,990
@@ -407,11 +407,11 @@ Tak to chodí v kybersvìtì.
 Budeme potøebovat chvilku.
 
 103
-00:04:50,650 --> 00:04:53,170
+00:04:50,650 --> 00:04:52,632
 - Víš, mohla bys zkusit... - Sáhni na to a zemøeš!
 
 104
-00:04:56,870 --> 00:04:58,780
+00:04:56,770 --> 00:04:58,700
 WASHINGTON, DC
 
 105
@@ -419,7 +419,7 @@ WASHINGTON, DC
 Dìkuji vám za trpìlivost, pane.
 
 106
-00:05:01,670 --> 00:05:07,020
+00:05:01,670 --> 00:05:06,724
 Pane Freitagu, mám pocit, e toto by vás mohlo obzvláštì zajímat.
 
 107
@@ -427,23 +427,23 @@ Pane Freitagu, mám pocit, e toto by vás mohlo obzvláštì zajímat.
 Co to pøesnì dìlá, pane MacPhersone?
 
 108
-00:05:10,190 --> 00:05:12,530
+00:05:10,190 --> 00:05:12,370
 Pøejeïte prsty pøes okraj.
 
 109
-00:05:17,080 --> 00:05:18,590
+00:05:17,080 --> 00:05:17,712
 Boe.
 
 110
-00:05:18,600 --> 00:05:20,240
+00:05:18,600 --> 00:05:19,404
 Povaujte to za dárek.
 
 111
-00:05:20,250 --> 00:05:22,670
+00:05:20,250 --> 00:05:22,326
 Ukázku toho, co pøijde.
 
 112
-00:05:22,690 --> 00:05:25,870
+00:05:22,690 --> 00:05:25,431
 Pane MacPherone, jaké další artefakty budou na prodej?
 
 113
@@ -455,11 +455,11 @@ Pane Paku, jak se zdá, tak u jste v osidlech chamtivosti.
 No, další artefakty jsou sbírány zatímco spolu mluvíme.
 
 115
-00:05:31,230 --> 00:05:35,730
+00:05:31,230 --> 00:05:35,466
 Ale zatím, pohleïte na Fénixe!
 
 116
-00:05:37,750 --> 00:05:43,740
+00:05:37,750 --> 00:05:43,604
 Je to dùvod, proè jsme tady v mé továrnì - tato ukázka?
 
 117
@@ -471,19 +471,19 @@ Jste velmi vnímavı, pane Freitagu.
 Ano, nemyslel jsem, e tak opatrní gentlemanové,
 
 119
-00:05:46,880 --> 00:05:51,530
+00:05:46,880 --> 00:05:51,482
 jako vy by by utratili takové peníze za povídaèku nebo legendu.
 
 120
-00:05:51,540 --> 00:05:52,640
+00:05:51,540 --> 00:05:52,493
 To máte pravdu.
 
 121
-00:05:52,650 --> 00:05:55,310
+00:05:52,650 --> 00:05:55,177
 Carsone, mohl bys to na moment podret?
 
 122
-00:06:00,170 --> 00:06:01,850
+00:06:00,170 --> 00:06:01,100
 Dìkuji.
 
 123
@@ -492,7 +492,7 @@ Co to dìláte, èlovìèe?
 
 124
 00:06:02,480 --> 00:06:03,700
-Pokat! Stát!
+Poèkat! Stát!
 
 125
 00:06:03,710 --> 00:06:04,810
@@ -515,7 +515,7 @@ Trpìlivost.
 Ano. Tady.
 
 130
-00:06:18,280 --> 00:06:23,090
+00:06:18,280 --> 00:06:22,812
 Jak vidíte, ve správnıch rukou mùe toto bıt vyjímeènì uiteèné.
 
 131
@@ -539,7 +539,7 @@ I anomálie jsou spoutány jejich vlastními pøírodními zákony.
 Nevıznamné souèasné poškození.
 
 136
-00:06:36,350 --> 00:06:38,929
+00:06:36,350 --> 00:06:38,862
 Ale vhodné pro pøedvedení.
 
 137
@@ -547,7 +547,7 @@ Ale vhodné pro pøedvedení.
 Pane MacPherone, zastavte to.
 
 138
-00:06:42,160 --> 00:06:43,885
+00:06:42,160 --> 00:06:43,015
 Nedá se to zastavit.
 
 139
@@ -575,19 +575,19 @@ Prostá ukázka, pane Freitagu.
 Pokud na ni nemáte aludek,
 
 145
-00:06:55,670 --> 00:06:58,340
+00:06:55,670 --> 00:06:57,926
 tak pro vás Fénix asi není to pravé.
 
 146
-00:06:59,170 --> 00:07:00,520
+00:06:59,170 --> 00:07:00,320
 Pánové...
 
 147
-00:07:00,930 --> 00:07:04,200
+00:07:00,930 --> 00:07:03,583
 Umíte si pøedstavit tento nástroj v rukách jednoho z vašich patriotù?
 
 148
-00:07:04,210 --> 00:07:11,430
+00:07:04,210 --> 00:07:11,230
 Odhodlání sebevraedného atentátníka, kterı nikdy nezemøe...
 
 149
@@ -599,7 +599,7 @@ Drekorian a NoWQa uvádí:
 finále první øady seriálu
 
 151
-00:07:25,000 --> 00:07:26,800
+00:07:25,000 --> 00:07:26,540
 Warehouse 13
 
 152
@@ -619,11 +619,11 @@ www.serialzone.cz
 WAREHOUSE 13 - 1x13  MacPherson
 
 156
-00:07:54,710 --> 00:07:56,940
+00:07:54,710 --> 00:07:56,890
 Podaøilo se mi zlikvidovat poèítaèovı systém,
 
 157
-00:07:56,950 --> 00:08:00,290
+00:07:56,897 --> 00:08:00,290
 take, je mi líto. Dokud ho nenahodíme zpátky, jsme slepí, hluší a hloupí.
 
 158
@@ -655,7 +655,7 @@ A jde o to samé dìcko, které tì našlo
 a u se jednou nabouralo do tvého supertajného domeèku, jasnı?
 
 165
-00:08:13,130 --> 00:08:14,840
+00:08:13,130 --> 00:08:14,452
 Trochu dùvìry, prosím.
 
 166
@@ -679,7 +679,7 @@ Fajn, pojïme na to, co neznáme.
 To by mohlo trvat tıdny.
 
 171
-00:08:22,080 --> 00:08:23,870
+00:08:22,080 --> 00:08:22,870
 - Mìsíce. - Roky.
 
 172
@@ -723,7 +723,7 @@ A vy dva jako co? Vyslıcháte mì?
 Vyšetøují.
 
 182
-00:08:41,660 --> 00:08:44,200
+00:08:41,660 --> 00:08:44,121
 Na to jsme je najali. Nebo snad ne?
 
 183
@@ -735,11 +735,11 @@ No a co Carol?
 Jaktoe víte o Carol?
 
 185
-00:08:50,730 --> 00:08:52,685
+00:08:50,730 --> 00:08:52,485
 Coste to... Co... Vy jste jim to øekla?
 
 186
-00:08:53,080 --> 00:08:54,005
+00:08:53,080 --> 00:08:53,805
 Všechno?
 
 187
@@ -763,31 +763,31 @@ Napadlo vás se mì tøeba zeptat, ne jste to vyvanila?
 Agente Nielsene!
 
 192
-00:09:03,950 --> 00:09:06,620
+00:09:03,950 --> 00:09:05,795
 Zapomínáš, s kım mluvíš.
 
 193
-00:09:07,380 --> 00:09:12,760
+00:09:07,380 --> 00:09:12,650
 Arthure, nikdo neví, èeho je schopnı lépe, ne ty.
 
 194
-00:09:13,280 --> 00:09:15,510
+00:09:13,280 --> 00:09:14,641
 Moná kromì mì.
 
 195
 00:09:15,710 --> 00:09:19,570
-Agenti Berongová a Lattimer budou potøebovat vìdìt všechno, pokud mají mít šanci na pøeití.
+Agenti Beringová a Lattimer budou potøebovat vìdìt všechno, pokud mají mít šanci na pøeití.
 
 196
 00:09:19,650 --> 00:09:20,687
 Všechno.
 
 197
-00:09:23,480 --> 00:09:26,120
+00:09:23,480 --> 00:09:25,538
 Jo. Omlouvám se. Máte pravdu.
 
 198
-00:09:27,000 --> 00:09:30,020
+00:09:27,000 --> 00:09:29,869
 Já jsem hlavnì nikdy nemìl Carolyn navštívit.
 
 199
@@ -811,19 +811,19 @@ Vy tøi si s ní musíte promluvit.
 Ne. Ne, ne, ne.
 
 204
-00:09:41,350 --> 00:09:44,390
+00:09:41,350 --> 00:09:44,190
 U jsem se na ní zamìøil i tak dost.
 
 205
-00:09:44,400 --> 00:09:46,450
+00:09:44,400 --> 00:09:46,273
 Nemáš na vıbìr, Arthure.
 
 206
-00:09:46,700 --> 00:09:48,650
+00:09:46,700 --> 00:09:48,021
 Je naše jediné vodítko.
 
 207
-00:09:48,660 --> 00:09:51,450
+00:09:48,660 --> 00:09:51,202
 Kámo, nezapo se.
 
 208
@@ -839,23 +839,23 @@ Potom, co jsem se pøimagnetizovala ke strupu a málem byla rozemletá ve Slizárnì,
 FIX_ME myslím, e jsem ready. Co?  nwm jestli je tam dobre"ready"-dal bych tam raèi "v poho" nebo nìco takoveho
 
 211
-00:09:56,150 --> 00:09:58,240
+00:09:56,150 --> 00:09:57,840
 Proè na mì vrtíš bradama?
 
 212
-00:09:58,360 --> 00:10:00,090
+00:09:58,360 --> 00:09:59,718
 Nemìli byste jít všichni.
 
 213
-00:10:00,100 --> 00:10:01,730
+00:10:00,100 --> 00:10:01,125
 Zùstanu s Claudií,
 
 214
-00:10:01,740 --> 00:10:05,720
+00:10:01,740 --> 00:10:05,019
 a ona mì bude zpravovat o tìchto dvou událostech.
 
 215
-00:10:11,460 --> 00:10:14,140
+00:10:11,460 --> 00:10:13,580
 A øekl cokoliv, nejsi v bezepeèí.
 
 216
@@ -867,35 +867,35 @@ Nevidìla jsem Jamese MacPhersona 15 let.
 Nikdy jsem ho ani nenávštivila ve vìzení.
 
 218
-00:10:19,060 --> 00:10:21,870
+00:10:19,060 --> 00:10:21,641
 No, tomu se tìko vìøí vzhledem k tomu, e vám zachránil ivot.
 
 219
-00:10:21,880 --> 00:10:24,130
+00:10:21,880 --> 00:10:23,786
 Jiní tu noc zemøeli namísto mì.
 
 220
-00:10:24,140 --> 00:10:26,060
+00:10:24,140 --> 00:10:25,594
 Já bych to tak neudìlala.
 
 221
-00:10:26,070 --> 00:10:28,490
+00:10:26,070 --> 00:10:28,440
 A nikdy jsem Jamesovi neodpustila, e to pro mì udìlal.
 
 222
-00:10:28,500 --> 00:10:30,360
+00:10:28,448 --> 00:10:29,675
 Artie to ví.
 
 223
-00:10:31,090 --> 00:10:32,990
+00:10:31,090 --> 00:10:32,509
 Máte ráda èerstvé kvìtiny.
 
 224
-00:10:33,000 --> 00:10:35,370
+00:10:33,000 --> 00:10:35,247
 - Co prosím? - Jsou všude po bytì.
 
 225
-00:10:35,394 --> 00:10:37,210
+00:10:35,394 --> 00:10:36,960
 No, jak jste øekla, mám je ráda.
 
 226
@@ -903,11 +903,11 @@ No, jak jste øekla, mám je ráda.
 V koši je šperkovnice a nìjakı balící papír.
 
 227
-00:10:39,780 --> 00:10:42,500
+00:10:39,780 --> 00:10:42,024
 - Mìla jsem narozeniny. - Narozeniny máte za ètyøi mìsíce.
 
 228
-00:10:42,510 --> 00:10:44,230
+00:10:42,510 --> 00:10:44,111
 S Googlem nám to fakt jde.
 
 229
@@ -919,27 +919,27 @@ Za mnou jsou dva deštníky.
 Jeden je rùovı, jeden èernı.
 
 231
-00:10:47,450 --> 00:10:49,760
+00:10:47,450 --> 00:10:49,748
 - Pršelo pøed tøemi dny? - Myslím, e ano.
 
 232
-00:10:49,770 --> 00:10:50,960
+00:10:49,753 --> 00:10:50,960
 On není ten, kdo si myslíš, e je.
 
 233
-00:10:50,970 --> 00:10:53,230
+00:10:50,970 --> 00:10:53,166
 - Zmìnil se. - Carol... Carol...
 
 234
-00:10:53,250 --> 00:10:54,350
+00:10:53,250 --> 00:10:53,942
 Poslouchej mì.
 
 235
-00:10:54,360 --> 00:10:57,120
+00:10:54,360 --> 00:10:56,795
 Rád bych tì ochránil pøed kadou èertovinou, kterou plánuje.
 
 236
-00:10:57,130 --> 00:11:01,380
+00:10:57,130 --> 00:11:00,710
 Boe. Víš, vrazíš sem a pøevrátíš mùj ivot naruby.
 
 237
@@ -947,47 +947,47 @@ Boe. Víš, vrazíš sem a pøevrátíš mùj ivot naruby.
 Byl tady jen párkrát.
 
 238
-00:11:03,310 --> 00:11:05,150
+00:11:03,310 --> 00:11:04,391
 Kdy naposledy?
 
 239
-00:11:05,160 --> 00:11:06,240
+00:11:05,160 --> 00:11:06,042
 Pøed tøemi dny.
 
 240
-00:11:06,260 --> 00:11:09,470
+00:11:06,260 --> 00:11:09,023
 No, jistì, to je pochopitelné, e jste na to zapomnìla.
 
 241
-00:11:09,590 --> 00:11:11,120
+00:11:09,590 --> 00:11:10,313
 Co je to?
 
 242
-00:11:11,130 --> 00:11:12,900
+00:11:11,130 --> 00:11:12,428
 - Nemám ponìtí. - Uka mi to.
 
 243
-00:11:19,540 --> 00:11:21,477
+00:11:19,540 --> 00:11:21,102
 To je egyptskı symbol.
 
 244
 00:11:22,090 --> 00:11:23,920
-FIX_ME It's a was scepter.  Ptøilo to k ezlu.
+FIX_ME It's a was scepter.  Patøilo to k ezlu.
 
 245
-00:11:23,940 --> 00:11:25,350
-Pøedstavuje sílu.
+00:11:23,940 --> 00:11:24,957
+FIX_ME Pøedstavuje sílu.  dal bych spíš "moc"
 
 246
 00:11:25,360 --> 00:11:27,070
 Bostva to nosila jako
 
 247
-00:11:27,080 --> 00:11:30,070
+00:11:27,080 --> 00:11:30,032
 symbol jejich nadvlády nad silami chaosu.
 
 248
-00:11:30,080 --> 00:11:31,250
+00:11:30,037 --> 00:11:31,034
 Je zajíamvé...
 
 249
@@ -995,7 +995,7 @@ Je zajíamvé...
 e vypadá stejnì jako pøívìšek, kterı máte kolem krku.
 
 250
-00:11:34,040 --> 00:11:36,230
+00:11:34,040 --> 00:11:34,786
 No, uka mi to?
 
 251
@@ -1003,15 +1003,15 @@ No, uka mi to?
 Je velice pìknı.
 
 252
-00:11:37,020 --> 00:11:39,270
+00:11:37,020 --> 00:11:39,208
 - Je od Jamese? - Ano.
 
 253
-00:11:39,280 --> 00:11:41,820
+00:11:39,213 --> 00:11:41,205
 Carol, chápeš, e tì o nìj budu muset poádat, e?
 
 254
-00:11:41,840 --> 00:11:43,070
+00:11:41,840 --> 00:11:42,959
 Zajímavé.
 
 255
@@ -1027,27 +1027,27 @@ Pøestaò ho krıt.
 Nikdy jsem se nemohla rozhodnout, jestli paní Fredericová najímá arogantní lidi,
 
 258
-00:11:57,080 --> 00:11:59,670
+00:11:57,080 --> 00:11:59,511
 nebo jestli je arogantním udìlá ta práce.
 
 259
-00:12:00,810 --> 00:12:03,210
-- Co je to? - Mám vánì špatnı pocit.
+00:12:00,810 --> 00:12:02,850
+- Co je? - Mám vánì špatnı pocit.
 
 260
-00:12:03,220 --> 00:12:04,580
+00:12:03,220 --> 00:12:04,048
 Ohlednì èeho?
 
 261
-00:12:04,590 --> 00:12:07,320
+00:12:04,590 --> 00:12:06,997
 No, myslím, e je kvùli... Artiemu.
 
 262
-00:12:07,960 --> 00:12:11,120
+00:12:07,960 --> 00:12:09,476
 Myslím... myslím, e on...
 
 263
-00:12:12,060 --> 00:12:14,300
+00:12:12,060 --> 00:12:13,775
 To je fuk. U je to pryè.
 
 264
@@ -1055,8 +1055,8 @@ To je fuk. U je to pryè.
 6166 Broadview.
 
 265
-00:12:17,530 --> 00:12:20,870
-Paradoxnì, okrsek Skladištì. 
+00:12:17,530 --> 00:12:20,793
+Paradoxnì, okrsek Skladištì.
 
 266
 00:12:21,250 --> 00:12:22,510
@@ -1079,43 +1079,43 @@ No, jo, jasnı. Ale je tam velkı firewallstvo.
 Chci øíct, e se dostanu pøes jeden
 
 271
-00:12:28,870 --> 00:12:31,250
+00:12:28,870 --> 00:12:30,086
 a další je pøímo za...
 
 272
-00:12:33,080 --> 00:12:36,100
+00:12:33,080 --> 00:12:35,215
 Claudie. Claudie, co je?
 
 273
-00:12:36,700 --> 00:12:38,820
+00:12:36,700 --> 00:12:37,612
 Kdo je to?
 
 274
-00:12:38,830 --> 00:12:40,380
+00:12:38,830 --> 00:12:40,150
 To je on.
 
 275
-00:12:40,400 --> 00:12:43,170
+00:12:40,400 --> 00:12:42,423
 To...to je James MacPherson?
 
 276
-00:12:43,970 --> 00:12:44,820
+00:12:43,970 --> 00:12:44,620
 Claudie...
 
 277
-00:12:44,830 --> 00:12:47,180
+00:12:44,830 --> 00:12:45,414
 Leeno...
 
 278
-00:12:47,660 --> 00:12:49,820
+00:12:47,660 --> 00:12:48,747
 Já ho znám.
 
 279
-00:12:49,830 --> 00:12:51,470
+00:12:49,830 --> 00:12:50,665
 Odkud?
 
 280
-00:12:51,480 --> 00:12:54,540
+00:12:51,480 --> 00:12:54,134
 Byl to Joshuùv profesor fyziky.
 
 281
@@ -1123,19 +1123,19 @@ Byl to Joshuùv profesor fyziky.
 Sice jsem byla ještì dìcko, ale pamatuju si ten oblièej.
 
 282
-00:12:56,230 --> 00:12:58,420
+00:12:56,230 --> 00:12:58,320
 To on dal Joshuovi Rheticùv kompas.
 
 283
-00:12:58,430 --> 00:13:00,370
+00:12:58,328 --> 00:12:59,648
 Kontaktoval mì.
 
 284
-00:13:00,380 --> 00:13:02,130
+00:13:00,380 --> 00:13:02,063
 Co? Kdy?
 
 285
-00:13:02,140 --> 00:13:02,810
+00:13:02,072 --> 00:13:02,810
 Pøed osmi mìsíci.
 
 286
@@ -1159,7 +1159,7 @@ Pøidal si mì do pøátel. Poslali jsme si pár e-mailù.
 Zasvìtila jsem ho, øekla mu o svım projektu,
 
 291
-00:13:13,170 --> 00:13:16,170
+00:13:13,170 --> 00:13:15,923
 a on mi poradil pár trikù, jak obejít firewall.
 
 292
@@ -1168,7 +1168,7 @@ Firewall Skladištì?
 
 293
 00:13:21,151 --> 00:13:22,709
-John Maxwell Zøizovatel / Manaer 
+John Maxwell Zøizovatel / Manaer
 
 294
 00:13:23,710 --> 00:13:26,721
@@ -1187,11 +1187,11 @@ FIX_ME Why tool and die. -to same
 Co tady dìlá?
 
 298
-00:13:36,250 --> 00:13:38,160
+00:13:36,250 --> 00:13:38,034
 Nevím, moná si našel novou kariéru.
 
 299
-00:13:38,170 --> 00:13:41,092
+00:13:38,170 --> 00:13:40,961
 Nezapadá mi zrovna do modrıch límeèkù.
 
 300
@@ -1203,7 +1203,7 @@ Dobøe, tohle... tohle je nìmeckı stroj, aspoò myslím.
 Myslím, e všechny jsou.
 
 302
-00:13:45,850 --> 00:13:47,950
+00:13:45,850 --> 00:13:47,622
 - Proè by se obtìoval... - Mùu vám pomoci?
 
 303
@@ -1219,11 +1219,11 @@ Hledáme Jamese MacPhersona.
 Nikdo takovı tady není.
 
 306
-00:13:53,140 --> 00:13:54,440
+00:13:53,140 --> 00:13:54,230
 Znáte ho?
 
 307
-00:13:54,900 --> 00:13:55,589
+00:13:54,900 --> 00:13:55,545
 Kdo jste?
 
 308
@@ -1231,15 +1231,15 @@ Kdo jste?
 Tajná sluba.
 
 309
-00:13:57,560 --> 00:13:59,000
+00:13:57,560 --> 00:13:58,880
 Budeme se tady muset porozhlédnout.
 
 310
-00:13:59,010 --> 00:14:02,171
+00:13:59,010 --> 00:14:01,725
 Ano, no klidnì, jako doma.
 
 311
-00:15:09,570 --> 00:15:11,000
+00:15:09,570 --> 00:15:10,647
 Co to dìláš?
 
 312
@@ -1247,15 +1247,15 @@ Co to dìláš?
 Zavøi oèi.
 
 313
-00:15:16,050 --> 00:15:16,990
+00:15:16,050 --> 00:15:16,982
 Fajn.
 
 314
-00:15:17,410 --> 00:15:18,170
+00:15:17,410 --> 00:15:17,984
 Tak jo.
 
 315
-00:15:18,480 --> 00:15:20,990
+00:15:18,480 --> 00:15:20,000
 Jenom zavøi oèi.
 
 316
@@ -1315,15 +1315,15 @@ Vysílá to vysokofrekvenèní zvuk, kterı kadého srazí na kolena.
 To by se mi na hodilo na støední.
 
 330
-00:16:01,220 --> 00:16:01,930
+00:16:01,220 --> 00:16:01,804
 Vskutku.
 
 331
-00:16:01,940 --> 00:16:04,320
+00:16:01,940 --> 00:16:03,000
 Dobrá, take prostì...
 
 332
-00:16:04,330 --> 00:16:06,400
+00:16:04,330 --> 00:16:06,134
 Artie, tohle má na sobì ten egyptskı symbol.
 
 333
@@ -1331,35 +1331,35 @@ Artie, tohle má na sobì ten egyptskı symbol.
 FIX_ME - The was scepter. - Ano. -zas ta egyptska vec
 
 334
-00:16:15,750 --> 00:16:18,540
+00:16:15,750 --> 00:16:17,931
 Moná Carolin...
 
 335
-00:16:19,290 --> 00:16:21,120
+00:16:19,290 --> 00:16:20,081
 asi...
 
 336
-00:16:22,860 --> 00:16:24,500
+00:16:22,860 --> 00:16:23,501
 takto.
 
 337
-00:16:26,080 --> 00:16:27,850
+00:16:26,080 --> 00:16:27,349
 A teï se...
 
 338
-00:16:28,540 --> 00:16:30,010
+00:16:28,540 --> 00:16:29,636
 otevøe.
 
 339
-00:16:30,020 --> 00:16:31,500
-Vdycky zajímavı.
+00:16:30,020 --> 00:16:31,143
+Vdycky zajímavé.
 
 340
-00:16:31,520 --> 00:16:33,520
+00:16:31,520 --> 00:16:32,380
 Podr to.
 
 341
-00:16:38,270 --> 00:16:40,310
+00:16:38,270 --> 00:16:39,938
 - Fénix. - Co?
 
 342
@@ -1371,15 +1371,15 @@ Podr to.
 Uka, uka.
 
 344
-00:16:45,200 --> 00:16:47,240
+00:16:45,200 --> 00:16:46,851
 V brılích vypadám skvìle.
 
 345
-00:16:50,940 --> 00:16:54,180
+00:16:50,940 --> 00:16:53,806
 No páni... to je úasnı!
 
 346
-00:16:55,140 --> 00:16:56,880
+00:16:55,140 --> 00:16:56,560
 Co? Co je to?
 
 347
@@ -1387,11 +1387,11 @@ Co? Co je to?
 "Vyvolávací cena 20 milionù?"
 
 348
-00:16:58,780 --> 00:17:01,000
+00:16:58,780 --> 00:17:00,958
 - To je tam napsané? - Jo, je to jako katalog.
 
 349
-00:17:01,010 --> 00:17:02,020
+00:17:00,967 --> 00:17:02,020
 Ale Fénix je ve Skladišti.
 
 350
@@ -1451,7 +1451,7 @@ Ne, on to nedìlá pro peníze.
 On to dìlá z jiného dùvodu. Jenom nevím z jakého.
 
 364
-00:17:21,890 --> 00:17:23,260
+00:17:21,890 --> 00:17:23,203
 Tady, zkontrolujte to.
 
 365
@@ -1467,7 +1467,7 @@ Chce, abychom to našli.
 Pøesnì, proto jsem velmi velmi nervózní ohlednì sledování téhle stopy.
 
 368
-00:17:29,780 --> 00:17:31,530
+00:17:29,780 --> 00:17:31,465
 A kvùli toho jsem velice nervózní...
 
 369
@@ -1495,11 +1495,11 @@ Ale on by vìdìl, e vím, e to je past.
 Take co plánuje, kdy ví, co vím, e ví?
 
 375
-00:17:47,230 --> 00:17:55,300
+00:17:47,230 --> 00:17:55,163
 Lidi, tohle... tohle má datum, èas a adresu aukce a...
 
 376
-00:17:56,290 --> 00:17:57,188
+00:17:56,290 --> 00:17:57,174
 je to dneska.
 
 377
@@ -1596,7 +1596,7 @@ byl opravdu pøekvapenı.
 
 400
 00:19:28,390 --> 00:19:30,930
-FIX_ME Then he told me aboutthe goblet of severan. -zas ta sklinka  na googlu sem nic podrobného nenašel --   seveøánskı/á pohár, èíše 
+FIX_ME Then he told me aboutthe goblet of severan. -zas ta sklinka  na googlu sem nic podrobného nenašel --   seveøánskı/á pohár, èíše
 
 401
 00:19:31,250 --> 00:19:32,500
@@ -3095,3 +3095,4 @@ Proudly Presents</font>
 00:43:10,060 --> 00:43:13,410
 <font color=#38B0DE>-=www.ydy.com/bbs=-
 Synsc:   YTET- ¶¬AßµÄÖí °îµÂÖí  </font>
+
