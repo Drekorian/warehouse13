@@ -95,7 +95,7 @@ Mùžeš jí zachránit život!
 A co následky?
 
 25
-00:01:06,771 --> 00:01:09,080
+00:01:06,771 --> 00:01:09,008
 Pokud bude žít, ostatní zemøou!
 
 26
@@ -1439,7 +1439,7 @@ On ho nemá.
 No... a i kdyby ho mì, tak ano,
 
 361
-00:17:17,290 --> 00:17:19,390
+00:17:17,290 --> 00:17:19,334
 on to nedìlá pro peníze.
 
 362
@@ -1451,15 +1451,15 @@ Ne, on to nedìlá pro peníze.
 On to dìlá z jiného dùvodu. Jenom nevím z jakého.
 
 364
-00:17:21,890 --> 00:17:23,203
+00:17:21,890 --> 00:17:22,982
 Tady, zkontrolujte to.
 
 365
-00:17:23,270 --> 00:17:24,850
+00:17:23,270 --> 00:17:24,609
 To je pøíliš snadné.
 
 366
-00:17:24,860 --> 00:17:26,920
+00:17:24,860 --> 00:17:26,830
 Chce, abychom to našli.
 
 367
@@ -1467,7 +1467,7 @@ Chce, abychom to našli.
 Pøesnì, proto jsem velmi velmi nervózní ohlednì sledování téhle stopy.
 
 368
-00:17:29,780 --> 00:17:31,465
+00:17:29,780 --> 00:17:31,308
 A kvùli toho jsem velice nervózní...
 
 369
@@ -1476,10 +1476,10 @@ A kvùli toho jsem velice nervózní...
 
 370
 00:17:33,280 --> 00:17:35,600
-- Tím se vùbec netrap. - Ne, ne, ne.
+- Ne, tím se vùbec netrap. - Ne, ne, ne.
 
 371
-00:17:36,310 --> 00:17:38,210
+00:17:36,310 --> 00:17:37,542
 Dobøe tedy, fajn.
 
 372
@@ -1503,19 +1503,19 @@ Lidi, tohle... tohle má datum, èas a adresu aukce a...
 je to dneska.
 
 377
-00:17:58,150 --> 00:17:59,640
+00:17:58,150 --> 00:17:59,354
 Ta aukce je dneska.
 
 378
-00:17:59,650 --> 00:18:00,890
+00:17:59,650 --> 00:18:00,129
 Je si jistá?
 
 379
-00:18:00,900 --> 00:18:03,570
+00:18:00,900 --> 00:18:03,362
 Tvrdí, že MacPherson vystupoval jako Joshuùv profesor.
 
 380
-00:18:03,580 --> 00:18:05,600
+00:18:03,580 --> 00:18:05,133
 Tak udìlal poèáteèní kontakt.
 
 381
@@ -1523,7 +1523,7 @@ Tak udìlal poèáteèní kontakt.
 Je velice rozrušená.
 
 382
-00:18:06,520 --> 00:18:07,450
+00:18:06,520 --> 00:18:07,361
 Kde je teï?
 
 383
@@ -1531,31 +1531,31 @@ Kde je teï?
 V penzionu.
 
 384
-00:18:08,220 --> 00:18:10,580
+00:18:08,220 --> 00:18:09,950
 Váš bodyguard na ni dává pozor.
 
 385
-00:18:12,910 --> 00:18:15,230
-Kde je to?
+00:18:12,910 --> 00:18:13,709
+Co je?
 
 386
 00:18:15,240 --> 00:18:18,520
-FIX_ME I've just always felt thatshe was out of tune. -nejak ze se ji na ni nikdy nic nezdalo nebo tak nebo Vždycky cítím, když se mi nìco nezdá.
+FIX_ME I've just always felt thatshe was out of tune. -nejak ze se ji na ni nikdy nic nezdalo nebo 
 
 387
 00:18:18,600 --> 00:18:20,080
 FIX_ME Something hovering. -to same  Nìco je ve vzduchu.
 
 388
-00:18:20,090 --> 00:18:22,277
+00:18:20,090 --> 00:18:21,915
 Akorát jsem nikdy nemohla øíct, co pøesnì.
 
 389
-00:18:25,040 --> 00:18:26,145
+00:18:25,040 --> 00:18:26,047
 To je problém.
 
 390
-00:18:26,950 --> 00:18:29,822
+00:18:26,950 --> 00:18:29,699
 Myslíte, že by ji poøád mohl nìjak využívat?
 
 391
@@ -1563,27 +1563,27 @@ Myslíte, že by ji poøád mohl nìjak využívat?
 Ano.
 
 392
-00:18:35,970 --> 00:18:38,090
+00:18:35,970 --> 00:18:37,697
 MacPherson tvrdí, že má Fénixe.
 
 393
-00:18:38,098 --> 00:18:39,787
+00:18:38,098 --> 00:18:39,656
 Fénix je ve Skladišti.
 
 394
-00:18:41,120 --> 00:18:42,250
+00:18:41,120 --> 00:18:41,830
 Já vím.
 
 395
-00:18:43,850 --> 00:18:45,270
+00:18:43,850 --> 00:18:44,780
 Vrátím se k tobì.
 
 396
 00:19:11,609 --> 00:19:13,489
-FIX_ME musiíš se dívat na film
+FIX_ME  musíš se dívat na film(je tamnìco napsané)
 
 397
-00:19:15,310 --> 00:19:16,853
+00:19:15,310 --> 00:19:16,753
 Zaèínám se zlobit.
 
 398
@@ -1595,31 +1595,31 @@ Když jsem mu øekl, že Fénix je pryè,
 byl opravdu pøekvapený.
 
 400
-00:19:28,390 --> 00:19:30,930
+00:19:28,390 --> 00:19:30,320
 FIX_ME Then he told me aboutthe goblet of severan. -zas ta sklinka  na googlu sem nic podrobného nenašel --   seveøánský/á pohár, èíše
 
 401
-00:19:31,250 --> 00:19:32,500
+00:19:31,250 --> 00:19:32,210
 No, tady je.
 
 402
-00:19:32,510 --> 00:19:34,210
+00:19:32,510 --> 00:19:33,481
 Živý a zdravý.
 
 403
-00:19:34,220 --> 00:19:35,950
+00:19:34,220 --> 00:19:35,289
 Otevøi ho, prosím.
 
 404
-00:19:36,260 --> 00:19:37,259
+00:19:36,260 --> 00:19:36,840
 Dobøe.
 
 405
-00:19:41,680 --> 00:19:42,967
+00:19:41,680 --> 00:19:42,491
 To není možné.
 
 406
-00:19:43,160 --> 00:19:45,875
+00:19:43,160 --> 00:19:45,834
 - Nemohl mít pøístup k vìcem Skladištì, jedinì... - Ano.
 
 407
@@ -1627,7 +1627,7 @@ To není možné.
 Nové video zaznamenává pøístup, že?
 
 408
-00:19:49,550 --> 00:19:50,489
+00:19:49,550 --> 00:19:50,189
 Vydržte.
 
 409
@@ -1635,23 +1635,23 @@ Vydržte.
 Tady je mùj pøístup pøed pár okamžiky.
 
 410
-00:19:54,690 --> 00:19:57,949
+00:19:54,690 --> 00:19:57,414
 Jenom se podívám na posledního èlovìka...
 
 411
-00:20:15,010 --> 00:20:18,210
-FIX_ME MacPherson certainly knowshow to pick his spots. -nejaka fraze, neznam   MacPherson rozhodnì ví, jak si vybrat své spoty/body
+00:20:15,010 --> 00:20:17,678
+FIX_ME MacPherson certainly knowshow to pick his spots. -nejaka fraze, neznam   MacPherson rozhodnì ví, jak si ískat své spoty/body
 
 412
-00:20:19,680 --> 00:20:22,070
-- To je Fredericová. - Jdìte napøed, doženu vás.
+00:20:19,680 --> 00:20:21,396
+To je Fredericová. Jdìte napøed, doženu vás.
 
 413
-00:20:23,150 --> 00:20:25,710
+00:20:23,150 --> 00:20:25,610
 Cítím se jak Custer pøed Little Big Hornem.
 
 414
-00:20:25,720 --> 00:20:28,110
+00:20:25,619 --> 00:20:28,110
 Kdyby nás chtìl zabít, tak už mìl nìkolik pøíležitostí.
 
 415
@@ -1671,31 +1671,31 @@ Tady to je.
 I èas sedí.
 
 419
-00:20:33,130 --> 00:20:34,650
+00:20:33,130 --> 00:20:34,531
 Ale nic tu není.
 
 420
-00:20:34,660 --> 00:20:38,140
+00:20:34,660 --> 00:20:37,210
 FIX_ME Hey,guys,the phoenixand the goblet of severan... -zase sklinka
 
 421
-00:20:38,150 --> 00:20:41,140
+00:20:38,150 --> 00:20:40,578
 Paní Fredericová øíká, že byl ukraden ze Skladištì.
 
 422
-00:20:41,390 --> 00:20:44,430
+00:20:41,390 --> 00:20:43,717
 A zdála se otøesená.
 
 423
 00:20:44,440 --> 00:20:46,040
-- Paní Fredericová? - Jo.
+Paní Fredericová?
 
 424
-00:20:46,050 --> 00:20:47,640
+00:20:46,050 --> 00:20:46,593
 - Se zdála otøesená? - Jo.
 
 425
-00:20:47,660 --> 00:20:49,350
+00:20:47,600 --> 00:20:49,350
 To není moc utìšující.
 
 426
@@ -1707,7 +1707,7 @@ Oh, bezva, bezva.
 Tak, co budeme dìlat teï?
 
 428
-00:20:51,550 --> 00:20:54,180
+00:20:51,550 --> 00:20:53,926
 FIX_ME Just wait for macphersonto drop a net on us?
 
 429
@@ -1719,36 +1719,36 @@ Jestli je pøed námi a my ho nevidíme,
 pak budeme muset sledovat
 
 431
-00:20:58,080 --> 00:21:00,920
+00:20:58,080 --> 00:21:00,276
 FIX_ME the trail he leaves until we can see him. jeho stopy, po kterých odešel
 
 432
-00:21:01,450 --> 00:21:04,670
+00:21:01,450 --> 00:21:03,827
 A hlídáme si záda.
 
 433
-00:21:18,380 --> 00:21:19,710
+00:21:18,380 --> 00:21:19,178
 Co?
 
 434
-00:21:20,170 --> 00:21:22,990
+00:21:20,170 --> 00:21:22,011
 - Dobré odpoledne.
 - Nic. Nic.
 
 435
-00:21:32,970 --> 00:21:34,330
-Vidíš to?
+00:21:32,970 --> 00:21:33,868
+Vidíte to?
 
 436
-00:21:34,380 --> 00:21:37,680
-FIX_ME Did--did the boycause this?
+00:21:34,380 --> 00:21:37,279
+FIX_ME Did--did the boy cause this?
 
 437
-00:21:38,040 --> 00:21:40,060
+00:21:38,040 --> 00:21:39,897
 Artie, Artie, poøád máš ty brýle?
 
 438
-00:21:41,060 --> 00:21:42,330
+00:21:41,060 --> 00:21:42,097
 Dobrý nápad.
 
 439
@@ -1756,7 +1756,7 @@ Dobrý nápad.
 Víš...
 
 440
-00:21:43,500 --> 00:21:53,270
+00:21:43,500 --> 00:21:53,381
 FIX_ME I thought I knew what these were--this is-but they're not the originals. Myslel jsem, že vím, co to bylo-co to je-ale nejsou to originály.
 
 441
@@ -1782,7 +1782,7 @@ Víte, když jste si nasadili ty pùvodní,
 tak už jste je nikdy nedokázali sundat.
 
 446
-00:22:10,260 --> 00:22:11,480
+00:22:10,260 --> 00:22:11,291
 No nekecej.
 
 447
@@ -1795,19 +1795,19 @@ No nekecej.
 Ta døevìná krabièka. Mùžu se na ní podívat?
 
 449
-00:22:20,050 --> 00:22:21,360
+00:22:20,050 --> 00:22:20,960
 Díky.
 
 450
-00:22:27,600 --> 00:22:28,710
+00:22:27,600 --> 00:22:28,310
 Hezký!
 
 451
-00:22:28,740 --> 00:22:31,330
+00:22:28,740 --> 00:22:30,900
 James mìl vždycky vkus pro dramatièno.
 
 452
-00:22:31,430 --> 00:22:33,300
+00:22:31,430 --> 00:22:32,871
 - Dámy napøed. - Co?
 
 453
@@ -1823,19 +1823,19 @@ Co? On je starší než já!
 On je starší než my dva dohromady.
 
 456
-00:22:40,030 --> 00:22:41,800
+00:22:40,030 --> 00:22:41,019
 Tak jo, držte zobák.
 
 457
-00:22:41,840 --> 00:22:43,040
+00:22:41,840 --> 00:22:42,549
 Podrž to.
 
 458
-00:22:43,130 --> 00:22:45,710
+00:22:43,130 --> 00:22:45,367
 Dìti. Pracuju s dìtmi.
 
 459
-00:22:47,430 --> 00:22:50,130
+00:22:47,430 --> 00:22:49,898
 Dobrá... podej mi to.
 
 460
@@ -1848,11 +1848,11 @@ Dobrá... podej mi to.
 Dobrá a nenaklánìj to. Mám v tom obìd.
 
 462
-00:22:53,850 --> 00:22:56,230
-Dobøe.
+00:22:53,850 --> 00:22:55,365
+Dobøe. Mám to.
 
 463
-00:23:06,360 --> 00:23:09,480
+00:23:06,360 --> 00:23:09,468
 Tohle jsou bedny Skladištì 13.
 
 464
@@ -1864,23 +1864,23 @@ Dobrá, tohle... tohle je velice zlý.
 - Co je? Pøedtucha? - Jo.
 
 466
-00:23:13,590 --> 00:23:14,940
+00:23:13,590 --> 00:23:14,575
 Ohlednì...?
 
 467
-00:23:14,980 --> 00:23:16,020
+00:23:14,980 --> 00:23:15,579
 Ano.
 
 468
-00:23:16,080 --> 00:23:18,500
+00:23:16,080 --> 00:23:18,323
 No, a kdys ji vlastnì dostal?
 
 469
-00:23:18,540 --> 00:23:22,340
+00:23:18,540 --> 00:23:22,203
 Hned jak jsme sem pøišli. Prostì mì to trklo.
 
 470
-00:23:22,520 --> 00:23:24,240
+00:23:22,520 --> 00:23:23,908
 Seš si jistý?
 
 471
@@ -1892,19 +1892,19 @@ Jo, proto ti to øíkám.
 Jo, ale nemùžeš mu to øíct, pokud si nejsi naprosto jistý.
 
 473
-00:23:27,270 --> 00:23:29,470
+00:23:27,270 --> 00:23:28,618
 Dobrý, dost, dost.
 
 474
-00:23:29,550 --> 00:23:31,140
+00:23:29,550 --> 00:23:31,063
 O èem to mluvíte? Jaká pøedtucha?
 
 475
-00:23:31,230 --> 00:23:32,710
+00:23:31,230 --> 00:23:31,929
 Ohlednì mì?
 
 476
-00:23:36,870 --> 00:23:38,730
+00:23:36,870 --> 00:23:38,446
 - Jo.
 - A co se mnou?
 
@@ -1921,7 +1921,7 @@ Artie, páni, tohle nesnáším.
 - Prostì mi øekni, co pøesnì cítíš. - Nic to není.
 
 480
-00:23:46,160 --> 00:23:48,800
+00:23:46,160 --> 00:23:48,533
 Teda, já ještì nevím.
 
 481
@@ -1933,7 +1933,7 @@ Hele, Artie, všechno, co vím je, že mám vážnì špatný pocit vespod žaludku.
 No, až to bude jasnìjší pocit, tak mi prostì dej vìdìt, dobrá?
 
 483
-00:23:56,270 --> 00:23:57,370
+00:23:56,270 --> 00:23:57,237
 První pùjdu za tebou.
 
 484
@@ -1971,15 +1971,15 @@ Má pravdu. Má pravdu.
 Artie!
 
 492
-00:24:21,390 --> 00:24:23,180
+00:24:21,390 --> 00:24:22,845
 Mìj pøipravenou Teslu.
 
 493
-00:24:24,570 --> 00:24:25,950
+00:24:24,570 --> 00:24:25,596
 Jsem v pohodì.
 
 494
-00:24:26,120 --> 00:24:27,820
+00:24:26,120 --> 00:24:26,993
 Bìžte.
 
 495
@@ -1987,11 +1987,11 @@ Bìžte.
 Nechci vám o tom øíci nic bližšího, protože radìji bych s nikým nesoupeøil.
 
 496
-00:24:41,270 --> 00:24:42,970
+00:24:41,270 --> 00:24:42,584
 Je to všechno pravda.
 
 497
-00:24:43,110 --> 00:24:46,970
+00:24:43,110 --> 00:24:46,891
 Vidìl jsem to na vlastní oèi.
 
 498
@@ -2015,12 +2015,12 @@ Pane Paku, jak se daøí vašim uším?
 Trochu lépe?
 
 503
-00:25:02,620 --> 00:25:04,320
+00:25:02,620 --> 00:25:04,078
 A co to tušení teï?
 
 504
 00:25:05,000 --> 00:25:08,490
-- Není dobrý.
+- Není dobré, není dobré.
 - Rád vás vidím.
 
 505
@@ -2063,19 +2063,19 @@ No, to je zvláštní zpùsob jak toho využít.
 Co když Artie vymìnil 30 let ve Skladišti za 20 milionù?
 
 514
-00:25:41,830 --> 00:25:43,170
+00:25:41,830 --> 00:25:42,670
 Nebo...
 
 515
-00:25:43,200 --> 00:25:44,660
+00:25:43,200 --> 00:25:44,157
 Bacha!
 
 516
-00:25:44,750 --> 00:25:47,630
+00:25:44,750 --> 00:25:47,335
 Artie je MacPherson.
 
 517
-00:25:47,840 --> 00:25:49,040
+00:25:47,840 --> 00:25:48,813
 No ne.
 
 518
@@ -2095,19 +2095,19 @@ Jo, jo, zù... zùstaò tam, dokud to nevyøešíme.
 Nechte toho, vy dva. To nejsem já. Já jsem já.
 
 522
-00:26:00,640 --> 00:26:03,030
-Udìlám výjimku.
+00:26:02,220 --> 00:26:03,030
+<i>Udìlám výjimku.</i>
 
 523
 00:26:03,100 --> 00:26:04,860
 A jak to máme asi tak vìdìt?
 
 524
-00:26:06,430 --> 00:26:07,850
+00:26:06,430 --> 00:26:07,482
 Podívejte.
 
 525
-00:26:08,310 --> 00:26:09,730
+00:26:08,310 --> 00:26:09,339
 Bezpeènostní kamery.
 
 526
@@ -2115,11 +2115,11 @@ Bezpeènostní kamery.
 No a?
 
 527
-00:26:10,690 --> 00:26:14,180
+00:26:10,690 --> 00:26:14,089
 Nastražil to na mì. Chtìl to udìlat už pøed nìkolika týdny s Honjo Masamune.
 
 528
-00:26:14,230 --> 00:26:15,300
+00:26:14,230 --> 00:26:15,132
 Nepamatujete se?
 
 529
@@ -2127,19 +2127,19 @@ Nepamatujete se?
 Šel po tom meèi a navíc vyhrabal moji minulost.
 
 530
-00:26:18,000 --> 00:26:20,260
+00:26:18,000 --> 00:26:19,359
 Zavøeli mì za velezradu!
 
 531
-00:26:20,350 --> 00:26:23,380
+00:26:20,350 --> 00:26:23,296
 Tentokrát chce mít jistotu, že to vydrží.
 
 532
-00:26:23,490 --> 00:26:27,040
+00:26:23,490 --> 00:26:26,681
 Tak proto znìla paní Fredericová tak zvláštnì.
 
 533
-00:26:27,130 --> 00:26:30,030
+00:26:27,130 --> 00:26:29,825
 No, takže co? Prostì šel ven a koupil si Artie obleèek?
 
 534
@@ -2147,19 +2147,19 @@ No, takže co? Prostì šel ven a koupil si Artie obleèek?
 Jak máme vìdìt, že nejsi on, který pøedstírá že jsi ty?
 
 535
-00:26:34,040 --> 00:26:35,590
+00:26:34,040 --> 00:26:34,729
 Náprstek.
 
 536
-00:26:35,640 --> 00:26:37,950
+00:26:35,640 --> 00:26:37,731
 Tys fakt pøeèetla celý manuál, že?
 
 537
-00:26:38,070 --> 00:26:39,240
+00:26:38,070 --> 00:26:39,069
 Pøeèetla.
 
 538
-00:26:39,310 --> 00:26:40,770
+00:26:39,310 --> 00:26:40,388
 Jaký... Jaký náprstek?
 
 539
@@ -2183,7 +2183,7 @@ A vyvinul vlastnosti svìtelné refrakce, takže lidé vidìli nìkoho jiného, než toh
 Velice se hodil Podzemní železnici bìhìm obèanské války.
 
 544
-00:26:59,640 --> 00:27:01,570
+00:26:59,632 --> 00:27:01,570
 Dobrá tedy, no, tak prostì pùjdeme a sejmeme ho.
 
 545
@@ -2191,11 +2191,11 @@ Dobrá tedy, no, tak prostì pùjdeme a sejmeme ho.
 Ne, ne, ne, ne, ne, ne.
 
 546
-00:27:03,920 --> 00:27:06,150
+00:27:03,920 --> 00:27:05,788
 Ne, to on èeká.
 
 547
-00:27:06,320 --> 00:27:09,150
+00:27:06,320 --> 00:27:09,008
 No a co neèeká?
 
 548
@@ -2211,7 +2211,7 @@ Ne. Není možná.
 Claudie. Claudie!
 
 551
-00:27:19,230 --> 00:27:20,620
+00:27:19,230 --> 00:27:20,288
 Leeno...
 
 552
@@ -2223,7 +2223,7 @@ Paní Fredericová, tohle je mùj domov.
 Nikdy bych neudìlala nic, abych ublížila komukoli z vás, natožpak Artiemu.
 
 554
-00:27:27,160 --> 00:27:29,630
+00:27:27,160 --> 00:27:29,482
 Víme, že ne. Ne úmyslnì.
 
 555
@@ -2235,7 +2235,7 @@ Co to má znamenat? To jako myslíte, že mi dal òákýho brouka do mozku nebo co?
 Existuje nìkolik metod, jak vytvoøit spící agenty.
 
 557
-00:27:36,630 --> 00:27:42,160
+00:27:36,630 --> 00:27:42,060
 Oèividnì MacPhersonhas nashormáždil úctyhodnou sbírku skladištních artefaktù.
 
 558
@@ -2275,7 +2275,7 @@ A poznala jsem.
 Claudie, je mi líto, ale nìco je s tebou v nepoøádku.
 
 567
-00:28:01,970 --> 00:28:03,050
+00:28:01,970 --> 00:28:02,850
 Panebože!
 
 568
@@ -2283,15 +2283,15 @@ Panebože!
 Jsem jak tom Mandžuským kandidátovi nebo tak nìco.
 
 569
-00:28:05,600 --> 00:28:06,830
+00:28:05,600 --> 00:28:06,506
 No do prdele!
 
 570
-00:28:06,880 --> 00:28:08,680
+00:28:06,880 --> 00:28:07,529
 Nech ji jít.
 
 571
-00:28:08,830 --> 00:28:11,270
+00:28:08,830 --> 00:28:11,061
 Prozatím bude nejlepší, když nebude ve Skladišti.
 
 572
@@ -2316,19 +2316,19 @@ Dostal se ti do hlavy, porazil tì ve tvé vlastní høe..
 A zrovna, když sis myslel, že máš vyhráno, tak udeøil.
 
 577
-00:28:32,750 --> 00:28:34,340
-48 milionù poprvé...
+00:28:32,750 --> 00:28:34,230
+<i>48 milionù poprvé...</i>
 
 578
-00:28:35,450 --> 00:28:37,200
-podruhé...
+00:28:35,450 --> 00:28:36,570
+<i>podruhé...</i>
 
 579
-00:28:37,330 --> 00:28:39,450
-prodáno panu Pakovi.
+00:28:37,330 --> 00:28:39,287
+<i>prodáno panu Pakovi.</i>
 
 580
-00:28:43,000 --> 00:28:47,570
+00:28:43,000 --> 00:28:47,398
 A až dostanu potvrzení, že peníze jsou na našem úètu, tak bude Fénix váš.
 
 581
@@ -2348,7 +2348,7 @@ Pánové, další pøedmìt nám zpùsobil velké problémy pøi získávání.
 Pero a zápisník Edgara Allana Poea.
 
 585
-00:29:09,780 --> 00:29:15,980
+00:29:09,780 --> 00:29:15,839
 Spolu dávají jejich majiteli unikátní schopnost uskuteènit to, co napíší.
 
 586
@@ -2411,7 +2411,7 @@ Je to skvìlý bodyguard. Nerad bych o nìj pøišel.
 Co... kdo sakra...
 
 600
-00:29:55,920 --> 00:29:58,250
+00:29:55,920 --> 00:29:58,180
 Jamesi MacPhersone, jste zatèen.
 
 601
@@ -2419,15 +2419,15 @@ Jamesi MacPhersone, jste zatèen.
 No nejste vy rozkošní?
 
 602
-00:30:01,690 --> 00:30:04,840
+00:30:01,690 --> 00:30:04,758
 Snad jste si nemysleli, že to bude tak jednoduché?
 
 603
-00:30:15,820 --> 00:30:18,210
+00:30:15,820 --> 00:30:17,926
 Pamatujete si našeho starého pøítele Erika?
 
 604
-00:30:18,330 --> 00:30:23,070
+00:30:18,330 --> 00:30:22,388
 Vyrobil ty úžasné implozní granáty, které
 jsem vám pøedvedl pøed nìkolika týdny.
 
@@ -2436,7 +2436,7 @@ jsem vám pøedvedl pøed nìkolika týdny.
 Pøed svou pøedèasnou smrtí jsem ho nechal vyrobit další z našich oblíbených hraèek -- skoøápkovou bombu.
 
 606
-00:30:28,670 --> 00:30:30,890
+00:30:28,670 --> 00:30:30,714
 Tentokrát se špetkou Prométhia.
 
 607
@@ -2448,7 +2448,7 @@ Pokud sebemenší prasklina poruší skoøápku, vyvolá malou nukleární reakci.
 Malou, ale pùsobivou.
 
 609
-00:30:39,720 --> 00:30:41,320
+00:30:39,720 --> 00:30:40,620
 Carsone.
 
 610
@@ -2456,20 +2456,20 @@ Carsone.
 Takže, vy dva teï zahodíte ty své hraèièky nebo Arthur pøijde o patu.
 
 611
-00:30:53,440 --> 00:30:54,860
+00:30:53,440 --> 00:30:54,380
 Dìkuji.
 
 612
-00:30:55,610 --> 00:30:58,010
+00:30:55,610 --> 00:30:57,442
 Zaèíná tì bolet èelist, Arthure?
 
 613
-00:30:58,060 --> 00:30:59,340
+00:30:58,060 --> 00:30:59,300
 Nebude to trvat dlouho.
 
 614
-00:30:59,440 --> 00:31:01,310
-Byl jste agent Skladištì
+00:30:59,309 --> 00:31:01,310
+Byl jste agent Skladištì.
 
 615
 00:31:01,850 --> 00:31:02,930
@@ -2480,7 +2480,7 @@ Co se to s váma sakra stalo?
 15 let vyhnanství.
 
 617
-00:31:05,650 --> 00:31:08,740
+00:31:05,650 --> 00:31:08,418
 A teï chci Arthurovi vrátit dárek, který mi dal.
 
 618
@@ -2489,10 +2489,10 @@ Ale naneštìstí, budeš souzen za své zloèiny...
 
 619
 00:31:11,940 --> 00:31:14,020
-posmrtnì. Myslíte?
+FIX_ME posmrtnì. Myslíte?    to "myslíte?" tam neslyším
 
 620
-00:31:18,770 --> 00:31:20,850
+00:31:18,770 --> 00:31:20,675
 V duchu, vìøíš v to samé jako já.
 
 621
@@ -2500,20 +2500,20 @@ V duchu, vìøíš v to samé jako já.
 To je ta pøedtucha, kterou cítíš.
 
 622
-00:31:24,940 --> 00:31:26,400
+00:31:24,940 --> 00:31:26,382
 Jak víte, co cítím?
 
 623
-00:31:26,450 --> 00:31:29,030
+00:31:26,450 --> 00:31:28,886
 Protože tì znám, Petere
 Lattimere, líp než ty sám.
 
 624
-00:31:29,110 --> 00:31:30,310
+00:31:29,110 --> 00:31:29,995
 Byl jsem ty.
 
 625
-00:31:30,350 --> 00:31:33,440
+00:31:30,350 --> 00:31:33,057
 Mám ti øíct, jaká myšlenka ti obèas projde hlavou?
 
 626
@@ -2521,7 +2521,7 @@ Mám ti øíct, jaká myšlenka ti obèas projde hlavou?
 Co když ty artefakty vážnì patøí ven do svìta,
 
 627
-00:31:36,260 --> 00:31:45,520
+00:31:36,260 --> 00:31:44,577
 místo toho aby byly zamèené bandou samozvaných regentù, kteøí vidí vesmír skrze klapky své vlastní byrokracie?
 
 628
@@ -2529,51 +2529,51 @@ místo toho aby byly zamèené bandou samozvaných regentù, kteøí vidí vesmír skrze 
 Odejdi odsud se mnou...
 
 629
-00:31:49,400 --> 00:31:53,570
+00:31:49,400 --> 00:31:53,154
 a následuj to, o èem v duchu víš, že je pravda.
 
 630
-00:31:59,830 --> 00:32:01,440
-To byl hezký proslov.
+00:31:59,830 --> 00:32:00,968
+FiX_ME To byl hezký proslov.   dal bys spíše -"To byla pìkná øeè" nebo tak nìco
 
 631
-00:32:01,550 --> 00:32:03,940
+00:32:01,550 --> 00:32:03,668
 A s tím bezva pøízvukem to zní ještì líp.
 
 632
 00:32:05,210 --> 00:32:09,380
-- Ale poøád to nezastírá fakt, že ti straší ve veži, MacMagore!
+Ale poøád to nezastírá fakt, že vám straší ve veži, MacMagore!
 
 633
 00:32:09,450 --> 00:32:12,830
-Dals èlovìku bombu do pusy.
+Dalste èlovìku bombu do pusy.
 
 634
 00:32:12,910 --> 00:32:15,190
 To není zrovna dobrá náborová reklama.
 
 635
-00:32:15,380 --> 00:32:17,500
+00:32:15,380 --> 00:32:16,321
 Tedy dobrá.
 
 636
-00:32:17,570 --> 00:32:19,730
+00:32:17,570 --> 00:32:19,710
 No, nezbývá tedy než se rozlouèit.
 
 637
-00:32:19,780 --> 00:32:22,370
-To èekáš, že tì odsud necháme jen tak odejít?
+00:32:19,718 --> 00:32:22,370
+To èekáte, že vás odsud necháme jen tak odejít?
 
 638
 00:32:22,420 --> 00:32:26,110
-Ne, ne èekám, že zemøete, zatímc se budete snažit zachránit Arthura.
+Ne, ne èekám, že zemøete, zatímco se budete snažit zachránit Arthura.
 
 639
-00:32:27,360 --> 00:32:29,100
+00:32:27,360 --> 00:32:28,900
 A øekl bych, že má asi takových...
 
 640
-00:32:29,460 --> 00:32:31,500
+00:32:29,460 --> 00:32:30,700
 30 vteøin.
 
 641
@@ -2581,19 +2581,19 @@ A øekl bych, že má asi takových...
 Hey, Macu.
 
 642
-00:32:53,880 --> 00:32:55,310
+00:32:53,880 --> 00:32:54,556
 Dobrej postøeh.
 
 643
-00:33:01,680 --> 00:33:04,140
+00:33:01,680 --> 00:33:03,940
 Takže ho nikdy nepøedáme vládì?
 
 644
-00:33:04,240 --> 00:33:05,280
+00:33:04,040 --> 00:33:05,280
 Vládì?
 
 645
-00:33:05,380 --> 00:33:06,700
+00:33:05,380 --> 00:33:06,400
 Ani náhodou.
 
 646
@@ -2609,19 +2609,19 @@ Tak co se s ním stane?
 Chci øíct, pøece ho, no víš...
 
 649
-00:33:12,740 --> 00:33:16,650
-Ne, ne, ne, ne. Aèkoli on by nás klidnì zabil bez mrknutí oka,.
+00:33:12,740 --> 00:33:16,338
+Ne, ne, ne, ne. Aèkoli on by nás klidnì zabil bez mrknutí oka.
 
 650
-00:33:18,460 --> 00:33:20,920
+00:33:18,460 --> 00:33:20,370
 Ne, tohle my nedìláme.
 
 651
-00:33:21,070 --> 00:33:23,490
+00:33:21,070 --> 00:33:22,681
 Dáme ho do bronzového sektoru.
 
 652
-00:33:24,300 --> 00:33:26,390
+00:33:24,300 --> 00:33:25,675
 Arthure, jsem poctìn.
 
 653
@@ -2649,35 +2649,35 @@ Uchováni.
 Ano, uchováni.
 
 659
-00:33:43,100 --> 00:33:46,270
+00:33:43,100 --> 00:33:46,199
 Lidé, jejichž odstranìní ze spoleènosti bylo nutné.
 
 660
-00:33:47,450 --> 00:33:49,160
+00:33:47,450 --> 00:33:48,819
 Ty dáváme do bronzového sektoru.
 
 661
-00:33:49,220 --> 00:33:51,760
+00:33:49,220 --> 00:33:51,581
 Zamèen na vìènost ve Skladišti 13?
 
 662
-00:33:51,880 --> 00:33:53,460
+00:33:51,880 --> 00:33:53,170
 Jak poetické.
 
 663
-00:33:53,480 --> 00:33:56,340
+00:33:53,480 --> 00:33:55,894
 I zvrácená mysl mùže být artefakt.
 
 664
-00:34:05,270 --> 00:34:06,450
+00:34:05,270 --> 00:34:05,982
 Jdeme.
 
 665
-00:34:10,210 --> 00:34:11,690
+00:34:10,210 --> 00:34:11,474
 Nezapomínáš na nìco?
 
 666
-00:34:11,820 --> 00:34:13,210
+00:34:11,820 --> 00:34:13,108
 Nic mì nenapadá.
 
 667
@@ -2686,10 +2686,10 @@ Moje krev. Pokud se se správnì pamatuji, pøi pøíchodu mi vybuchnou žíly.
 
 668
 00:34:17,780 --> 00:34:19,920
-No, zkusíme to a uvidíme co se stane.
+No, zkusíme to a uvidíme, co se stane.
 
 669
-00:34:20,230 --> 00:34:21,650
+00:34:20,230 --> 00:34:21,099
 Jamesi...
 
 670
@@ -2709,11 +2709,11 @@ Musíte mi prozradit své tajemství.
 Tøeba jednoho sluneèného letního dne nad šálkem èaje.
 
 674
-00:34:31,710 --> 00:34:33,590
+00:34:31,710 --> 00:34:33,483
 Tøeba také ne.
 
 675
-00:34:34,520 --> 00:34:36,930
+00:34:34,520 --> 00:34:36,730
 Mìla jste je celou dobu.
 
 676
@@ -2729,7 +2729,7 @@ Kéž by mì to napadlo?
 Co to je?
 
 679
-00:34:41,610 --> 00:34:44,640
+00:34:41,610 --> 00:34:44,439
 Krystalické diamanty se stopou palladia.
 
 680
@@ -2745,23 +2745,23 @@ Neutralizuje minerály v jeho krvi.
 Takže neudìlá ka-bùùùm.
 
 683
-00:34:49,440 --> 00:34:51,280
-Naneštìstí.
+00:34:49,440 --> 00:34:50,933
+FIX_ME Naneštìstí.   dal bych "bohužel"
 
 684
-00:35:01,650 --> 00:35:03,940
+00:35:02,150 --> 00:35:03,722
 To je úleva.
 
 685
-00:35:04,210 --> 00:35:05,860
+00:35:04,210 --> 00:35:05,850
 Sbohem, Jamesi.
 
 686
-00:35:11,640 --> 00:35:12,730
+00:35:11,640 --> 00:35:12,237
 Jo.
 
 687
-00:35:12,790 --> 00:35:14,080
+00:35:12,790 --> 00:35:13,333
 Jdeme.
 
 688
@@ -2801,20 +2801,20 @@ Místnost plná zla, o kterém jste nikdy neslyšeli.
 Zní to tak nespravedlivì.
 
 697
-00:35:43,640 --> 00:35:47,580
-Ne, tohle je proce, který byl poprvé objeven v...
+00:35:43,640 --> 00:35:47,400
+Ne, tohle je proces, který byl poprvé objeven v...
 
 698
-00:35:47,650 --> 00:35:48,840
+00:35:47,650 --> 00:35:48,642
 Mezopotámii.
 
 699
-00:35:48,900 --> 00:35:51,680
+00:35:48,900 --> 00:35:51,388
 - V roce 1230 pøe... - 50.
 
 700
 00:35:51,930 --> 00:35:54,190
-1250 pøed naším letopoètem.
+FIX_ME 1250 pøed Kristem.  nebo" pø.n.l"-tak je tam zkratka a a o výjde do èasování
 
 701
 00:35:54,260 --> 00:35:59,830
@@ -2825,8 +2825,8 @@ Každopádnì, bronzovací proces byl pøíliš nároèný a tak trochu nedobrovolný... øe
 Tady, funguje to tak, že kryogenicky zmrazíme tìla a uchováme je bronzováním
 
 703
-00:36:06,600 --> 00:36:08,610
-Naneštìstí...
+00:36:06,600 --> 00:36:07,877
+FIX_ME Naneštìstí...   zase bych dal"bohužel" je to více èeské
 
 704
 00:36:08,930 --> 00:36:10,620
@@ -2841,19 +2841,19 @@ Vážnì? Kolikrát jsi to zkoušel?
 Je to asi tak bezbolestné jako meè v hrudi.
 
 707
-00:36:14,790 --> 00:36:16,310
+00:36:14,790 --> 00:36:16,010
 Trefné.
 
 708
-00:36:16,430 --> 00:36:18,870
+00:36:16,430 --> 00:36:18,703
 Jaká nádherná bytost.
 
 709
-00:36:18,950 --> 00:36:20,800
+00:36:18,950 --> 00:36:20,299
 Dárek na rozlouèenou, Arthure?
 
 710
-00:36:20,890 --> 00:36:22,210
+00:36:20,890 --> 00:36:21,871
 To jsi nemusel.
 
 711
@@ -2869,7 +2869,7 @@ Pete a Myko, ukradené artefakty dorazily.
 Pomùžete mi je dát na pùvodní místa?
 
 714
-00:36:30,140 --> 00:36:31,920
+00:36:30,140 --> 00:36:31,102
 Jo, v pohodì.
 
 715
@@ -2881,20 +2881,20 @@ Radìji bych to nevidìla.
 Poèkej, no tak. Já to chci vidìt!
 
 717
-00:36:35,910 --> 00:36:38,120
+00:36:35,910 --> 00:36:38,106
 Kdy nìco takového uvidíme pøíštì?
 
 718
-00:36:38,230 --> 00:36:39,790
+00:36:38,230 --> 00:36:39,110
 Doufejme, že nikdy.
 
 719
-00:36:43,670 --> 00:36:46,030
+00:36:43,670 --> 00:36:45,542
 FIX_ME Who says you can nevergo
 home again,eh,arthur?
 
 720
-00:36:47,250 --> 00:36:48,740
+00:36:47,250 --> 00:36:48,236
 Jamesi.
 
 721
@@ -2902,19 +2902,19 @@ Jamesi.
 Víš, já myslel, že ti toho budu chtít øíct mnohem víc.
 
 722
-00:37:04,370 --> 00:37:05,990
+00:37:04,370 --> 00:37:05,483
 Sbohem, Jamesi.
 
 723
-00:37:10,420 --> 00:37:11,830
+00:37:10,420 --> 00:37:11,153
 Arthure...
 
 724
-00:37:12,950 --> 00:37:15,000
+00:37:12,950 --> 00:37:14,657
 Poøád mùžeme být partneøi.
 
 725
-00:37:15,130 --> 00:37:17,030
+00:37:15,130 --> 00:37:16,295
 Prosíš o život?
 
 726
@@ -2922,15 +2922,15 @@ Prosíš o život?
 To se k tobì nehodí.
 
 727
-00:37:18,430 --> 00:37:20,540
+00:37:18,430 --> 00:37:19,884
 Neprosím o život.
 
 728
-00:37:20,620 --> 00:37:23,130
+00:37:20,620 --> 00:37:22,450
 Prosím o tvùj.
 
 729
-00:37:51,750 --> 00:37:53,950
+00:37:51,750 --> 00:37:53,913
 Víš, možná bych mìl zkontrolovat Artieho.
 
 730
@@ -2942,28 +2942,28 @@ Jsem si jistá, že je v poøádku.
 Víte co, zajdu ho zkontrolovat.
 
 732
-00:38:00,710 --> 00:38:03,290
-Za okamžik jsem zpìt.
+00:38:00,710 --> 00:38:02,100
+- Za okamžik jsem zpìt. - Fajn.
 
 733
-00:38:12,190 --> 00:38:14,000
+00:38:12,190 --> 00:38:13,660
 Taková škoda.
 
 734
-00:38:21,440 --> 00:38:28,860
+00:38:21,440 --> 00:38:27,120
 FIX_ME Gonna go downtown with my
 baby 'cause she looks so- -asi nejaka pisnicka?
 
 735
-00:38:56,910 --> 00:38:58,220
-Otoè se.
+00:38:56,910 --> 00:38:57,838
+Otoè to.
 
 736
 00:39:01,310 --> 00:39:04,790
 Má milá, dìkuji, že sis vzpomnìla na naši schùzku.
 
 737
-00:39:07,530 --> 00:39:09,550
+00:39:07,530 --> 00:39:09,498
 Ach, to je úleva!
 
 738
@@ -2971,35 +2971,35 @@ Ach, to je úleva!
 Zamávej Arthurovi, aby si pozdìji vychutnal záznam.
 
 739
-00:39:32,760 --> 00:39:33,680
-Jsme hotoví.
+00:39:32,760 --> 00:39:33,564
+FIX_ME Jsme hotoví.  dal bych spíše"jsme sami" nebo "je tady èisto"
 
 740
 00:39:37,280 --> 00:39:39,010
 Už to nebudeš potøebovat.
 
 741
-00:39:47,820 --> 00:39:49,520
+00:39:47,820 --> 00:39:49,352
 Takže, stálo to všechno za to?
 
 742
-00:39:49,620 --> 00:39:51,850
+00:39:49,620 --> 00:39:51,719
 Neomezený pøístup do Skladištì 13?
 
 743
-00:39:52,110 --> 00:39:53,760
+00:39:52,110 --> 00:39:53,209
 To ukáže èas.
 
 744
-00:39:53,950 --> 00:39:55,080
+00:39:53,950 --> 00:39:55,016
 Teï máme práci.
 
 745
-00:39:55,150 --> 00:39:59,420
+00:39:55,150 --> 00:39:59,212
 Kódy, které jsem vložil, když se Arthur pokusil, dostat na mou stránku musí být aktivovány.
 
 746
-00:39:59,690 --> 00:40:01,240
+00:39:59,690 --> 00:40:00,340
 Do toho.
 
 747
@@ -3015,7 +3015,7 @@ Pozdì jako obvykle.
 Jak ses... padej od toho!
 
 750
-00:40:24,830 --> 00:40:26,130
+00:40:24,830 --> 00:40:25,863
 Nebo co?
 
 751
@@ -3039,7 +3039,7 @@ Víš, témìø všechno se dá obejít...
 Paráku!
 
 756
-00:40:42,010 --> 00:40:43,060
+00:40:42,010 --> 00:40:42,687
 Ne!
 
 757
@@ -3047,52 +3047,54 @@ Ne!
 Artie. Artie! Artie!
 
 758
-00:41:06,120 --> 00:41:07,800
+00:41:06,120 --> 00:41:07,797
 Slyšíš mì?
 
 759
-00:41:09,000 --> 00:41:10,430
+00:41:09,000 --> 00:41:10,354
 Artie! Vstávej!
 
 760
 00:41:12,260 --> 00:41:17,940
-Artie. Artie! Artie! Vstávej!
+ - Artie. Artie! Artie!  - Vstávej!
 
 761
-00:41:23,060 --> 00:41:24,870
+00:41:23,060 --> 00:41:24,694
 Pete, rychle!
 
 762
-00:41:25,060 --> 00:41:26,510
+00:41:25,060 --> 00:41:25,948
 Bacha.
 
 763
-00:41:37,370 --> 00:41:39,380
-***
+00:41:27,700 --> 00:41:32,107
+Ne, ne, ne, ne, ne...
 
 764
-00:41:39,540 --> 00:41:43,070
-Jamesi, poèkej!
+00:41:37,170 --> 00:41:39,380
+- Artie! - Poèkej! Poèkej!
 
 765
-00:41:55,580 --> 00:41:57,810
-**
+00:41:39,540 --> 00:41:41,677
+Jamesi!
 
 766
-00:42:01,210 --> 00:42:04,190
-***
+00:41:55,079 --> 00:41:55,579
+Artie!
 
 767
-00:42:04,850 --> 00:42:08,890
-****
+00:41:55,580 --> 00:41:57,810
+<i>FIX_ME Spuštìna sekvence sebedestrukce   - nebo tak nìco</i>
 
 768
-00:43:07,050 --> 00:43:09,860
-<font color=#38B0DE>-=www.ydy.com/bbs=-
-Proudly Presents</font>
+00:42:01,210 --> 00:42:04,190
+<i>FIX_ME  bude znièeno za pìt...   -musíš to z odposlechu</i>
 
 769
-00:43:10,060 --> 00:43:13,410
-<font color=#38B0DE>-=www.ydy.com/bbs=-
-Synsc:   YTET- ¶¬AßµÄÖí °îµÂÖí  </font>
+00:42:04,850 --> 00:42:08,890
+<i>za ètyøi, tøi, dva, jedna...</i>
+
+770
+00:43:10,050 --> 00:43:13,410
+<i>Tak zase za pùl roku!  Užíjte si titulky.</i>
 
